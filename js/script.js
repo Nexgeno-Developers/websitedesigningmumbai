@@ -157,3 +157,47 @@ $(window).scroll(function () {
     }, false);
 })();
 // form home validate==========================================
+
+
+///////////// tabs portfolio //////////////
+
+           document.addEventListener('DOMContentLoaded', function() {
+    // Get all filter buttons and project cards
+    const filterButtons = document.querySelectorAll('.filter-btn');
+    const projectCards = document.querySelectorAll('.col-md-6.col-lg-4');
+    
+    // Add click event listeners to each filter button
+    filterButtons.forEach(button => {
+        button.addEventListener('click', function() {
+            // Remove active class from all buttons
+            filterButtons.forEach(btn => btn.classList.remove('active'));
+            
+            // Add active class to clicked button
+            this.classList.add('active');
+            
+            // Get the filter value (text content of the button)
+            const filterValue = this.textContent.trim();
+            
+            // Show/hide projects based on filter
+            projectCards.forEach(card => {
+                // Get the category badge text (remove any extra whitespace)
+                const categoryBadge = card.querySelector('.badge.rounded-pill');
+                const category = categoryBadge ? categoryBadge.textContent.trim() : '';
+                
+                // Show all projects if "All" is selected
+                if (filterValue === 'All') {
+                    card.style.display = 'block';
+                } 
+                // Show only projects that match the selected category
+                else if (category === filterValue) {
+                    card.style.display = 'block';
+                } 
+                // Hide projects that don't match
+                else {
+                    card.style.display = 'none';
+                }
+            });
+        });
+    });
+}); 
+     
