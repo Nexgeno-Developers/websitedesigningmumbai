@@ -15,7 +15,7 @@
         </div>
 
         <div class="hero-content">
-            <div class="max-w-4xl mx-auto space-y-8">
+            <div class="">
                 <!-- Badge -->
                 <div class="hero-badge">
                     <span class="badge-dot"></span>
@@ -53,15 +53,19 @@
                 <div id="counter" class="hero-stats">
                     <div class="text-center">
                         <div class="counter-value stat-number" data-count="4500">0</div>
-                        <div class="stat-label">Projects Delivered</div>
+                        <div class="stat-label">Projects Done</div>
                     </div>
                     <div class="text-center">
                         <div class="counter-value stat-number" data-count="3000">0</div>
-                        <div class="stat-label">Client Satisfaction</div>
+                        <div class="stat-label">Happy Clients</div>
                     </div>
                     <div class="text-center">
                         <div class="counter-value stat-number" data-count="17">0</div>
                         <div class="stat-label">Years Experience</div>
+                    </div>
+                    <div class="text-center">
+                        <div class="counter-value stat-number" data-count="45">0</div>
+                        <div class="stat-label">Dedicated Employees</div>
                     </div>
                 </div>
             </div>
@@ -86,7 +90,7 @@
             <div class="row g-4 mb-5">
                 <!-- Service 1 -->
                 <div class="col-md-6 col-lg-4">
-                    <div class="service-card animate-slide-up">
+                    <div class="service-card">
                         <div class="service-icon-container">
                             <i class="bi bi-globe service-icon"></i>
                         </div>
@@ -122,7 +126,7 @@
 
                 <!-- Service 2 -->
                 <div class="col-md-6 col-lg-4">
-                    <div class="service-card animate-slide-up">
+                    <div class="service-card">
                         <div class="service-icon-container">
                             <i class="bi bi-cart service-icon"></i>
                         </div>
@@ -158,7 +162,7 @@
 
                 <!-- Service 3 -->
                 <div class="col-md-6 col-lg-4">
-                    <div class="service-card animate-slide-up">
+                    <div class="service-card">
                         <div class="service-icon-container">
                             <i class="bi bi-graph-up service-icon"></i>
                         </div>
@@ -194,7 +198,7 @@
 
                 <!-- Service 4 -->
                 <div class="col-md-6 col-lg-4">
-                    <div class="service-card animate-slide-up">
+                    <div class="service-card">
                         <div class="service-icon-container">
                             <i class="bi bi-palette service-icon"></i>
                         </div>
@@ -230,7 +234,7 @@
 
                 <!-- Service 5 -->
                 <div class="col-md-6 col-lg-4">
-                    <div class="service-card animate-slide-up">
+                    <div class="service-card">
                         <div class="service-icon-container">
                             <i class="bi bi-search service-icon"></i>
                         </div>
@@ -240,10 +244,6 @@
                             optimization.
                         </p>
                         <ul class="feature-list">
-                            <li class="feature-item">
-                                <span class="feature-bullet"></span>
-                                i18n Implementation
-                            </li>
                             <li class="feature-item">
                                 <span class="feature-bullet"></span>
                                 RTL Support
@@ -266,7 +266,7 @@
 
                 <!-- Service 6 -->
                 <div class="col-md-6 col-lg-4">
-                    <div class="service-card animate-slide-up">
+                    <div class="service-card">
                         <div class="service-icon-container">
                             <i class="bi bi-phone service-icon"></i>
                         </div>
@@ -316,7 +316,7 @@
         <div class="container px-4">
             <div class="text-center mb-5">
                 <h2 class="section-heading">
-                    Why Choose Us?
+                    Why <span class="gradient-text">Choose Us?</span>
                 </h2>
                 <p class="section-subheading">
                     We combine cutting-edge technology with proven expertise to deliver
@@ -484,7 +484,7 @@
 
     <!-- Industries we serve -->
     <section class="industries-section">
-        <div class="container px-4">
+        <div class="container">
             <div class="text-center mb-5 animate-fade-in">
                 <h2 class="section-heading">
                     Industries <span class="gradient-text">We Serve</span>
@@ -495,9 +495,9 @@
                 </p>
             </div>
 
-            <div class="row g-4 justify-content-center">
+            <div class="d-flex flex-wrap justify-content-evenly align-items-center">
                 <!-- Small Business -->
-                <div class="col-6 col-md-3 col-lg-2">
+                <div class="industry-item">
                     <div class="industry-card animate-scale-in" style="animation-delay: 0.1s">
                         <div class="industry-icon-container">
                             <i class="bi bi-buildings industry-icon"></i>
@@ -507,7 +507,7 @@
                 </div>
 
                 <!-- Healthcare -->
-                <div class="col-6 col-md-3 col-lg-2">
+                <div class="industry-item">
                     <div class="industry-card animate-scale-in" style="animation-delay: 0.2s">
                         <div class="industry-icon-container">
                             <i class="bi bi-heart industry-icon"></i>
@@ -517,7 +517,7 @@
                 </div>
 
                 <!-- Retail -->
-                <div class="col-6 col-md-3 col-lg-2">
+                <div class="industry-item">
                     <div class="industry-card animate-scale-in" style="animation-delay: 0.3s">
                         <div class="industry-icon-container">
                             <i class="bi bi-bag industry-icon"></i>
@@ -527,7 +527,7 @@
                 </div>
 
                 <!-- Startups -->
-                <div class="col-6 col-md-3 col-lg-2">
+                <div class="industry-item">
                     <div class="industry-card animate-scale-in" style="animation-delay: 0.4s">
                         <div class="industry-icon-container">
                             <i class="bi bi-rocket industry-icon"></i>
@@ -537,7 +537,7 @@
                 </div>
 
                 <!-- Legal -->
-                <div class="col-6 col-md-3 col-lg-2">
+                <div class="industry-item">
                     <div class="industry-card animate-scale-in" style="animation-delay: 0.5s">
                         <div class="industry-icon-container">
                             <i class="bi bi-bank industry-icon"></i>
@@ -547,7 +547,7 @@
                 </div>
 
                 <!-- Education -->
-                <div class="col-6 col-md-3 col-lg-2">
+                <div class="industry-item">
                     <div class="industry-card animate-scale-in" style="animation-delay: 0.6s">
                         <div class="industry-icon-container">
                             <i class="bi bi-mortarboard industry-icon"></i>
@@ -557,7 +557,7 @@
                 </div>
 
                 <!-- Events -->
-                <div class="col-6 col-md-3 col-lg-2">
+                <div class="industry-item">
                     <div class="industry-card animate-scale-in" style="animation-delay: 0.7s">
                         <div class="industry-icon-container">
                             <i class="bi bi-calendar industry-icon"></i>
@@ -567,7 +567,7 @@
                 </div>
 
                 <!-- Nonprofits -->
-                <div class="col-6 col-md-3 col-lg-2">
+                <div class="industry-item">
                     <div class="industry-card animate-scale-in" style="animation-delay: 0.8s">
                         <div class="industry-icon-container">
                             <i class="bi bi-people industry-icon"></i>
@@ -646,7 +646,7 @@
                 <!-- Benefits -->
                 <div class="col-lg-6 animate-slide-up" style="animation-delay: 0.2s">
                     <div class="benefits-container">
-                        <div class="mb-5">
+                        <div class="mb-4">
                             <div class="benefit-item">
                                 <div class="benefit-number">1</div>
                                 <div>
