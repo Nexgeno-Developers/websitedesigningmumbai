@@ -110,11 +110,11 @@
                                 </div>
                             </div>
 
-                            <button class="btn btn-warning w-100 d-flex align-items-center justify-content-center gap-2"
-                                onclick="window.location.href='/services/websites'">
+                            <a class="btn btn-warning w-100 d-flex align-items-center justify-content-center gap-2"
+                               href="/services-detail.htm">
                                 View Details
                                 <i class="bi-arrow-right"></i>
-                            </button>
+                            </a>
                         </div>
                     </div>
                 </div>
@@ -212,11 +212,11 @@
                                 </div>
                             </div>
 
-                            <button class="btn btn-warning w-100 d-flex align-items-center justify-content-center gap-2"
-                                onclick="window.location.href='/services/ecommerce'">
+                           <a class="btn btn-warning w-100 d-flex align-items-center justify-content-center gap-2"
+                               href="/services-detail.htm">
                                 View Details
                                 <i class="bi-arrow-right"></i>
-                            </button>
+                            </a>
                         </div>
                     </div>
                 </div>
@@ -313,11 +313,11 @@
                                 </div>
                             </div>
 
-                            <button class="btn btn-warning w-100 d-flex align-items-center justify-content-center gap-2"
-                                onclick="window.location.href='/services/wordpress'">
+                           <a class="btn btn-warning w-100 d-flex align-items-center justify-content-center gap-2"
+                               href="/services-detail.htm">
                                 View Details
                                 <i class="bi-arrow-right"></i>
-                            </button>
+                            </a>
                         </div>
                     </div>
                 </div>
@@ -415,11 +415,11 @@
                                 </div>
                             </div>
 
-                            <button class="btn btn-warning w-100 d-flex align-items-center justify-content-center gap-2"
-                                onclick="window.location.href='/services/web-apps'">
+                           <a class="btn btn-warning w-100 d-flex align-items-center justify-content-center gap-2"
+                               href="/services-detail.htm">
                                 View Details
                                 <i class="bi-arrow-right"></i>
-                            </button>
+                            </a>
                         </div>
                     </div>
                 </div>
@@ -514,11 +514,11 @@
                                 </div>
                             </div>
 
-                            <button class="btn btn-warning w-100 d-flex align-items-center justify-content-center gap-2"
-                                onclick="window.location.href='/services/multilingual'">
+                           <a class="btn btn-warning w-100 d-flex align-items-center justify-content-center gap-2"
+                               href="/services-detail.htm">
                                 View Details
                                 <i class="bi-arrow-right"></i>
-                            </button>
+                            </a>
                         </div>
                     </div>
                 </div>
@@ -614,11 +614,11 @@
                                 </div>
                             </div>
 
-                            <button class="btn btn-warning w-100 d-flex align-items-center justify-content-center gap-2"
-                                onclick="window.location.href='/services/landing-pages'">
+                           <a class="btn btn-warning w-100 d-flex align-items-center justify-content-center gap-2"
+                               href="/services-detail.htm">
                                 View Details
                                 <i class="bi-arrow-right"></i>
-                            </button>
+                            </a>
                         </div>
                     </div>
                 </div>
@@ -713,11 +713,11 @@
                                 </div>
                             </div>
 
-                            <button class="btn btn-warning w-100 d-flex align-items-center justify-content-center gap-2"
-                                onclick="window.location.href='/services/pwa'">
+                           <a class="btn btn-warning w-100 d-flex align-items-center justify-content-center gap-2"
+                               href="/services-detail.htm">
                                 View Details
                                 <i class="bi-arrow-right"></i>
-                            </button>
+                            </a>
                         </div>
                     </div>
                 </div>
@@ -812,11 +812,11 @@
                                 </div>
                             </div>
 
-                            <button class="btn btn-warning w-100 d-flex align-items-center justify-content-center gap-2"
-                                onclick="window.location.href='/services/seo'">
+                         <a class="btn btn-warning w-100 d-flex align-items-center justify-content-center gap-2"
+                               href="/services-detail.htm">
                                 View Details
                                 <i class="bi-arrow-right"></i>
-                            </button>
+                            </a>
                         </div>
                     </div>
                 </div>
