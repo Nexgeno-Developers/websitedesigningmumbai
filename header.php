@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Bootstrap 5 CSS -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/bootstrap.min.css" rel="stylesheet">
     <!-- Bootstrap Icons -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.0/font/bootstrap-icons.css">
     <!-- Custom css  -->
@@ -13,15 +13,18 @@
     <title>WebDesign Mumbai</title>
 </head>
 
+
+<style>
+    .header_logo {
+        width:230px;
+    }
+    .scrolled .text-white {
+    color: #000 !important;
+}
+</style>
 <body>
 
-    <!-- Background Gradient -->
-    <div class="hero-gradient"></div>
-
-    <!-- Background Image -->
-    <div class="hero-bg-image" style="background-image: url('img/hero-image.jpg');"></div>
-    <!-- Bottom Gradient Fade -->
-    <div class="bottom-gradient"></div>
+   
     <header class="main-header fixed-top py-0 z-3" id="mainHeader">
         <!-- Top Bar - Contact Info -->
         <div class="d-none d-md-block border-bottom border-light py-2">
@@ -50,8 +53,8 @@
                 <!-- Logo -->
                 <div class="d-flex align-items-center">
                     <div class="me-2 rounded d-flex align-items-center justify-content-center">
-                        <img src="img/websie_designing_logo.png" alt="Logo" style=" height: 30px;"
-                            class="me-2 rounded object-fit-cover" />
+                       <a href="/"> <img src="img/websie_designing_logo.png" alt="Logo"
+                            class="me-2 rounded object-fit-cover header_logo" /></a>
                     </div>
                     <!-- <div>
                         <div class="fw-bold fs-5 text-white">WebDesign</div>
@@ -69,19 +72,19 @@
                 <div class="collapse navbar-collapse">
                     <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
                         <li class="nav-item mx-2 text-white">
-                            <a class="nav-link position-relative px-2 text-white" href="#home">Home</a>
+                            <a class="nav-link position-relative px-2 text-white" href="/">Home</a>
                         </li>
                         <li class="nav-item mx-2">
-                            <a class="nav-link position-relative px-2 text-white" href="#services">Services</a>
+                            <a class="nav-link position-relative px-2 text-white" href="services.htm">Services</a>
                         </li>
                         <li class="nav-item mx-2">
-                            <a class="nav-link position-relative px-2 text-white" href="#portfolio">Portfolio</a>
+                            <a class="nav-link position-relative px-2 text-white" href="portfolio.htm">Portfolio</a>
                         </li>
                         <li class="nav-item mx-2">
-                            <a class="nav-link position-relative px-2 text-white" href="#about">About</a>
+                            <a class="nav-link position-relative px-2 text-white" href="about.htm">About</a>
                         </li>
                         <li class="nav-item mx-2">
-                            <a class="nav-link position-relative px-2 text-white" href="#contact">Contact</a>
+                            <a class="nav-link position-relative px-2 text-white" href="contact.htm">Contact</a>
                         </li>
                     </ul>
                     <button class="btn btn-warning fw-medium ms-lg-4 d-none d-md-inline-block">
