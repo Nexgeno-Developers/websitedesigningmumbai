@@ -1,16 +1,47 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!-- Bootstrap 5 CSS -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-    <!-- Bootstrap Icons -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.0/font/bootstrap-icons.css">
-    <!-- Custom css  -->
-    <link rel="stylesheet" href="css/style.css">
-    <title>WebDesign Mumbai</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  
+  <!-- SEO Meta Tags -->
+  <title>Web Design Mumbai | Website Development Company in Mumbai</title>
+  <meta name="description" content="Top website design and development company in Mumbai offering custom websites, responsive designs, and SEO-friendly solutions for your business." />
+  <meta name="keywords" content="web design Mumbai, website development Mumbai, responsive website, SEO friendly website, Mumbai web design agency" />
+  <meta name="robots" content="index, follow" />
+  <link rel="canonical" href="https://websitedesigningmumbai.in/" />
+
+  <!-- Google Site Verification -->
+  <meta name="google-site-verification" content="ezW3wl9vsk3Cmp87SiBcXZjzw29ejfE0VwRvQ25uQ-M" />
+
+  <!-- Open Graph (OG) for better social sharing -->
+  <meta property="og:title" content="Web Design Mumbai | Website Development Company" />
+  <meta property="og:description" content="Professional website design services in Mumbai with a focus on performance, SEO, and user experience." />
+  <meta property="og:url" content="https://websitedesigningmumbai.in/" />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="https://websitedesigningmumbai.in/images/og-image.jpg" />
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Web Design Mumbai | Website Development Company" />
+  <meta name="twitter:description" content="Custom website design & development company based in Mumbai. Get a responsive and SEO-optimized website for your brand." />
+  <meta name="twitter:image" content="https://websitedesigningmumbai.in/images/og-image.jpg" /> 
+
+  <!-- Bootstrap 5 CSS -->
+  <link href="css/bootstrap.min.css" rel="stylesheet" />
+  <!-- Bootstrap Icons -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.0/font/bootstrap-icons.css" rel="stylesheet" />
+  <!-- Custom CSS -->
+  <link href="css/style.css" rel="stylesheet" />
+
+  <!-- Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-160283858-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'UA-160283858-1');
+  </script>
 </head>
 
 
