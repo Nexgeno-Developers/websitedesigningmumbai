@@ -1524,3 +1524,133 @@
     }
 
     /* Contact us==================================================== */
+
+
+
+
+
+
+    /* Portfolio section==================================================== */
+        
+        .accent-gradient {
+            background: linear-gradient(135deg, var(--accent) 0%, var(--accent-light) 100%);
+        }
+        
+        .card-hover {
+            transition: all 0.3s ease;
+        }
+        
+        .card-hover:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+        }
+        
+        .project-image {
+            height: 240px;
+            background-color: #f8f9fa;
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .project-overlay {
+            position: absolute;
+            inset: 0;
+            background: linear-gradient(135deg, #19274e 0%, #450c8f 100%);
+            opacity: 0.8;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            color: white;
+            text-align: center;
+            padding: 1rem;
+        }
+        
+        .project-link {
+            position: absolute;
+            top: 1rem;
+            right: 1rem;
+            opacity: 0;
+            transition: opacity 0.3s ease;
+        }
+        
+        .card-hover:hover .project-link {
+            opacity: 1;
+        }
+        
+        .badge-tech {
+            background-color: #f8f9fa;
+            color: var(--text-dark);
+            font-weight: 500;
+            font-size: 0.75rem;
+            padding: 0.25rem 0.75rem;
+            border-radius: 50rem;
+        }
+        
+        .badge-feature {
+            background-color: #e9ecef;
+            color: var(--text-dark);
+            font-weight: 500;
+            font-size: 0.75rem;
+            padding: 0.25rem 0.75rem;
+            border-radius: 50rem;
+        }
+        
+        .btn-hero {
+            background-color: var(--accent);
+            color: var(--text-dark);
+            font-weight: 500;
+            border: none;
+        }
+        
+        .btn-hero:hover {
+            background-color: var(--accent-light);
+            color: var(--text-dark);
+        }
+        
+        .btn-hero-outline {
+            background-color: transparent;
+            color: white;
+            font-weight: 500;
+            border: 2px solid white;
+        }
+        
+        .btn-hero-outline:hover {
+            background-color: white;
+            color: var(--text-dark);
+        }
+        
+        .filter-btn {
+            border-radius: 50rem;
+            padding: 0.5rem 1.25rem;
+        }
+        
+        .filter-btn.active {
+            background-color: var(--accent);
+            color: var(--text-dark);
+            border-color: var(--accent);
+        }
+
+        .filter-btn:hover{
+            background-color: var(--accent);
+            color: var(--text-dark);
+            border-color: var(--accent);
+        }
+        
+        .bg-light-blue {
+            background-color: rgba(26, 58, 143, 0.05);
+        }
+
+        .protfolio-list-background{
+          background: #f3f1f1c4;
+        }
+
+        .view-more-btn-portfolio:hover{
+          background: var(--accent);
+        }
+
+        .view-more-btn-portfolio{
+          padding: 5px 10px !important;
+          border-radius: .45rem !important;
+        }
+    /* Portfolio section==================================================== */
