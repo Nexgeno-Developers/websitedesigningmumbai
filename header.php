@@ -1,3 +1,11 @@
+<?php
+include_once 'seo.php';
+
+// Detect page name (assumes .php extension)
+$page = basename($_SERVER['PHP_SELF'], ".php");
+$seo = get_seo_data($page);
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -5,26 +13,26 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   
   <!-- SEO Meta Tags -->
-  <title>Web Design Mumbai | Website Development Company in Mumbai</title>
-  <meta name="description" content="Top website design and development company in Mumbai offering custom websites, responsive designs, and SEO-friendly solutions for your business." />
-  <meta name="keywords" content="web design Mumbai, website development Mumbai, responsive website, SEO friendly website, Mumbai web design agency" />
+  <title><?php echo htmlspecialchars($seo['title']); ?></title>
+  <meta name="description" content="<?php echo htmlspecialchars($seo['description']); ?>" />
+  <meta name="keywords" content="<?php echo htmlspecialchars($seo['description']); ?>" />
   <meta name="robots" content="index, follow" />
-  <link rel="canonical" href="https://websitedesigningmumbai.in/" />
+<link rel="canonical" href="<?php echo 'https://' . $_SERVER['HTTP_HOST'] . strtok($_SERVER['REQUEST_URI'], '?'); ?>" />
+
 
   <!-- Google Site Verification -->
   <meta name="google-site-verification" content="ezW3wl9vsk3Cmp87SiBcXZjzw29ejfE0VwRvQ25uQ-M" />
 
   <!-- Open Graph (OG) for better social sharing -->
-  <meta property="og:title" content="Web Design Mumbai | Website Development Company" />
-  <meta property="og:description" content="Professional website design services in Mumbai with a focus on performance, SEO, and user experience." />
-  <meta property="og:url" content="https://websitedesigningmumbai.in/" />
+  <meta property="og:title" content="<?php echo htmlspecialchars($seo['title']); ?>" />
+  <meta property="og:description" content="<?php echo htmlspecialchars($seo['description']); ?>" />
+  <meta property="og:url" content="<?php echo 'https://' . $_SERVER['HTTP_HOST'] . strtok($_SERVER['REQUEST_URI'], '?'); ?>" />
   <meta property="og:type" content="website" />
   <meta property="og:image" content="https://websitedesigningmumbai.in/images/og-image.jpg" />
 
   <!-- Twitter Card -->
-  <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Web Design Mumbai | Website Development Company" />
-  <meta name="twitter:description" content="Custom website design & development company based in Mumbai. Get a responsive and SEO-optimized website for your brand." />
+  <meta name="twitter:title" content="<?php echo htmlspecialchars($seo['title']); ?>" />
+  <meta name="twitter:description" content="<?php echo htmlspecialchars($seo['description']); ?>" />
   <meta name="twitter:image" content="https://websitedesigningmumbai.in/images/og-image.jpg" /> 
 
   <!-- Bootstrap 5 CSS -->
