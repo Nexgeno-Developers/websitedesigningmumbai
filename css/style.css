@@ -1570,6 +1570,7 @@
       color: white;
       text-align: center;
       padding: 1rem;
+      box-shadow: 1000px 1000px 1000px 1000px #00000085 inset;
     }
 
     .project-link {

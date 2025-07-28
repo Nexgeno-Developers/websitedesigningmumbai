@@ -32,12 +32,14 @@
     <section class="py-5 protfolio-list-background">
         <div class="container py-5">
             <div class="row g-4">
-                <!-- Project 1 -->
+                <!-- ecommerceProject 1 -->
                 <div class="col-md-6 col-lg-4">
                     <div class="card card-hover h-100 border-0">
                         <div class="project-image">
-                            <div class="project-overlay">
-                                <h3 class="h3 fw-bold mb-2">TechStore E-commerce Platform</h3>
+                            <div class="project-overlay"
+                                 style="background-image:  url('img/atfleur.webp'); background-size: cover; background-position: center; height: 300px;"
+    >
+                                <h3 class="h3 fw-bold mb-2">Atfleurs</h3>
                                 <span
                                     class="badge bg-opacity-20 text-white border border-white border-opacity-30 rounded-pill">
                                     E-commerce
@@ -56,10 +58,10 @@
                             <div class="mb-4">
                                 <h4 class="h6 fw-semibold mb-2">Technologies:</h4>
                                 <div class="d-flex flex-wrap gap-2">
-                                    <span class="badge-tech">React</span>
-                                    <span class="badge-tech">Node.js</span>
+                                    <span class="badge-tech">Laravel</span>
+                                    <!-- <span class="badge-tech">Node.js</span>
                                     <span class="badge-tech">MongoDB</span>
-                                    <span class="badge-tech">Stripe</span>
+                                    <span class="badge-tech">Stripe</span> -->
                                 </div>
                             </div>
 
@@ -78,21 +80,85 @@
                                         <p class="small fw-semibold text-accent mb-1">Results:</p>
                                         <p class="small text-muted mb-0">300% increase in online sales</p>
                                     </div>
-                                    <button class="btn btn-link p-0 text-decoration-none view-more-btn-portfolio text-dark">
-                                        View Details <i class="bi-arrow-right ms-1"></i>
-                                    </button>
+                                   <a href="https://atfleurs.com/" target="_blank" rel="noopener noreferrer">
+  <button class="btn btn-link p-0 text-decoration-none view-more-btn-portfolio text-dark">
+    View Details <i class="bi bi-arrow-right ms-1"></i>
+  </button>
+</a>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+ <!-- ecommerce Project 3 -->
+                <div class="col-md-6 col-lg-4">
+                    <div class="card card-hover h-100 border-0">
+                        <div class="project-image">
+                             <div class="project-overlay"
+                                 style="background-image:  url('img/motiwala.webp'); background-size: cover; background-position: center; height: 300px;"
+    >
+                                <h3 class="h3 fw-bold mb-2">Motiwala Jewels</h3>
+                                <span
+                                    class="badge bg-opacity-20 text-white border border-white border-opacity-30 rounded-pill">
+                                    E-commerce
+                                </span>
+                            </div>
+                            <button class="project-link btn btn-sm btn-light rounded-circle">
+                                <i class="bi-box-arrow-up-right"></i>
+                            </button>
+                        </div>
+                        <div class="card-body">
+                            <p class="text-muted mb-4">
+                                Modern e-commerce platform with advanced filtering, payment integration, and inventory
+                                management.
+                            </p>
+
+                            <div class="mb-4">
+                                <h4 class="h6 fw-semibold mb-2">Technologies:</h4>
+                                <div class="d-flex flex-wrap gap-2">
+                                    <span class="badge-tech">Laravel</span>
+                                    <!-- <span class="badge-tech">Node.js</span>
+                                    <span class="badge-tech">MongoDB</span>
+                                    <span class="badge-tech">Stripe</span> -->
+                                </div>
+                            </div>
+
+                            <div class="mb-4">
+                                <h4 class="h6 fw-semibold mb-2">Key Features:</h4>
+                                <div class="d-flex flex-wrap gap-2">
+                                    <span class="badge-feature">Payment Gateway</span>
+                                    <span class="badge-feature">Inventory Management</span>
+                                    <span class="badge-feature">Real-time Chat</span>
+                                </div>
+                            </div>
+
+                            <div class="border-top pt-4">
+                                <div class="d-flex justify-content-between align-items-center">
+                                    <div>
+                                        <p class="small fw-semibold text-accent mb-1">Results:</p>
+                                        <p class="small text-muted mb-0">300% increase in online sales</p>
+                                    </div>
+                                   <a href="https://motiwalajewels.in/" target="_blank" rel="noopener noreferrer">
+  <button class="btn btn-link p-0 text-decoration-none view-more-btn-portfolio text-dark">
+    View Details <i class="bi bi-arrow-right ms-1"></i>
+  </button>
+</a>
+
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
 
-                <!-- Project 2 -->
+                <!-- Project healthcare-->
                 <div class="col-md-6 col-lg-4">
                     <div class="card card-hover h-100 border-0">
                         <div class="project-image">
-                            <div class="project-overlay">
-                                <h3 class="h3 fw-bold mb-2">Healthcare Plus Medical Portal</h3>
+                             <div class="project-overlay"
+                                  style="background-image:  url('img/hvs.webp'); background-size: cover; background-position: center; height: 300px;"
+    >
+                                <h3 class="h3 fw-bold mb-2">HVS Hospitals</h3>
                                 <span
                                     class="badge bg-opacity-20 text-white border border-white border-opacity-30 rounded-pill">
                                     Healthcare
@@ -111,10 +177,10 @@
                             <div class="mb-4">
                                 <h4 class="h6 fw-semibold mb-2">Technologies:</h4>
                                 <div class="d-flex flex-wrap gap-2">
-                                    <span class="badge-tech">React</span>
-                                    <span class="badge-tech">Express</span>
-                                    <span class="badge-tech">PostgreSQL</span>
-                                    <span class="badge-tech">WebRTC</span>
+                                    <span class="badge-tech">Next js</span>
+                                    <span class="badge-tech">Node js</span>
+                                    <span class="badge-tech">MERN</span>
+                                    <!-- <span class="badge-tech">WebRTC</span> -->
                                 </div>
                             </div>
 
@@ -133,21 +199,143 @@
                                         <p class="small fw-semibold text-accent mb-1">Results:</p>
                                         <p class="small text-muted mb-0">500+ patients registered in first month</p>
                                     </div>
-                                    <button class="btn btn-link p-0 text-decoration-none view-more-btn-portfolio text-dark">
-                                        View Details <i class="bi-arrow-right ms-1"></i>
-                                    </button>
+                                   <a href="https://www.hvshospitals.com/" target="_blank" rel="noopener noreferrer">
+  <button class="btn btn-link p-0 text-decoration-none view-more-btn-portfolio text-dark">
+    View Details <i class="bi bi-arrow-right ms-1"></i>
+  </button>
+</a>
+
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
-
-                <!-- Project 3 -->
+ <!-- healthcare 2 -->
                 <div class="col-md-6 col-lg-4">
                     <div class="card card-hover h-100 border-0">
                         <div class="project-image">
-                            <div class="project-overlay">
-                                <h3 class="h3 fw-bold mb-2">EduLearn Online Platform</h3>
+                             <div class="project-overlay"
+                                  style="background-image:  url('img/mednorris.webp'); background-size: cover; background-position: center; height: 300px;"
+    >
+                                <h3 class="h3 fw-bold mb-2">MedNorris Health Care Services</h3>
+                                <span
+                                    class="badge bg-opacity-20 text-white border border-white border-opacity-30 rounded-pill">
+                                    Healthcare
+                                </span>
+                            </div>
+                            <button class="project-link btn btn-sm btn-light rounded-circle">
+                                <i class="bi-box-arrow-up-right"></i>
+                            </button>
+                        </div>
+                        <div class="card-body">
+                            <p class="text-muted mb-4">
+                                Patient management system with appointment booking, medical records, and telemedicine
+                                features.
+                            </p>
+
+                            <div class="mb-4">
+                                <h4 class="h6 fw-semibold mb-2">Technologies:</h4>
+                                <div class="d-flex flex-wrap gap-2">
+                                    <span class="badge-tech">Wordpress</span>
+                                    <!-- <span class="badge-tech">Express</span>
+                                    <span class="badge-tech">PostgreSQL</span>
+                                    <span class="badge-tech">WebRTC</span> -->
+                                </div>
+                            </div>
+
+                            <div class="mb-4">
+                                <h4 class="h6 fw-semibold mb-2">Key Features:</h4>
+                                <div class="d-flex flex-wrap gap-2">
+                                    <span class="badge-feature">Appointment Booking</span>
+                                    <span class="badge-feature">Video Consultations</span>
+                                    <span class="badge-feature">Medical Records</span>
+                                </div>
+                            </div>
+
+                            <div class="border-top pt-4">
+                                <div class="d-flex justify-content-between align-items-center">
+                                    <div>
+                                        <p class="small fw-semibold text-accent mb-1">Results:</p>
+                                        <p class="small text-muted mb-0">500+ patients registered in first month</p>
+                                    </div>
+                                   <a href="https://mednorrishealthcare.in/" target="_blank" rel="noopener noreferrer">
+  <button class="btn btn-link p-0 text-decoration-none view-more-btn-portfolio text-dark">
+    View Details <i class="bi bi-arrow-right ms-1"></i>
+  </button>
+</a>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                 <!-- healthcare 3 -->
+                <div class="col-md-6 col-lg-4">
+                    <div class="card card-hover h-100 border-0">
+                        <div class="project-image">
+                             <div class="project-overlay"
+                                  style="background-image:  url('img/rajesh.webp'); background-size: cover; background-position: center; height: 300px;"
+    >
+                                <h3 class="h3 fw-bold mb-2">Rajesh Deshmukh</h3>
+                                <span
+                                    class="badge bg-opacity-20 text-white border border-white border-opacity-30 rounded-pill">
+                                    Healthcare
+                                </span>
+                            </div>
+                            <button class="project-link btn btn-sm btn-light rounded-circle">
+                                <i class="bi-box-arrow-up-right"></i>
+                            </button>
+                        </div>
+                        <div class="card-body">
+                            <p class="text-muted mb-4">
+                                Patient management system with appointment booking, medical records, and telemedicine
+                                features.
+                            </p>
+
+                            <div class="mb-4">
+                                <h4 class="h6 fw-semibold mb-2">Technologies:</h4>
+                                <div class="d-flex flex-wrap gap-2">
+                                    <span class="badge-tech">Wordpress</span>
+                                    <!-- <span class="badge-tech">Express</span>
+                                    <span class="badge-tech">PostgreSQL</span>
+                                    <span class="badge-tech">WebRTC</span> -->
+                                </div>
+                            </div>
+
+                            <div class="mb-4">
+                                <h4 class="h6 fw-semibold mb-2">Key Features:</h4>
+                                <div class="d-flex flex-wrap gap-2">
+                                    <span class="badge-feature">Appointment Booking</span>
+                                    <span class="badge-feature">Video Consultations</span>
+                                    <span class="badge-feature">Medical Records</span>
+                                </div>
+                            </div>
+
+                            <div class="border-top pt-4">
+                                <div class="d-flex justify-content-between align-items-center">
+                                    <div>
+                                        <p class="small fw-semibold text-accent mb-1">Results:</p>
+                                        <p class="small text-muted mb-0">500+ patients registered in first month</p>
+                                    </div>
+                                   <a href="https://rajeshdeshmukh.co.uk/" target="_blank" rel="noopener noreferrer">
+  <button class="btn btn-link p-0 text-decoration-none view-more-btn-portfolio text-dark">
+    View Details <i class="bi bi-arrow-right ms-1"></i>
+  </button>
+</a>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Project education -->
+                <div class="col-md-6 col-lg-4">
+                    <div class="card card-hover h-100 border-0">
+                        <div class="project-image">
+                            <div class="project-overlay"
+                                 style="background-image:  url('img/attari.webp'); background-size: cover; background-position: center; height: 300px;"
+    >
+                                <h3 class="h3 fw-bold mb-2">Attari Classes</h3>
                                 <span
                                     class="badge bg-opacity-20 text-white border border-white border-opacity-30 rounded-pill">
                                     Education
@@ -166,10 +354,10 @@
                             <div class="mb-4">
                                 <h4 class="h6 fw-semibold mb-2">Technologies:</h4>
                                 <div class="d-flex flex-wrap gap-2">
-                                    <span class="badge-tech">Next.js</span>
-                                    <span class="badge-tech">Python</span>
+                                    <span class="badge-tech">Laravel/PHP</span>
+                                    <!-- <span class="badge-tech">Python</span>
                                     <span class="badge-tech">Django</span>
-                                    <span class="badge-tech">AWS</span>
+                                    <span class="badge-tech">AWS</span> -->
                                 </div>
                             </div>
 
@@ -188,20 +376,143 @@
                                         <p class="small fw-semibold text-accent mb-1">Results:</p>
                                         <p class="small text-muted mb-0">10,000+ students enrolled</p>
                                     </div>
-                                    <button class="btn btn-link p-0 text-decoration-none view-more-btn-portfolio text-dark">
-                                        View Details <i class="bi-arrow-right ms-1"></i>
-                                    </button>
+                                   <a href="https://attariclasses.in/" target="_blank" rel="noopener noreferrer">
+  <button class="btn btn-link p-0 text-decoration-none view-more-btn-portfolio text-dark">
+    View Details <i class="bi bi-arrow-right ms-1"></i>
+  </button>
+</a>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+ <!-- education 2 -->
+                <div class="col-md-6 col-lg-4">
+                    <div class="card card-hover h-100 border-0">
+                        <div class="project-image">
+                            <div class="project-overlay"
+                                 style="background-image:  url('img/octa.webp'); background-size: cover; background-position: center; height: 300px;"
+    >
+                                <h3 class="h3 fw-bold mb-2">Octa Networks</h3>
+                                <span
+                                    class="badge bg-opacity-20 text-white border border-white border-opacity-30 rounded-pill">
+                                    Education
+                                </span>
+                            </div>
+                            <button class="project-link btn btn-sm btn-light rounded-circle">
+                                <i class="bi-box-arrow-up-right"></i>
+                            </button>
+                        </div>
+                        <div class="card-body">
+                            <p class="text-muted mb-4">
+                                Complete learning management system with course creation, progress tracking, and
+                                certificates.
+                            </p>
+
+                            <div class="mb-4">
+                                <h4 class="h6 fw-semibold mb-2">Technologies:</h4>
+                                <div class="d-flex flex-wrap gap-2">
+                                    <span class="badge-tech">Yii/PHP</span>
+                                    <!-- <span class="badge-tech">Python</span>
+                                    <span class="badge-tech">Django</span>
+                                    <span class="badge-tech">AWS</span> -->
+                                </div>
+                            </div>
+
+                            <div class="mb-4">
+                                <h4 class="h6 fw-semibold mb-2">Key Features:</h4>
+                                <div class="d-flex flex-wrap gap-2">
+                                    <span class="badge-feature">Course Management</span>
+                                    <span class="badge-feature">Progress Tracking</span>
+                                    <span class="badge-feature">Certificate Generation</span>
+                                </div>
+                            </div>
+
+                            <div class="border-top pt-4">
+                                <div class="d-flex justify-content-between align-items-center">
+                                    <div>
+                                        <p class="small fw-semibold text-accent mb-1">Results:</p>
+                                        <p class="small text-muted mb-0">10,000+ students enrolled</p>
+                                    </div>
+                                   <a href="https://octanetworks.com/" target="_blank" rel="noopener noreferrer">
+  <button class="btn btn-link p-0 text-decoration-none view-more-btn-portfolio text-dark">
+    View Details <i class="bi bi-arrow-right ms-1"></i>
+  </button>
+</a>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+ <!-- education3-->
+                <div class="col-md-6 col-lg-4">
+                    <div class="card card-hover h-100 border-0">
+                        <div class="project-image">
+                             <div class="project-overlay"
+                                 style="background-image:  url('img/hbt.webp'); background-size: cover; background-position: center; height: 300px;"
+    >
+                                <h3 class="h3 fw-bold mb-2">HBT Medical College</h3>
+                                <span
+                                    class="badge bg-opacity-20 text-white border border-white border-opacity-30 rounded-pill">
+                                    Education
+                                </span>
+                            </div>
+                            <button class="project-link btn btn-sm btn-light rounded-circle">
+                                <i class="bi-box-arrow-up-right"></i>
+                            </button>
+                        </div>
+                        <div class="card-body">
+                            <p class="text-muted mb-4">
+                                Complete learning management system with course creation, progress tracking, and
+                                certificates.
+                            </p>
+
+                            <div class="mb-4">
+                                <h4 class="h6 fw-semibold mb-2">Technologies:</h4>
+                                <div class="d-flex flex-wrap gap-2">
+                                    <span class="badge-tech">Wordpress</span>
+                                    <!-- <span class="badge-tech">Python</span>
+                                    <span class="badge-tech">Django</span>
+                                    <span class="badge-tech">AWS</span> -->
+                                </div>
+                            </div>
+
+                            <div class="mb-4">
+                                <h4 class="h6 fw-semibold mb-2">Key Features:</h4>
+                                <div class="d-flex flex-wrap gap-2">
+                                    <span class="badge-feature">Course Management</span>
+                                    <span class="badge-feature">Progress Tracking</span>
+                                    <span class="badge-feature">Certificate Generation</span>
+                                </div>
+                            </div>
+
+                            <div class="border-top pt-4">
+                                <div class="d-flex justify-content-between align-items-center">
+                                    <div>
+                                        <p class="small fw-semibold text-accent mb-1">Results:</p>
+                                        <p class="small text-muted mb-0">10,000+ students enrolled</p>
+                                    </div>
+                                   <a href="https://hbtmc.edu.in/" target="_blank" rel="noopener noreferrer">
+  <button class="btn btn-link p-0 text-decoration-none view-more-btn-portfolio text-dark">
+    View Details <i class="bi bi-arrow-right ms-1"></i>
+  </button>
+</a>
+
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
 
-                <!-- Project 4 -->
+                <!-- Project startup -->
                 <div class="col-md-6 col-lg-4">
                     <div class="card card-hover h-100 border-0">
                         <div class="project-image">
-                            <div class="project-overlay">
+                             <div class="project-overlay"
+                                  style="background-image:  url('img/hero-image.jpg'); background-size: cover; background-position: center; height: 300px;"
+    >
                                 <h3 class="h3 fw-bold mb-2">StartupLaunch Landing Page</h3>
                                 <span
                                     class="badge bg-opacity-20 text-white border border-white border-opacity-30 rounded-pill">
@@ -242,20 +553,141 @@
                                         <p class="small fw-semibold text-accent mb-1">Results:</p>
                                         <p class="small text-muted mb-0">85% conversion rate improvement</p>
                                     </div>
-                                    <button class="btn btn-link p-0 text-decoration-none view-more-btn-portfolio text-dark">
-                                        View Details <i class="bi-arrow-right ms-1"></i>
-                                    </button>
+                                  <a href="https://gazaliperfume.com/" target="_blank" rel="noopener noreferrer">
+  <button class="btn btn-link p-0 text-decoration-none view-more-btn-portfolio text-dark">
+    View Details <i class="bi bi-arrow-right ms-1"></i>
+  </button>
+</a>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+ <!-- Project startup2 -->
+                <div class="col-md-6 col-lg-4">
+                    <div class="card card-hover h-100 border-0">
+                        <div class="project-image">
+                              <div class="project-overlay"
+                                  style="background-image:  url('img/hero-image.jpg'); background-size: cover; background-position: center; height: 300px;"
+    >
+                                <h3 class="h3 fw-bold mb-2">StartupLaunch Landing Page</h3>
+                                <span
+                                    class="badge bg-opacity-20 text-white border border-white border-opacity-30 rounded-pill">
+                                    Startup
+                                </span>
+                            </div>
+                            <button class="project-link btn btn-sm btn-light rounded-circle">
+                                <i class="bi-box-arrow-up-right"></i>
+                            </button>
+                        </div>
+                        <div class="card-body">
+                            <p class="text-muted mb-4">
+                                High-converting landing page with lead capture forms and conversion optimization.
+                            </p>
+
+                            <div class="mb-4">
+                                <h4 class="h6 fw-semibold mb-2">Technologies:</h4>
+                                <div class="d-flex flex-wrap gap-2">
+                                    <span class="badge-tech">React</span>
+                                    <span class="badge-tech">Tailwind</span>
+                                    <span class="badge-tech">EmailJS</span>
+                                    <span class="badge-tech">Google Analytics</span>
+                                </div>
+                            </div>
+
+                            <div class="mb-4">
+                                <h4 class="h6 fw-semibold mb-2">Key Features:</h4>
+                                <div class="d-flex flex-wrap gap-2">
+                                    <span class="badge-feature">Lead Capture</span>
+                                    <span class="badge-feature">A/B Testing</span>
+                                    <span class="badge-feature">Analytics Integration</span>
+                                </div>
+                            </div>
+
+                            <div class="border-top pt-4">
+                                <div class="d-flex justify-content-between align-items-center">
+                                    <div>
+                                        <p class="small fw-semibold text-accent mb-1">Results:</p>
+                                        <p class="small text-muted mb-0">85% conversion rate improvement</p>
+                                    </div>
+                                  <a href="https://gazaliperfume.com/" target="_blank" rel="noopener noreferrer">
+  <button class="btn btn-link p-0 text-decoration-none view-more-btn-portfolio text-dark">
+    View Details <i class="bi bi-arrow-right ms-1"></i>
+  </button>
+</a>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+ <!-- startup3 -->
+                <div class="col-md-6 col-lg-4">
+                    <div class="card card-hover h-100 border-0">
+                        <div class="project-image">
+                             <div class="project-overlay"
+                                  style="background-image:  url('img/hero-image.jpg'); background-size: cover; background-position: center; height: 300px;"
+    >
+                                <h3 class="h3 fw-bold mb-2">StartupLaunch Landing Page</h3>
+                                <span
+                                    class="badge bg-opacity-20 text-white border border-white border-opacity-30 rounded-pill">
+                                    Startup
+                                </span>
+                            </div>
+                            <button class="project-link btn btn-sm btn-light rounded-circle">
+                                <i class="bi-box-arrow-up-right"></i>
+                            </button>
+                        </div>
+                        <div class="card-body">
+                            <p class="text-muted mb-4">
+                                High-converting landing page with lead capture forms and conversion optimization.
+                            </p>
+
+                            <div class="mb-4">
+                                <h4 class="h6 fw-semibold mb-2">Technologies:</h4>
+                                <div class="d-flex flex-wrap gap-2">
+                                    <span class="badge-tech">React</span>
+                                    <span class="badge-tech">Tailwind</span>
+                                    <span class="badge-tech">EmailJS</span>
+                                    <span class="badge-tech">Google Analytics</span>
+                                </div>
+                            </div>
+
+                            <div class="mb-4">
+                                <h4 class="h6 fw-semibold mb-2">Key Features:</h4>
+                                <div class="d-flex flex-wrap gap-2">
+                                    <span class="badge-feature">Lead Capture</span>
+                                    <span class="badge-feature">A/B Testing</span>
+                                    <span class="badge-feature">Analytics Integration</span>
+                                </div>
+                            </div>
+
+                            <div class="border-top pt-4">
+                                <div class="d-flex justify-content-between align-items-center">
+                                    <div>
+                                        <p class="small fw-semibold text-accent mb-1">Results:</p>
+                                        <p class="small text-muted mb-0">85% conversion rate improvement</p>
+                                    </div>
+                                  <a href="https://gazaliperfume.com/" target="_blank" rel="noopener noreferrer">
+  <button class="btn btn-link p-0 text-decoration-none view-more-btn-portfolio text-dark">
+    View Details <i class="bi bi-arrow-right ms-1"></i>
+  </button>
+</a>
+
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
 
-                <!-- Project 5 -->
+                <!-- Project corporate -->
                 <div class="col-md-6 col-lg-4">
                     <div class="card card-hover h-100 border-0">
                         <div class="project-image">
-                            <div class="project-overlay">
+                             <div class="project-overlay"
+                                 style="background-image:  url('img/hero-image.jpg'); background-size: cover; background-position: center; height: 300px;"
+    >
                                 <h3 class="h3 fw-bold mb-2">GlobalCorp Business Website</h3>
                                 <span
                                     class="badge bg-opacity-20 text-white border border-white border-opacity-30 rounded-pill">
@@ -296,21 +728,141 @@
                                         <p class="small fw-semibold text-accent mb-1">Results:</p>
                                         <p class="small text-muted mb-0">200% increase in business inquiries</p>
                                     </div>
-                                    <button class="btn btn-link p-0 text-decoration-none view-more-btn-portfolio text-dark">
-                                        View Details <i class="bi-arrow-right ms-1"></i>
-                                    </button>
+                                   <a href="https://gazaliperfume.com/" target="_blank" rel="noopener noreferrer">
+  <button class="btn btn-link p-0 text-decoration-none view-more-btn-portfolio text-dark">
+    View Details <i class="bi bi-arrow-right ms-1"></i>
+  </button>
+</a>
+
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
+<!-- Project corporate2 -->
+                <div class="col-md-6 col-lg-4">
+                    <div class="card card-hover h-100 border-0">
+                        <div class="project-image">
+                             <div class="project-overlay"
+                                 style="background-image:  url('img/hero-image.jpg'); background-size: cover; background-position: center; height: 300px;"
+    >
+                                <h3 class="h3 fw-bold mb-2">GlobalCorp Business Website</h3>
+                                <span
+                                    class="badge bg-opacity-20 text-white border border-white border-opacity-30 rounded-pill">
+                                    Corporate
+                                </span>
+                            </div>
+                            <button class="project-link btn btn-sm btn-light rounded-circle">
+                                <i class="bi-box-arrow-up-right"></i>
+                            </button>
+                        </div>
+                        <div class="card-body">
+                            <p class="text-muted mb-4">
+                                Professional corporate website with multi-language support and content management.
+                            </p>
 
+                            <div class="mb-4">
+                                <h4 class="h6 fw-semibold mb-2">Technologies:</h4>
+                                <div class="d-flex flex-wrap gap-2">
+                                    <span class="badge-tech">WordPress</span>
+                                    <span class="badge-tech">PHP</span>
+                                    <span class="badge-tech">MySQL</span>
+                                    <span class="badge-tech">i18n</span>
+                                </div>
+                            </div>
+
+                            <div class="mb-4">
+                                <h4 class="h6 fw-semibold mb-2">Key Features:</h4>
+                                <div class="d-flex flex-wrap gap-2">
+                                    <span class="badge-feature">Multi-language</span>
+                                    <span class="badge-feature">CMS</span>
+                                    <span class="badge-feature">Contact Forms</span>
+                                </div>
+                            </div>
+
+                            <div class="border-top pt-4">
+                                <div class="d-flex justify-content-between align-items-center">
+                                    <div>
+                                        <p class="small fw-semibold text-accent mb-1">Results:</p>
+                                        <p class="small text-muted mb-0">200% increase in business inquiries</p>
+                                    </div>
+                                   <a href="https://gazaliperfume.com/" target="_blank" rel="noopener noreferrer">
+  <button class="btn btn-link p-0 text-decoration-none view-more-btn-portfolio text-dark">
+    View Details <i class="bi bi-arrow-right ms-1"></i>
+  </button>
+</a>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Project corporate3 -->
+                <div class="col-md-6 col-lg-4">
+                    <div class="card card-hover h-100 border-0">
+                        <div class="project-image">
+                             <div class="project-overlay"
+                                 style="background-image:  url('img/hero-image.jpg'); background-size: cover; background-position: center; height: 300px;"
+    >
+                                <h3 class="h3 fw-bold mb-2">GlobalCorp Business Website</h3>
+                                <span
+                                    class="badge bg-opacity-20 text-white border border-white border-opacity-30 rounded-pill">
+                                    Corporate
+                                </span>
+                            </div>
+                            <button class="project-link btn btn-sm btn-light rounded-circle">
+                                <i class="bi-box-arrow-up-right"></i>
+                            </button>
+                        </div>
+                        <div class="card-body">
+                            <p class="text-muted mb-4">
+                                Professional corporate website with multi-language support and content management.
+                            </p>
+
+                            <div class="mb-4">
+                                <h4 class="h6 fw-semibold mb-2">Technologies:</h4>
+                                <div class="d-flex flex-wrap gap-2">
+                                    <span class="badge-tech">WordPress</span>
+                                    <span class="badge-tech">PHP</span>
+                                    <span class="badge-tech">MySQL</span>
+                                    <span class="badge-tech">i18n</span>
+                                </div>
+                            </div>
+
+                            <div class="mb-4">
+                                <h4 class="h6 fw-semibold mb-2">Key Features:</h4>
+                                <div class="d-flex flex-wrap gap-2">
+                                    <span class="badge-feature">Multi-language</span>
+                                    <span class="badge-feature">CMS</span>
+                                    <span class="badge-feature">Contact Forms</span>
+                                </div>
+                            </div>
+
+                            <div class="border-top pt-4">
+                                <div class="d-flex justify-content-between align-items-center">
+                                    <div>
+                                        <p class="small fw-semibold text-accent mb-1">Results:</p>
+                                        <p class="small text-muted mb-0">200% increase in business inquiries</p>
+                                    </div>
+                                   <a href="https://gazaliperfume.com/" target="_blank" rel="noopener noreferrer">
+  <button class="btn btn-link p-0 text-decoration-none view-more-btn-portfolio text-dark">
+    View Details <i class="bi bi-arrow-right ms-1"></i>
+  </button>
+</a>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
                 <!-- Project 6 -->
                 <div class="col-md-6 col-lg-4">
                     <div class="card card-hover h-100 border-0">
                         <div class="project-image">
-                            <div class="project-overlay">
-                                <h3 class="h3 fw-bold mb-2">FashionHub Online Store</h3>
+                             <div class="project-overlay"
+                                 style="background-image:  url('img/ghazali.webp'); background-size: cover; background-position: center; height: 300px;"
+    >
+                                <h3 class="h3 fw-bold mb-2">Ghazali Perfumes</h3>
                                 <span
                                     class="badge bg-opacity-20 text-white border border-white border-opacity-30 rounded-pill">
                                     E-commerce
@@ -328,19 +880,19 @@
                             <div class="mb-4">
                                 <h4 class="h6 fw-semibold mb-2">Technologies:</h4>
                                 <div class="d-flex flex-wrap gap-2">
-                                    <span class="badge-tech">React</span>
-                                    <span class="badge-tech">Node.js</span>
+                                    <span class="badge-tech">Wordpress</span>
+                                    <!-- <span class="badge-tech">Node.js</span>
                                     <span class="badge-tech">MongoDB</span>
-                                    <span class="badge-tech">AR.js</span>
+                                    <span class="badge-tech">AR.js</span> -->
                                 </div>
                             </div>
 
                             <div class="mb-4">
                                 <h4 class="h6 fw-semibold mb-2">Key Features:</h4>
                                 <div class="d-flex flex-wrap gap-2">
-                                    <span class="badge-feature">Virtual Try-on</span>
-                                    <span class="badge-feature">Size Guide</span>
-                                    <span class="badge-feature">Social Shopping</span>
+                                    <span class="badge-feature">Payment Gateway</span>
+                                    <span class="badge-feature">Inventory Management</span>
+                                    <span class="badge-feature">Real-time Chat</span>
                                 </div>
                             </div>
 
@@ -350,9 +902,12 @@
                                         <p class="small fw-semibold text-accent mb-1">Results:</p>
                                         <p class="small text-muted mb-0">400% increase in customer engagement</p>
                                     </div>
-                                    <button class="btn btn-link p-0 text-decoration-none view-more-btn-portfolio text-dark">
-                                        View Details <i class="bi-arrow-right ms-1"></i>
-                                    </button>
+                                    <a href="https://gazaliperfume.com/" target="_blank" rel="noopener noreferrer">
+  <button class="btn btn-link p-0 text-decoration-none view-more-btn-portfolio text-dark">
+    View Details <i class="bi bi-arrow-right ms-1"></i>
+  </button>
+</a>
+
                                 </div>
                             </div>
                         </div>
