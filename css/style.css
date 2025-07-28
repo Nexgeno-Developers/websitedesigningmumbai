@@ -287,6 +287,12 @@
       z-index: 10;
     }
 
+    .btn-hero:hover,
+.btn-hero:focus,
+.btn-hero:active {
+    color: var(--text-dark) !important;
+}
+
     .btn-glass {
       background: var(--glass-bg);
       backdrop-filter: blur(10px);
@@ -433,7 +439,6 @@
 
     /* testimonial==================================== */
     .testimonials-section {
-      padding: 6rem 0;
       background: #f6f7f9;
     }
 
@@ -941,7 +946,6 @@
     /* Industires we serve========================================================== */
     /* Section Styles */
     .industries-section {
-      padding: 6rem 0;
       background: #edeef0;
     }
 
@@ -1028,7 +1032,6 @@
     /* contact-home========================================================== */
     /* Section Styles */
     .contact-section {
-      padding: 6rem 0;
       background-color: var(--bg-light);
       position: relative;
       overflow: hidden;
@@ -1187,6 +1190,11 @@
       position: absolute;
       left: 0;
       color: var(--accent);
+    }
+
+    .contact-field-number-email{
+      text-decoration: none;
+      color: var(--text-dark);
     }
 
     /* Animations */
@@ -1653,6 +1661,21 @@
     }
 
     /* Portfolio section==================================================== */
+
+
+
+
+    /* website design mumbai company page==================================================== */
+    .web-design-page-mumbai{
+      font-size: 18px;
+      line-height: 2;
+      color: var(--text-dark);
+    }
+
+    .web-design-page-mumbai-heading{
+      font-size: 28px !important;
+    }
+    /* website design mumbai company page==================================================== */
 
 
 

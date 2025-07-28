@@ -2,18 +2,20 @@
 
     <!-- pricing section -->
     <!-- Hero Section -->
-    <section class="service-ready-start py-5 position-relative overflow-hidden">
+    <section class="service-ready-start What sets us apart:
+
+ position-relative overflow-hidden">
         <div class="bg-grid-pattern position-absolute top-0 left-0 w-100 h-100"></div>
         <div class="bg-gradient-to-bottom from-primary/10 to-transparent position-absolute top-0 left-0 w-100 h-100">
         </div>
-        <div class="container py-5 position-relative">
+        <div class="container position-relative">
             <div class="row justify-content-center">
-                <div class="col-lg-8 text-center">
+                <div class="col-lg-8 text-center pt-md-5">
                     <div class="d-inline-flex align-items-center justify-content-center bg-glass rounded-3 border border-white border-opacity-10 mb-4"
                         style="width: 6rem; height: 6rem;">
                         <i class="bi-globe text-white fs-1"></i>
                     </div>
-                    <h1 class="display-4 fw-bold mb-4 text-gradient">Static & Dynamic Websites</h1>
+                    <h1 class="display-4 fw-bold mb-4 text-gradient">Website Design Service</h1>
                     <p class="fs-4 text-white text-opacity-70 mb-5">High-performance websites built with modern
                         technologies</p>
 
@@ -37,7 +39,7 @@
                     </div>
 
                     <div class="d-flex flex-column flex-sm-row gap-3 justify-content-center">
-                        <button class="btn btn-hero btn-lg px-5 py-3 fs-5">
+                        <button class="btn btn-hero btn-lg px-5 py-3 fs-5" onclick="window.location.href='get-quote.htm'">
                             Get Free Quote
                         </button>
                         <button class="btn btn-hero-outline btn-lg px-5 py-3 fs-5">
@@ -55,14 +57,14 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <h1>Best Website Designing Company in Mumbai</h1>
-                    <p>Looking for a reliable website designing company in Mumbai, India that can bring your business vision to life? Your search ends here. We are a top-rated web design company based in Mumbai, offering innovative, result-driven, and customized website solutions to businesses of all sizes. Whether you are a startup, SME, or large enterprise, we design websites that not only look great but also perform brilliantly.</p>
-                    <h2>Crafting Digital Experiences That Deliver Results</h2>
-                    <p>A website is your digital storefront. It should be attractive, easy to use, fast, and optimized for search engines. As a trusted website designing service company in Mumbai, we focus on creating responsive and user-friendly websites that engage your visitors and convert them into customers. Our goal is not just to design, but to empower your brand’s online presence.</p>
-                    <h3>Expert & Professional Team | 17+ Years Of Industry Experience</h3>
-                    <p><span>With over </span><b>17 years of industry experience</b><span>, our expert team of designers, developers, and digital strategists has successfully delivered hundreds of websites across various industries – including eCommerce, hospitality, healthcare, education, real estate, and more.</span></p>
-                    <p><span>What sets us apart:</span></p>
-                    <ul>
+                    <h1 class="web-design-page-mumbai-heading fw-bold mb-md-2 mb-2">Best Website Designing Company in Mumbai</h1>
+                    <p class="web-design-page-mumbai">Looking for a reliable website designing company in Mumbai, India that can bring your business vision to life? Your search ends here. We are a top-rated web design company based in Mumbai, offering innovative, result-driven, and customized website solutions to businesses of all sizes. Whether you are a startup, SME, or large enterprise, we design websites that not only look great but also perform brilliantly.</p>
+                    <h2 class="web-design-page-mumbai-heading fw-bold mb-md-2 mb-2 mt-md-4 mt-3">Crafting Digital Experiences That Deliver Results</h2>
+                    <p class="web-design-page-mumbai">A website is your digital storefront. It should be attractive, easy to use, fast, and optimized for search engines. As a trusted website designing service company in Mumbai, we focus on creating responsive and user-friendly websites that engage your visitors and convert them into customers. Our goal is not just to design, but to empower your brand’s online presence.</p>
+                    <h3 class="web-design-page-mumbai-heading fw-bold mb-md-2 mb-2 mt-md-4 mt-3">Expert & Professional Team | 17+ Years Of Industry Experience</h3>
+                    <p class="web-design-page-mumbai"><span>With over </span><b>17 years of industry experience</b><span>, our expert team of designers, developers, and digital strategists has successfully delivered hundreds of websites across various industries – including eCommerce, hospitality, healthcare, education, real estate, and more.</span></p>
+                    <p class="web-design-page-mumbai mb-0"><span>What sets us apart:</span></p>
+                    <ul class="web-design-page-mumbai">
                         <li>Creative & Customized Design</li>
                         <li>SEO-Optimized Structure</li>
                         <li>Mobile-Responsive Layouts</li>
@@ -70,10 +72,10 @@
                         <li>Secure & Scalable Architecture</li>
                         <li>Integration with CRM, Payment Gateways, Chat, etc.</li>
                     </ul>
-                    <h4>Transform Your Vision into Reality | Enhance Your Brand and Boost Your Business</h4>
-                    <p><span>At our web design agency in Mumbai, we understand that every business is unique. That’s why we offer </span><b>tailored solutions</b><span> that match your brand’s voice and business goals. From the first strategy meeting to the final website launch – we stay with you throughout the journey.</span></p>
-                    <p><span>Our website designing services include:</span></p>
-                    <ul>
+                    <h4 class="web-design-page-mumbai-heading fw-bold mb-md-2 mb-2 mt-md-4 mt-3">Transform Your Vision into Reality | Enhance Your Brand and Boost Your Business</h4>
+                    <p class="web-design-page-mumbai"><span>At our web design agency in Mumbai, we understand that every business is unique. That’s why we offer </span><b>tailored solutions</b><span> that match your brand’s voice and business goals. From the first strategy meeting to the final website launch – we stay with you throughout the journey.</span></p>
+                    <p class="web-design-page-mumbai mb-0"><span>Our website designing services include:</span></p>
+                    <ul class="web-design-page-mumbai">
                         <li>Corporate Website Design</li>
                         <li>eCommerce Website Design</li>
                         <li>Landing Page Design</li>
@@ -81,7 +83,7 @@
                         <li>WordPress Development</li>
                         <li>Website Redesigning</li>
                     </ul>
-                    <p><span>Whether you want to </span><b>build a new website from scratch</b><span> or </span><b>revamp an existing one</b><span>, we ensure a seamless process that delivers outstanding results. Let us help you create a website that not only reflects your brand identity but also drives traffic, leads, and sales.</span></p>
+                    <p class="web-design-page-mumbai"><span>Whether you want to </span><b>build a new website from scratch</b><span> or </span><b>revamp an existing one</b><span>, we ensure a seamless process that delivers outstanding results. Let us help you create a website that not only reflects your brand identity but also drives traffic, leads, and sales.</span></p>
                 </div>
             </div>
         </div>
@@ -421,89 +423,101 @@
     </section>
 
     <!-- FAQs -->
-    <section class="py-5 bg-white">
+    <section class="py-5 bg-light-blue">
         <div class="container py-5">
-            <div class="row">
-                <div class="col-lg-12">
-                    <h2 class="display-4 fw-bold text-center mb-5">Frequently Asked Questions</h2>
+            <div class="text-center mb-5">
+                <h2 class="display-4 fw-bold mb-3">Frequently Asked Questions</h2>
+            </div>
 
-                    <div class="accordion" id="faqAccordion">
-                        <!-- FAQ 1 -->
-                        <div class="accordion-item border-0 shadow-sm mb-3">
-                            <h3 class="accordion-header" id="headingOne">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                                    Do you offer domain registration and web hosting services?
-                                </button>
-                            </h3>
-                            <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne"
-                                data-bs-parent="#faqAccordion">
-                                <div class="accordion-body">
-                                    Yes, we provide complete website solutions, including domain registration, secure and fast web hosting, SSL certification, and email setup.
+            <div class="row justify-content-center">
+                <div class="col-lg-8">
+                    <!-- FAQ 1 -->
+                    <div class="card faq-card mb-4 border-0">
+                        <div class="card-body p-4">
+                            <div class="d-flex gap-4">
+                                <div class="accent-gradient rounded-circle d-flex align-items-center justify-content-center flex-shrink-0"
+                                    style="width: 40px; height: 40px;">
+                                    <i class="bi-check-lg text-white"></i>
+                                </div>
+                                <div>
+                                    <h3 class="h5 fw-semibold mb-3">Do you offer domain registration and web hosting services?</h3>
+                                    <p class="text-muted">
+                                        Yes, we provide complete website solutions, including domain registration, secure and fast web hosting, SSL certification, and email setup.
+                                    </p>
                                 </div>
                             </div>
                         </div>
+                    </div>
 
-                        <!-- FAQ 2 -->
-                        <div class="accordion-item border-0 shadow-sm mb-3">
-                            <h3 class="accordion-header" id="headingTwo">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                    How long will it take to design my website?
-                                </button>
-                            </h3>
-                            <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
-                                data-bs-parent="#faqAccordion">
-                                <div class="accordion-body">
-                                    The turnaround time depends on the scope of the project. A simple website can be delivered in 1-2 weeks, while complex or feature-rich websites may take 3-6 weeks.
+                    <!-- FAQ 2 -->
+                    <div class="card faq-card mb-4 border-0">
+                        <div class="card-body p-4">
+                            <div class="d-flex gap-4">
+                                <div class="accent-gradient rounded-circle d-flex align-items-center justify-content-center flex-shrink-0"
+                                    style="width: 40px; height: 40px;">
+                                    <i class="bi-check-lg text-white"></i>
+                                </div>
+                                <div>
+                                    <h3 class="h5 fw-semibold mb-3">How long will it take to design my website?
+                                    </h3>
+                                    <p class="text-muted">
+                                        The turnaround time depends on the scope of the project. A simple website can be delivered in 1-2 weeks, while complex or feature-rich websites may take 3-6 weeks.
+                                    </p>
                                 </div>
                             </div>
                         </div>
+                    </div>
 
-                        <!-- FAQ 3 -->
-                        <div class="accordion-item border-0 shadow-sm mb-3">
-                            <h3 class="accordion-header" id="headingThree">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                    Will my website be mobile-friendly and SEO-optimized?
-                                </button>
-                            </h3>
-                            <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
-                                data-bs-parent="#faqAccordion">
-                                <div class="accordion-body">
-                                    Absolutely. All websites we design are fully responsive and optimized for SEO to ensure maximum visibility on Google and a great experience on all devices.
+                    <!-- FAQ 3 -->
+                    <div class="card faq-card mb-4 border-0">
+                        <div class="card-body p-4">
+                            <div class="d-flex gap-4">
+                                <div class="accent-gradient rounded-circle d-flex align-items-center justify-content-center flex-shrink-0"
+                                    style="width: 40px; height: 40px;">
+                                    <i class="bi-check-lg text-white"></i>
+                                </div>
+                                <div>
+                                    <h3 class="h5 fw-semibold mb-3">Will my website be mobile-friendly and SEO-optimized?</h3>
+                                    <p class="text-muted">
+                                        Absolutely. All websites we design are fully responsive and optimized for SEO to ensure maximum visibility on Google and a great experience on all devices.
+                                    </p>
                                 </div>
                             </div>
                         </div>
+                    </div>
 
-                        <!-- FAQ 4 -->
-                        <div class="accordion-item border-0 shadow-sm mb-3">
-                            <h3 class="accordion-header" id="headingThree">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                                    Can you redesign my existing website?
-                                </button>
-                            </h3>
-                            <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
-                                data-bs-parent="#faqAccordion">
-                                <div class="accordion-body">
-                                    Yes, we specialize in website redesign services. We will retain what works and revamp what doesn’t, giving your brand a fresh, modern look while improving performance and functionality.
+                    <!-- FAQ 4 -->
+                    <div class="card faq-card mb-4 border-0">
+                        <div class="card-body p-4">
+                            <div class="d-flex gap-4">
+                                <div class="accent-gradient rounded-circle d-flex align-items-center justify-content-center flex-shrink-0"
+                                    style="width: 40px; height: 40px;">
+                                    <i class="bi-check-lg text-white"></i>
+                                </div>
+                                <div>
+                                    <h3 class="h5 fw-semibold mb-3">Can you redesign my existing website?
+                                    </h3>
+                                    <p class="text-muted">
+                                         Yes, we specialize in website redesign services. We will retain what works and revamp what doesn’t, giving your brand a fresh, modern look while improving performance and functionality.
+                                    </p>
                                 </div>
                             </div>
                         </div>
+                    </div>
 
-                        <!-- FAQ 5 -->
-                        <div class="accordion-item border-0 shadow-sm mb-3">
-                            <h3 class="accordion-header" id="headingOne">
-                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                    data-bs-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                                    Do you provide website maintenance and support?
-                                </button>
-                            </h3>
-                            <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne"
-                                data-bs-parent="#faqAccordion">
-                                <div class="accordion-body">
-                                    Yes. We offer ongoing website maintenance and support packages to keep your site updated, secure, and running smoothly.
+                    <!-- FAQ 5 -->
+                    <div class="card faq-card border-0">
+                        <div class="card-body p-4">
+                            <div class="d-flex gap-4">
+                                <div class="accent-gradient rounded-circle d-flex align-items-center justify-content-center flex-shrink-0"
+                                    style="width: 40px; height: 40px;">
+                                    <i class="bi-check-lg text-white"></i>
+                                </div>
+                                <div>
+                                    <h3 class="h5 fw-semibold mb-3">Do you provide website maintenance and support?</h3>
+                                    <p class="text-muted">
+                                        Yes. We offer ongoing website maintenance and support packages to keep your site updated, secure, and running smoothly.
+                                    </p>
                                 </div>
                             </div>
                         </div>

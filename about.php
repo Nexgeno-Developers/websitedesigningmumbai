@@ -65,7 +65,7 @@
                 <h2 class="display-4 fw-bold text-center mb-md-4 mb-2">
                     Our Story
                 </h2>
-                <div class="px-md-5 px-0">
+                <div class="">
                     <p class="fs-5 text-muted lh-lg mb-md-4 mb-2">
                         Founded in 2019 in the heart of Mumbai, WebDesign Mumbai started with a simple mission:
                         to help businesses establish a strong online presence with beautiful, functional websites.
@@ -168,7 +168,7 @@
     </section>
 
     <!-- Team Section -->
-    <section class="py-5 bg-light">
+    <!-- <section class="py-5 bg-light">
         <div class="container px-4">
             <div class="text-center mb-5">
                 <h2 class="display-4 fw-bold mb-4">
@@ -274,10 +274,10 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
 
     <!-- CTA Section -->
-    <section class="py-5 bg-hero-gradient">
+    <!-- <section class="py-5 bg-hero-gradient">
         <div class="container px-4 text-center">
             <h2 class="display-4 fw-bold text-white mb-4">
                 Ready to Work Together?
@@ -295,6 +295,6 @@
                 </button>
             </div>
         </div>
-    </section>
+    </section> -->
 
    <?php include 'footer.php';?>

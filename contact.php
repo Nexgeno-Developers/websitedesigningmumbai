@@ -2,18 +2,18 @@
 
     <!-- contact us  -->
     <!-- Hero Section -->
-    <section class="service-ready-start py-5">
-        <div class="container py-5 text-center">
-            <h1 class="display-4 fw-bold mb-4">Get In Touch</h1>
-            <p class="fs-3 text-white text-opacity-80 mx-auto" style="max-width: 700px;">
+    <section class="service-ready-start section-padding-80px">
+        <div class="container text-center">
+            <h1 class="display-4 fw-bold mb-4 pt-md-5">Get In Touch</h1>
+            <p class="fs-3 text-white text-opacity-80 mx-auto mb-0" style="max-width: 700px;">
                 Ready to start your project? Let's discuss how we can help bring your vision to life.
             </p>
         </div>
     </section>
 
     <!-- Contact Form & Info -->
-    <section class="py-5 services-section">
-        <div class="container py-5">
+    <section class="services-section section-padding-80px">
+        <div class="container">
             <div class="row g-4">
                 <!-- Contact Form -->
                 <div class="col-lg-8 ">
@@ -116,8 +116,7 @@
                                 <div>
                                     <h3 class="h5 fw-semibold mb-1 contact-title">Phone</h3>
                                     <p class="small text-muted mb-2">Call us anytime</p>
-                                    <p class="fw-medium mb-1">+91 98765 43210</p>
-                                    <p class="fw-medium">+91 98765 43211</p>
+                                    <p class="fw-medium mb-1 contact-field-number-email"><a class="contact-field-number-email" href="tel:+919819555545"> +91 9819555545</a></p>
                                 </div>
                             </div>
                         </div>
@@ -134,8 +133,8 @@
                                 <div>
                                     <h3 class="h5 fw-semibold mb-1 contact-title">Email</h3>
                                     <p class="small text-muted mb-2">Drop us a line</p>
-                                    <p class="fw-medium mb-1">hello@websitedesignmumbai.com</p>
-                                    <p class="fw-medium">projects@websitedesignmumbai.com</p>
+                                    <p class="fw-medium mb-1"><a class="contact-field-number-email" href="mailto:hello@websitedesignmumbai.com">hello@websitedesignmumbai.com</a></p>
+                                    <p class="fw-medium"><a class="contact-field-number-email" href="mailto:shahrukh@nexgeno.in">shahrukh@nexgeno.in</a></p>
                                 </div>
                             </div>
                         </div>
@@ -152,8 +151,11 @@
                                 <div>
                                     <h3 class="h5 fw-semibold mb-1 contact-title">Address</h3>
                                     <p class="small text-muted mb-2">Visit our office</p>
-                                    <p class="fw-medium mb-1">Andheri East, Mumbai</p>
-                                    <p class="fw-medium">Maharashtra 400069, India</p>
+                                    <p class="fw-medium mb-1">Unit No. F-50,</p>
+                                    <p class="fw-medium mb-1">First Floor kohinoor City Mall,</p>
+                                    <p class="fw-medium mb-1">Opp Holly Cross School,</p>
+                                    <p class="fw-medium mb-1">Kurla (West) Mumbai,</p>
+                                    <p class="fw-medium">Maharashtra - 400070, India</p>
                                 </div>
                             </div>
                         </div>
@@ -170,8 +172,7 @@
                                 <div>
                                     <h3 class="h5 fw-semibold mb-1 contact-title">Business Hours</h3>
                                     <p class="small text-muted mb-2">We're available</p>
-                                    <p class="fw-medium mb-1">Mon - Fri: 9:00 AM - 7:00 PM</p>
-                                    <p class="fw-medium">Sat: 10:00 AM - 4:00 PM</p>
+                                    <p class="fw-medium mb-1">Mon - Fri: 9:00 AM - 6:00 PM</p>
                                 </div>
                             </div>
                         </div>
@@ -179,7 +180,7 @@
 
                     <!-- Quick Actions -->
                     <div class="d-grid gap-3">
-                        <button class="btn btn-offer-service d-flex align-items-center justify-content-center py-3">
+                        <button onclick="window.open('https://wa.me/919819555545', '_blank')" class="btn btn-offer-service d-flex align-items-center justify-content-center py-3">
                             <i class="bi-whatsapp me-2"></i>
                             WhatsApp Chat
                         </button>

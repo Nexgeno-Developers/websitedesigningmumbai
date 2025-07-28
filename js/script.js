@@ -161,7 +161,7 @@ $(window).scroll(function () {
 
 ///////////// tabs portfolio //////////////
 
-           document.addEventListener('DOMContentLoaded', function() {
+document.addEventListener('DOMContentLoaded', function() {
     // Get all filter buttons and project cards
     const filterButtons = document.querySelectorAll('.filter-btn');
     const projectCards = document.querySelectorAll('.col-md-6.col-lg-4');
@@ -199,5 +199,4 @@ $(window).scroll(function () {
             });
         });
     });
-}); 
-     
+});
