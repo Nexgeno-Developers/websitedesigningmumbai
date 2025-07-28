@@ -1,6 +1,6 @@
 <?php include 'header.php';?>
 
-    <section class="hero-section py-md-5 py-4">
+    <section class="hero-section section-padding-80px">
         <!-- Background Gradient -->
         <div class="hero-gradient"></div>
 
@@ -15,7 +15,7 @@
         </div>
 
         <div class="hero-content">
-            <div class="">
+            <div class="pt-md-5">
                 <!-- Badge -->
                 <div class="hero-badge">
                     <span class="badge-dot"></span>
@@ -37,7 +37,7 @@
 
                 <!-- CTA Buttons -->
                 <div class="d-flex flex-column flex-sm-row align-items-center justify-content-center gap-4 pt-4">
-                    <button class="btn btn-hero">
+                    <button class="btn btn-hero" onclick="window.location.href='get-quote.htm'">
                         Get a Free Quote
                         <i class="bi bi-arrow-right btn-icon ms-2"></i>
                     </button>
@@ -76,8 +76,8 @@
     </section>
 
     <!-- Our Services -->
-    <section class="services-section">
-        <div class="container px-4">
+    <section class="services-section section-padding-80px">
+        <div class="container">
             <div class="text-center mb-5 animate-fade-in">
                 <h2 class="section-heading">
                     Our <span class="gradient-text">Services</span>
@@ -312,8 +312,8 @@
     <!-- Our Services -->
 
     <!-- why choose us section -->
-    <section class="why-choose-us">
-        <div class="container px-4">
+    <section class="why-choose-us section-padding-80px">
+        <div class="container">
             <div class="text-center mb-5">
                 <h2 class="section-heading">
                     Why <span class="gradient-text">Choose Us?</span>

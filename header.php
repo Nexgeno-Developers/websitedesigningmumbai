@@ -51,6 +51,7 @@
     }
     .scrolled .text-white {
     color: #000 !important;
+    
 }
 </style>
 <body>
@@ -118,7 +119,10 @@
                             <a class="nav-link position-relative px-2 text-white" href="contact.htm">Contact</a>
                         </li>
                     </ul>
-                    <button class="btn btn-warning fw-medium ms-lg-4 d-none d-md-inline-block">
+                    <button 
+                        class="btn btn-warning fw-medium ms-lg-4 d-none d-md-inline-block" 
+                        onclick="window.location.href='get-quote.htm'"
+                    >
                         Get Quote
                     </button>
                 </div>

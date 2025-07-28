@@ -29,6 +29,10 @@
       height: 100vh;
     }
 
+      .section-padding-80px{
+      padding: 80px 0 !important;
+    }
+
     #mainHeader {
       z-index: 9999;
     }
@@ -109,7 +113,7 @@
       overflow: hidden;
       color: white;
       background: #f3f4f7;
-      padding-top: 7rem !important;
+      padding-top: 7rem;
     }
 
     .hero-gradient {
@@ -359,7 +363,6 @@
     /* why choose us */
     /* Section Styles */
     .why-choose-us {
-      padding: 5rem 0;
       background-color: #eeedede0;
     }
 
@@ -791,9 +794,10 @@
     /* Section Styles */
     .services-section,
     .listing-bg-color-section {
-      padding: 6rem 0;
       background-color: hsl(220, 20%, 97%);
     }
+
+
 
     /* Heading Styles */
     .section-heading {
