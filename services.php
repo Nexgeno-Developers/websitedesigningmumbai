@@ -2,9 +2,9 @@
 
 
     <!-- Hero Section -->
-    <section class="service-ready-start py-5">
-        <div class="container py-5 text-center">
-            <h1 class="display-4 fw-bold mb-4">Our Services</h1>
+    <section class="service-ready-start section-padding-80px">
+        <div class="container text-center">
+            <h1 class="display-4 fw-bold mb-4 pt-md-5">Our Services</h1>
             <p class="lead mb-5 opacity-75 mx-auto" style="max-width: 700px;">
                 Comprehensive web development services to help your business succeed online
             </p>
@@ -15,8 +15,8 @@
     </section>
 
     <!-- Services Grid -->
-    <section class="py-5 listing-bg-color-section">
-        <div class="container py-5">
+    <section class="section-padding-80px listing-bg-color-section">
+        <div class="container">
             <div class="row g-4">
                 <!-- Service 1 -->
                 <div class="col-lg-6">

@@ -42,7 +42,7 @@
                         <i class="bi bi-arrow-right btn-icon ms-2"></i>
                     </button>
 
-                    <button class="btn btn-glass">
+                    <button class="btn btn-glass" onclick="window.location.href='portfolio.htm'">
                         <i class="bi bi-play-fill btn-icon me-2"></i>
                         View Our Work
                     </button>
@@ -391,8 +391,8 @@
     <!-- why choose us section -->
 
     <!-- testimonial -->
-    <section class="testimonials-section">
-        <div class="container px-4">
+    <section class="testimonials-section section-padding-80px">
+        <div class="container">
             <div class="text-center mb-5">
                 <h2 class="section-heading">
                     What Our <span class="gradient-text">Clients Say</span>
@@ -483,7 +483,7 @@
 
 
     <!-- Industries we serve -->
-    <section class="industries-section">
+    <section class="industries-section section-padding-80px">
         <div class="container">
             <div class="text-center mb-5 animate-fade-in">
                 <h2 class="section-heading">
@@ -590,8 +590,8 @@
 
 
     <!-- contact-home -->
-    <section class="contact-section">
-        <div class="container px-4 position-relative">
+    <section class="contact-section section-padding-80px">
+        <div class="container position-relative">
             <div class="text-center mb-5 animate-fade-in">
                 <h2 class="section-heading">
                     Ready to Start Your
