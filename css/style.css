@@ -29,6 +29,10 @@
       height: 100vh;
     }
 
+      .section-padding-80px{
+      padding: 80px 0 !important;
+    }
+
     #mainHeader {
       z-index: 9999;
     }
@@ -109,6 +113,7 @@
       overflow: hidden;
       color: white;
       background: #f3f4f7;
+      padding-top: 7rem;
     }
 
     .hero-gradient {
@@ -312,7 +317,7 @@
     /* Stats */
     .hero-stats {
       display: grid;
-      grid-template-columns: repeat(3, 1fr);
+      grid-template-columns: repeat(4, 1fr);
       gap: 2rem;
       max-width: 36rem;
       margin: 4rem auto 0;
@@ -336,7 +341,7 @@
       left: 0;
       right: 0;
       height: 8rem;
-      background: linear-gradient(to top, #f8f9fa, transparent);
+      background: linear-gradient(to top, hsl(220, 20%, 97%), transparent);
     }
 
     /* Responsive Adjustments */
@@ -358,7 +363,6 @@
     /* why choose us */
     /* Section Styles */
     .why-choose-us {
-      padding: 5rem 0;
       background-color: #eeedede0;
     }
 
@@ -741,13 +745,7 @@
     }
 
     .arrow-icon {
-      width: 12px;
-      height: 12px;
-      margin-right: 8px;
       opacity: 0;
-      transition: opacity 0.3s ease;
-      margin-bottom: 10px;
-      display: contents;
     }
 
     .footer-link:hover .arrow-icon {
@@ -796,9 +794,10 @@
     /* Section Styles */
     .services-section,
     .listing-bg-color-section {
-      padding: 6rem 0;
       background-color: hsl(220, 20%, 97%);
     }
+
+
 
     /* Heading Styles */
     .section-heading {
@@ -1654,3 +1653,27 @@
     }
 
     /* Portfolio section==================================================== */
+
+
+
+    /* responsive================== */
+
+    @media (max-width: 768px) {
+      .industry-icon-container{
+        width: 3rem;
+        height: 3rem;
+      }
+      .industry-icon{
+        font-size: 1rem;
+      }
+      .we-serve-industry-badge{
+        font-size: 11px;
+        padding: 2px 7px;
+      }
+      .industry-item{
+        margin-bottom: 10px;
+        gap: 10px;
+      }
+    }
+
+    /* responsive================== */
