@@ -129,7 +129,7 @@
                                     <i class="bi-cart fs-4 text-white"></i>
                                 </div>
                                 <div class="flex-grow-1">
-                                    <h3 class="h4 service-title mb-2">E-commerce Solutions</h3>
+                                    <h3 class="h4 service-title mb-2">E-commerce Website Solutions</h3>
                                     <p class="text-muted mb-3">Complete online stores with payment and inventory
                                         management</p>
                                     <div class="d-flex flex-wrap gap-3 small">
@@ -231,7 +231,7 @@
                                     <i class="bi-palette fs-4 text-white"></i>
                                 </div>
                                 <div class="flex-grow-1">
-                                    <h3 class="h4 service-title mb-2">WordPress Development</h3>
+                                    <h3 class="h4 service-title mb-2">WordPress & CMS Website Development</h3>
                                     <p class="text-muted mb-3">Custom WordPress themes and plugins for easy content
                                         management</p>
                                     <div class="d-flex flex-wrap gap-3 small">
@@ -633,7 +633,7 @@
                                     <i class="bi-phone fs-4 text-white"></i>
                                 </div>
                                 <div class="flex-grow-1">
-                                    <h3 class="h4 service-title mb-2">Progressive Web Apps</h3>
+                                    <h3 class="h4 service-title mb-2">Progressive Web Apps (PWAs)</h3>
                                     <p class="text-muted mb-3">App-like experiences that work across all platforms</p>
                                     <div class="d-flex flex-wrap gap-3 small">
                                         <div class="d-flex align-items-center gap-2">
@@ -732,8 +732,8 @@
                                     <i class="bi-search fs-4 text-white"></i>
                                 </div>
                                 <div class="flex-grow-1">
-                                    <h3 class="h4 service-title mb-2">SEO & Performance</h3>
-                                    <p class="text-muted mb-3">Complete SEO audit and performance optimization services
+                                    <h3 class="h4 service-title mb-2">SEO & Performance Optimization</h3>
+                                    <p class="text-muted mb-3">Complete SEO audit and performance enhancement
                                     </p>
                                     <div class="d-flex flex-wrap gap-3 small">
                                         <div class="d-flex align-items-center gap-2">
@@ -820,8 +820,177 @@
                         </div>
                     </div>
                 </div>
+           
+
+          <!-- Service 9 -->
+                <div class="col-lg-6">
+                    <div class="card card-hover h-100 border-0">
+                        <div class="card-body">
+                            <div class="d-flex align-items-start gap-4 mb-4">
+                                <div class="accent-gradient rounded-xl service-icon d-flex align-items-center justify-content-center"
+                                    style="width: 64px; height: 64px;">
+                                   <i class="bi bi-vector-pen  fs-4 text-white"></i>
+                                </div>
+                                <div class="flex-grow-1">
+                                    <h3 class="h4 service-title mb-2">UI/UX Design & Prototyping</h3>
+                                    <p class="text-muted mb-3">Design-first approach for modern and intuitive interfaces</p>
+                                    <div class="d-flex flex-wrap gap-3 small">
+                                        <div class="d-flex align-items-center gap-2">
+                                           <i class="bi-currency-rupee text-accent"></i>
+                                            <span class="fw-medium"> Starting from ₹10,000</span>
+                                        </div>
+                                        <div class="d-flex align-items-center gap-2">
+                                            <i class="bi-clock text-accent"></i>
+                                            <span class="fw-medium"> 5–10 days</span>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="mb-4">
+                                <h4 class="h6 fw-semibold mb-3">What's Included:</h4>
+                                <div class="row g-2">
+                                    <div class="col-md-6">
+                                        <div class="d-flex align-items-center gap-2">
+                                            <i class="bi-check-circle text-accent"></i>
+                                            <span class="small text-muted">Wireframes & Prototypes</span>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <div class="d-flex align-items-center gap-2">
+                                            <i class="bi-check-circle text-accent"></i>
+                                            <span class="small text-muted">Figma or Adobe XD UI Design</span>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <div class="d-flex align-items-center gap-2">
+                                            <i class="bi-check-circle text-accent"></i>
+                                            <span class="small text-muted">Color & Font Strategy</span>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <div class="d-flex align-items-center gap-2">
+                                            <i class="bi-check-circle text-accent"></i>
+                                            <span class="small text-muted">Accessibility Guidelines</span>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <div class="d-flex align-items-center gap-2">
+                                            <i class="bi-check-circle text-accent"></i>
+                                            <span class="small text-muted">Interaction Animations</span>
+                                        </div>
+                                    </div>
+                                   
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="mb-4">
+                                <h4 class="h6 fw-semibold mb-3">Technologies Used:</h4>
+                                <div class="d-flex flex-wrap gap-2">
+                                    <span class="badge badge-tech">Figma</span>
+                                    <span class="badge badge-tech">Adobe XD</span>
+                                    <span class="badge badge-tech">Sketch</span>
+                                    <span class="badge badge-tech">Lottie</span>
+                                    <span class="badge badge-tech">Zeplin</span>
+                                </div>
+                            </div>
+
+                           <a class="btn btn-warning w-100 d-flex align-items-center justify-content-center gap-2"
+                               href="/services-detail.htm">
+                                View Details
+                                <i class="bi-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                <!-- Service 10 -->
+                <div class="col-lg-6">
+                    <div class="card card-hover h-100 border-0">
+                        <div class="card-body">
+                            <div class="d-flex align-items-start gap-4 mb-4">
+                                <div class="accent-gradient rounded-xl service-icon d-flex align-items-center justify-content-center"
+                                    style="width: 64px; height: 64px;">
+                                  <i class="bi bi-wrench-adjustable-circle  fs-4 text-white"></i> 
+                                </div>
+                                <div class="flex-grow-1">
+                                    <h3 class="h4 service-title mb-2">Website Maintenance & Support</h3>
+                                    <p class="text-muted mb-3">Ongoing updates, security & performance care
+                                    </p>
+                                    <div class="d-flex flex-wrap gap-3 small">
+                                        <div class="d-flex align-items-center gap-2">
+                                            <i class="bi-currency-rupee text-accent"></i>
+                                            <span class="fw-medium">Starting from ₹5,000/month</span>
+                                        </div>
+                                       
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="mb-4">
+                                <h4 class="h6 fw-semibold mb-3">What's Included:</h4>
+                                <div class="row g-2">
+                                    <div class="col-md-6">
+                                        <div class="d-flex align-items-center gap-2">
+                                            <i class="bi-check-circle text-accent"></i>
+                                            <span class="small text-muted">Monthly Updates</span>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <div class="d-flex align-items-center gap-2">
+                                            <i class="bi-check-circle text-accent"></i>
+                                            <span class="small text-muted">Bug Fixing</span>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <div class="d-flex align-items-center gap-2">
+                                            <i class="bi-check-circle text-accent"></i>
+                                            <span class="small text-muted">Plugin/Theme Updates</span>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <div class="d-flex align-items-center gap-2">
+                                            <i class="bi-check-circle text-accent"></i>
+                                            <span class="small text-muted">Backup Management</span>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <div class="d-flex align-items-center gap-2">
+                                            <i class="bi-check-circle text-accent"></i>
+                                            <span class="small text-muted">Security Monitoring</span>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <div class="d-flex align-items-center gap-2">
+                                            <i class="bi-check-circle text-accent"></i>
+                                            <span class="small text-muted">Uptime Monitoring</span>
+                                        </div>
+                                    </div>
+                                    
+                                </div>
+                            </div>
+
+                            <div class="mb-4">
+                                <h4 class="h6 fw-semibold mb-3">Technologies Used:</h4>
+                                <div class="d-flex flex-wrap gap-2">
+                                    <span class="badge badge-tech">cPanel</span>
+                                    <span class="badge badge-tech">WordPress</span>
+                                    <span class="badge badge-tech">Cloudflare</span>
+                                    <span class="badge badge-tech">UpdraftPlus</span>
+                                     <span class="badge badge-tech">Jetpack</span>
+                                </div>
+                            </div>
+
+                         <a class="btn btn-warning w-100 d-flex align-items-center justify-content-center gap-2"
+                               href="/services-detail.htm">
+                                View Details
+                                <i class="bi-arrow-right"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
+</div>
     </section>
 
     <!-- Process Section -->
