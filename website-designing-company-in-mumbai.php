@@ -2,9 +2,7 @@
 
     <!-- pricing section -->
     <!-- Hero Section -->
-    <section class="service-ready-start What sets us apart:
-
- position-relative overflow-hidden">
+    <section class="service-ready-start position-relative overflow-hidden">
         <div class="bg-grid-pattern position-absolute top-0 left-0 w-100 h-100"></div>
         <div class="bg-gradient-to-bottom from-primary/10 to-transparent position-absolute top-0 left-0 w-100 h-100">
         </div>
