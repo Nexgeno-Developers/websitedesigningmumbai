@@ -33,6 +33,19 @@
       padding: 80px 0 !important;
     }
 
+    .hero-icon-all-web{
+      width: 6rem;
+      height: 6rem;
+    }
+
+    .choose-package-section-padding-80px{
+      padding-bottom: 80px !important;
+    }
+
+    .section-padding-top-80px{
+      padding-top: 80px !important;
+    }
+
     #mainHeader {
       z-index: 9999;
     }
@@ -189,7 +202,6 @@
       position: relative;
       z-index: 1;
       text-align: center;
-      max-width: 1200px;
       margin: 0 auto;
       padding: 0 1.5rem;
       animation: fadeIn 1s ease-out;
@@ -287,10 +299,10 @@
       z-index: 10;
     }
 
-    .btn-hero:hover,
-.btn-hero:focus,
-.btn-hero:active {
+    .btn-hero:hover, .btn-hero:focus, .btn-hero:active,
+    .btn-subscribe:hover, .btn-subscribe:focus, .btn-subscribe:active {
     color: var(--text-dark) !important;
+    
 }
 
     .btn-glass {
@@ -722,7 +734,7 @@
     .glass-btn {
       background: rgba(255, 255, 255, 0.1);
       backdrop-filter: blur(10px);
-      border: 1px solid rgba(255, 255, 255, 0.2);
+      border: 1px solid rgb(255 255 255);
       width: 36px;
       height: 36px;
       border-radius: 50%;
@@ -730,6 +742,7 @@
       align-items: center;
       justify-content: center;
       transition: all 0.3s ease;
+      color: white;
     }
 
     .glass-btn:hover {
@@ -758,10 +771,11 @@
     }
 
     .newsletter-card {
-      background: linear-gradient(135deg, hsla(220, 20%, 100%, .8) 0%, hsla(220, 20%, 100%, .4) 100%);
-      backdrop-filter: blur(10px);
-      border-radius: 0.5rem;
-      border: 1px solid rgba(255, 255, 255, 0.1);
+        background: linear-gradient(135deg, hsl(0deg 0% 100% / 14%) 0%, hsl(0deg 0% 100% / 18%) 100%);
+        backdrop-filter: blur(10px);
+        border-radius: 0.5rem;
+        border: 1px solid rgba(255, 255, 255, 0.1);
+        max-width: 650px;
     }
 
     .newsletter-input {
@@ -1371,7 +1385,7 @@
 
     .popular-badge {
       position: absolute;
-      top: 10px;
+      top: -15px;
       left: 50%;
       transform: translateX(-50%);
       background: var(--accent);
@@ -1675,6 +1689,7 @@
     .web-design-page-mumbai-heading{
       font-size: 28px !important;
     }
+
     /* website design mumbai company page==================================================== */
 
 
@@ -1682,21 +1697,91 @@
     /* responsive================== */
 
     @media (max-width: 768px) {
+      .section-padding-80px,
+      .choose-package-section-padding-80px{
+        padding: 40px 0 !important;
+      }
+
+      /* .package-section-padding-bottom-80px{
+        padding-bottom: 40px !important;
+      } */
+
+      .section-padding-top-80px{
+        padding-top: 40px !important;
+      }
+
       .industry-icon-container{
         width: 3rem;
         height: 3rem;
       }
+      
       .industry-icon{
         font-size: 1rem;
       }
+      
       .we-serve-industry-badge{
         font-size: 11px;
         padding: 2px 7px;
       }
+      
       .industry-item{
         margin-bottom: 10px;
         gap: 10px;
       }
-    }
+
+      .hero-icon-all-web{
+        width: 4rem;
+        height: 4rem;
+      }
+
+      .hero-header-text{
+        font-size: 24px;
+      }
+
+      .hero-para-text{
+        font-size: 16px !important;
+      }
+
+      .what-include span{
+        font-size: 16px !important;
+      }
+
+      .hero-header-pricing{
+        padding: 8px 30px !important;
+        gap: 0px !important;
+      }
+
+      .hero-header-pricing-text{
+        font-size: 16px !important;
+      }
+
+      .web-design-page-mumbai-heading{
+        font-size: 24px !important;
+      }
+
+      .web-design-page-mumbai{
+        font-size: 16px;
+        line-height: 1.7;
+      }
+
+      .pricing-heading-design-company{
+        font-size: 20px;
+      }
+
+      .web-design-page-mumbai-li-hight{
+        line-height: 1.7 !important;
+      }
+
+      .faq-col-column{
+        display: flex;
+        flex-direction: column;
+      }
+
+      .hero-section-max-786{
+        padding-top: 0px !important;
+      }
+
+}
+
 
     /* responsive================== */

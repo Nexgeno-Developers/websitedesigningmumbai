@@ -61,6 +61,18 @@ $seo = get_seo_data($page);
     color: #000 !important;
     
 }
+/* Hide the scrolled logo by default */
+.scrolled-logo {
+    display: none;
+}
+
+/* When the parent has .scrolled, hide default and show scrolled logo */
+.scrolled .default-logo {
+    display: none;
+}
+.scrolled .scrolled-logo {
+    display: inline-block;
+}
 </style>
 <body>
 
@@ -93,8 +105,10 @@ $seo = get_seo_data($page);
                 <!-- Logo -->
                 <div class="d-flex align-items-center">
                     <div class="me-2 rounded d-flex align-items-center justify-content-center">
-                       <a href="/"> <img src="img/websie_designing_logo.png" alt="Logo"
-                            class="me-2 rounded object-fit-cover header_logo" /></a>
+                       <a href="/">
+                            <img src="img/websie_designing_logo_white.png" alt="Logo" class="me-2 rounded object-fit-cover header_logo default-logo" />
+                            <img src="img/websie_designing_logo.png" alt="Logo" class="me-2 rounded object-fit-cover header_logo scrolled-logo" />
+                        </a>
                     </div>
                     <!-- <div>
                         <div class="fw-bold fs-5 text-white">WebDesign</div>

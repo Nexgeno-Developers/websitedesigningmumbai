@@ -52,19 +52,19 @@
                 <div class="fake-div"></div>
                 <div id="counter" class="hero-stats">
                     <div class="text-center">
-                        <div class="counter-value stat-number" data-count="4500">0</div>
+                        <div class="counter-value stat-number" data-count="4500">0+</div>
                         <div class="stat-label">Projects Done</div>
                     </div>
                     <div class="text-center">
-                        <div class="counter-value stat-number" data-count="3000">0</div>
+                        <div class="counter-value stat-number" data-count="3000">0+</div>
                         <div class="stat-label">Happy Clients</div>
                     </div>
                     <div class="text-center">
-                        <div class="counter-value stat-number" data-count="17">0</div>
+                        <div class="counter-value stat-number" data-count="17">0+</div>
                         <div class="stat-label">Years Experience</div>
                     </div>
                     <div class="text-center">
-                        <div class="counter-value stat-number" data-count="45">0</div>
+                        <div class="counter-value stat-number" data-count="45">0+</div>
                         <div class="stat-label">Dedicated Employees</div>
                     </div>
                 </div>
