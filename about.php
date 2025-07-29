@@ -1,17 +1,17 @@
 <?php include 'header.php';?>
 
 
-    <section class="bg-hero-gradient text-white py-5">
-        <div class="container px-4 pt-md-5 pt-1">
-            <div class="max-w-4xl mx-auto text-center py-5">
-                <h1 class="display-4 fw-bold mb-4">
+    <section class="bg-hero-gradient text-white section-padding-80px">
+        <div class="container">
+            <div class="max-w-4xl mx-auto text-center">
+                <h1 class="display-4 fw-bold mb-3 pt-5 hero-header-text">
                     About WebDesign Mumbai
                 </h1>
-                <p class="fs-4 text-white-80 mb-5">
+                <p class="fs-4 text-white-80 mb-md-5 mb-3 hero-para-text">
                     We're a passionate team of developers and designers creating amazing web experiences
                     for businesses across Mumbai and beyond.
                 </p>
-                <button class="btn btn-hero btn-lg px-4 py-2">
+                <button class="btn btn-hero btn-lg px-4 py-2 hero-header-pricing hero-header-pricing-text" onclick="window.location.href='contact.htm'">
                     Work With Us
                 </button>
             </div>
@@ -19,15 +19,15 @@
     </section>
 
     <!-- Stats Section -->
-    <section class="py-5">
-        <div class="container px-4">
+    <section class="section-padding-80px">
+        <div class="container">
             <div class="row g-4 text-center" id="counter">
                 <div class="col-6 col-md-3">
                     <div
                         class="about-counter-state bg-accent-gradient rounded-circle d-flex align-items-center justify-content-center mx-auto mb-3">
                         <i class="bi bi-bullseye fs-3 text-accent-foreground"></i>
                     </div>
-                    <div class="display-4 fw-bold text-foreground mb-2 counter-value" data-count="4500">0</div>
+                    <div class="display-4 fw-bold text-foreground mb-2 counter-value" data-count="4500">0+</div>
                     <div class="text-muted fw-medium">Projects Completed</div>
                 </div>
                 <div class="col-6 col-md-3">
@@ -35,7 +35,7 @@
                         class="about-counter-state bg-accent-gradient rounded-circle d-flex align-items-center justify-content-center mx-auto mb-3">
                         <i class="bi bi-people fs-3 text-accent-foreground"></i>
                     </div>
-                    <div class="display-4 fw-bold text-foreground mb-2 counter-value" data-count="3000">0</div>
+                    <div class="display-4 fw-bold text-foreground mb-2 counter-value" data-count="3000">0+</div>
                     <div class="text-muted fw-medium">Happy Clients</div>
                 </div>
                 <div class="col-6 col-md-3">
@@ -43,7 +43,7 @@
                         class="about-counter-state bg-accent-gradient rounded-circle d-flex align-items-center justify-content-center mx-auto mb-3">
                         <i class="bi bi-award fs-3 text-accent-foreground"></i>
                     </div>
-                    <div class="display-4 fw-bold text-foreground mb-2 counter-value" data-count="17">0</div>
+                    <div class="display-4 fw-bold text-foreground mb-2 counter-value" data-count="17">0+</div>
                     <div class="text-muted fw-medium">Years Experience</div>
                 </div>
                 <div class="col-6 col-md-3">
@@ -51,7 +51,7 @@
                         class="about-counter-state bg-accent-gradient rounded-circle d-flex align-items-center justify-content-center mx-auto mb-3">
                         <i class="bi bi-heart fs-3 text-accent-foreground"></i>
                     </div>
-                    <div class="display-4 fw-bold text-foreground mb-2 counter-value" data-count="4500">0</div>
+                    <div class="display-4 fw-bold text-foreground mb-2 counter-value" data-count="4500">0+</div>
                     <div class="text-muted fw-medium">Client Satisfaction</div>
                 </div>
             </div>
@@ -59,23 +59,23 @@
     </section>
 
     <!-- Story Section -->
-    <section class="py-5 bg-light">
-        <div class="container px-md-5 px-2">
-            <div class="max-w-4xl mx-auto">
-                <h2 class="display-4 fw-bold text-center mb-md-4 mb-2">
+    <section class="bg-light section-padding-80px">
+        <div class="container">
+            <div class="">
+                <h2 class="display-4 fw-bold text-center mb-md-4 mb-2 hero-header-text">
                     Our Story
                 </h2>
                 <div class="">
-                    <p class="fs-5 text-muted lh-lg mb-md-4 mb-2">
+                    <p class="fs-5 text-muted lh-lg mb-md-4 mb-2 hero-para-text">
                         Founded in 2019 in the heart of Mumbai, WebDesign Mumbai started with a simple mission:
                         to help businesses establish a strong online presence with beautiful, functional websites.
                     </p>
-                    <p class="fs-5 text-muted lh-lg mb-md-4 mb-2">
+                    <p class="fs-5 text-muted lh-lg mb-md-4 mb-2 hero-para-text">
                         What began as a small team of passionate developers has grown into a full-service web
                         development agency serving clients from startups to large enterprises. We've completed
                         over 500 projects, each one teaching us something new about what makes websites truly effective.
                     </p>
-                    <p class="fs-5 text-muted lh-lg">
+                    <p class="fs-5 text-muted lh-lg hero-para-text">
                         Today, we combine the power of AI with human creativity to deliver websites faster than
                         ever before, without compromising on quality. Our clients choose us because we understand
                         that every business is unique, and we take the time to create solutions that fit their
@@ -87,13 +87,13 @@
     </section>
 
     <!-- Values Section -->
-    <section class="py-5">
-        <div class="container px-4">
+    <section class="section-padding-80px">
+        <div class="container">
             <div class="text-center mb-5">
-                <h2 class="display-4 fw-bold mb-4">
+                <h2 class="display-4 fw-bold mb-4 hero-header-text">
                     Our Values
                 </h2>
-                <p class="fs-5 text-muted max-w-3xl mx-auto">
+                <p class="fs-5 text-muted max-w-3xl mx-auto hero-para-text">
                     These core values guide everything we do and help us deliver exceptional results for our clients.
                 </p>
             </div>

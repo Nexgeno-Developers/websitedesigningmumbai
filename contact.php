@@ -5,7 +5,7 @@
     <section class="service-ready-start section-padding-80px">
         <div class="container text-center">
             <h1 class="display-4 fw-bold mb-4 pt-md-5">Get In Touch</h1>
-            <p class="fs-3 text-white text-opacity-80 mx-auto mb-0" style="max-width: 700px;">
+            <p class="fs-3 text-white text-opacity-80 mx-auto mb-0">
                 Ready to start your project? Let's discuss how we can help bring your vision to life.
             </p>
         </div>
@@ -17,7 +17,7 @@
             <div class="row g-4">
                 <!-- Contact Form -->
                 <div class="col-lg-8 ">
-                    <div class="card card-hover border-0 shadow border-radius-75rem">
+                    <div class="card card-hover border-0 shadow border-radius-75rem contact-form-scroll">
                         <div class="card-body p-4 p-md-5">
                             <h2 class="text-center display-5 fw-bold mb-4">Start Your Project Today</h2>
                             <p class="text-center text-muted mb-5">
@@ -42,7 +42,7 @@
                                     <label class="form-label">Company Name</label>
                                     <input type="text" class="form-control" placeholder="Your company name">
                                 </div>
-                                <div class="col-12">
+                                <!-- <div class="col-12">
                                     <label class="form-label">Project Type *</label>
                                     <select class="form-select" required>
                                         <option value="">Select project type</option>
@@ -78,9 +78,9 @@
                                         <option>2-3 months</option>
                                         <option>Flexible</option>
                                     </select>
-                                </div>
+                                </div> -->
                                 <div class="col-12">
-                                    <label class="form-label">Project Details *</label>
+                                    <label class="form-label">Message *</label>
                                     <textarea class="form-control" rows="6"
                                         placeholder="Tell us about your project requirements, goals, and any specific features you need..."
                                         required></textarea>
@@ -88,7 +88,7 @@
                                 <div class="col-12">
                                     <button type="submit" class="btn btn-accent w-100 py-3 fw-semibold">
                                         <i class="bi-send-fill me-2"></i>
-                                        Send Project Details
+                                        Submit
                                     </button>
                                 </div>
                             </form>
@@ -151,8 +151,8 @@
                                 <div>
                                     <h3 class="h5 fw-semibold mb-1 contact-title">Address</h3>
                                     <p class="small text-muted mb-2">Visit our office</p>
-                                    <p class="fw-medium mb-1">Unit No. F-50,</p>
-                                    <p class="fw-medium mb-1">First Floor kohinoor City Mall,</p>
+                                    <p class="fw-medium mb-1">Unit No. F-50, First Floor,</p>
+                                    <p class="fw-medium mb-1">Kohinoor City Mall,</p>
                                     <p class="fw-medium mb-1">Opp Holly Cross School,</p>
                                     <p class="fw-medium mb-1">Kurla (West) Mumbai,</p>
                                     <p class="fw-medium">Maharashtra - 400070, India</p>
@@ -184,7 +184,7 @@
                             <i class="bi-whatsapp me-2"></i>
                             WhatsApp Chat
                         </button>
-                        <button class="btn btn-offer-service d-flex align-items-center justify-content-center py-3">
+                        <button class="btn btn-offer-service d-flex align-items-center justify-content-center py-3" onclick="window.open('https://calendly.com/shahrukh-nexgeno', '_blank')">
                             <i class="bi-calendar-check me-2"></i>
                             Schedule Video Call
                         </button>
@@ -195,8 +195,8 @@
     </section>
 
     <!-- FAQ Section -->
-    <section class="py-5 bg-light-blue">
-        <div class="container py-5">
+    <section class="bg-light-blue section-padding-80px">
+        <div class="container">
             <div class="text-center mb-5">
                 <h2 class="display-4 fw-bold mb-3">Frequently Asked Questions</h2>
             </div>

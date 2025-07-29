@@ -15,34 +15,34 @@
         </div>
 
         <div class="hero-content">
-            <div class="pt-md-5">
+            <div class="pt-5 mt-3 ">
                 <!-- Badge -->
-                <div class="hero-badge">
+                <div class="hero-badge ai-powerd-badge">
                     <span class="badge-dot"></span>
                     AI-Powered Web Development Agency
                 </div>
 
                 <!-- Main Heading -->
-                <h1 class="hero-heading">
+                <h1 class="hero-heading hero-header-text">
                     Get a Stunning Website
                     <span class="hero-heading-accent">Fast, Scalable</span>
                     & Within Your Budget
                 </h1>
 
                 <!-- Subheading -->
-                <p class="hero-subheading">
+                <p class="hero-subheading hero-para-text">
                     From one-page websites to full-scale platforms, we build it all — in any language or tech stack.
                     Fast delivery via AI + Expert Review.
                 </p>
 
                 <!-- CTA Buttons -->
                 <div class="d-flex flex-column flex-sm-row align-items-center justify-content-center gap-4 pt-4">
-                    <button class="btn btn-hero" onclick="window.location.href='get-quote.htm'">
+                    <button class="btn btn-hero hero-header-pricing hero-header-pricing-text" onclick="window.location.href='get-quote.htm'">
                         Get a Free Quote
                         <i class="bi bi-arrow-right btn-icon ms-2"></i>
                     </button>
 
-                    <button class="btn btn-glass" onclick="window.location.href='portfolio.htm'">
+                    <button class="btn btn-glass hero-header-pricing hero-header-pricing-text" onclick="window.location.href='portfolio.htm'">
                         <i class="bi bi-play-fill btn-icon me-2"></i>
                         View Our Work
                     </button>
@@ -302,7 +302,7 @@
             </div>
 
             <div class="text-center animate-scale-in">
-                <button class="btn cta-btn">
+                <button class="btn cta-btn hero-header-pricing hero-header-pricing-text" onclick="window.location.href='get-quote.htm'">
                     Get Custom Quote
                     <i class="bi bi-arrow-right ms-2"></i>
                 </button>
@@ -315,10 +315,10 @@
     <section class="why-choose-us section-padding-80px">
         <div class="container">
             <div class="text-center mb-5">
-                <h2 class="section-heading">
+                <h2 class="section-heading hero-header-text">
                     Why <span class="gradient-text">Choose Us?</span>
                 </h2>
-                <p class="section-subheading">
+                <p class="section-subheading hero-para-text">
                     We combine cutting-edge technology with proven expertise to deliver
                     exceptional results for businesses of all sizes.
                 </p>
@@ -332,8 +332,8 @@
                             <i class="bi bi-lightning-charge feature-icon"></i>
                         </div>
                         <div>
-                            <h3 class="feature-title">Fast Delivery via AI + Expert Review</h3>
-                            <p class="feature-description">
+                            <h3 class="feature-title hero-header-text">Fast Delivery via AI + Expert Review</h3>
+                            <p class="feature-description hero-para-text">
                                 Accelerated development process with AI assistance and human expertise for quality assurance.
                             </p>
                         </div>
@@ -347,8 +347,8 @@
                             <i class="bi bi-currency-dollar feature-icon"></i>
                         </div>
                         <div>
-                            <h3 class="feature-title">Budget-Flexible: Startups to Enterprise</h3>
-                            <p class="feature-description">
+                            <h3 class="feature-title hero-header-text">Budget-Flexible: Startups to Enterprise</h3>
+                            <p class="feature-description hero-para-text">
                                 Scalable solutions that grow with your business, from MVP to enterprise-grade applications.
                             </p>
                         </div>
@@ -362,8 +362,8 @@
                             <i class="bi bi-shield-check feature-icon"></i>
                         </div>
                         <div>
-                            <h3 class="feature-title">SEO-Friendly & Mobile Responsive</h3>
-                            <p class="feature-description">
+                            <h3 class="feature-title hero-header-text">SEO-Friendly & Mobile Responsive</h3>
+                            <p class="feature-description hero-para-text">
                                 Built-in SEO optimization and responsive design for maximum reach and performance.
                             </p>
                         </div>
@@ -377,8 +377,8 @@
                             <i class="bi bi-graph-up feature-icon"></i>
                         </div>
                         <div>
-                            <h3 class="feature-title">Technology-Agnostic Development</h3>
-                            <p class="feature-description">
+                            <h3 class="feature-title hero-header-text">Technology-Agnostic Development</h3>
+                            <p class="feature-description hero-para-text">
                                 Any platform, any stack - we adapt to your preferred technologies and requirements.
                             </p>
                         </div>
@@ -394,10 +394,10 @@
     <section class="testimonials-section section-padding-80px">
         <div class="container">
             <div class="text-center mb-5">
-                <h2 class="section-heading">
+                <h2 class="section-heading hero-header-text">
                     What Our <span class="gradient-text">Clients Say</span>
                 </h2>
-                <p class="section-subheading">
+                <p class="section-subheading hero-para-text">
                     Real results from real businesses who trusted us with their digital presence
                 </p>
             </div>
@@ -485,11 +485,11 @@
     <!-- Industries we serve -->
     <section class="industries-section section-padding-80px">
         <div class="container">
-            <div class="text-center mb-5 animate-fade-in">
-                <h2 class="section-heading">
+            <div class="text-center mb-md-5 mb-3 animate-fade-in">
+                <h2 class="section-heading hero-header-text">
                     Industries <span class="gradient-text">We Serve</span>
                 </h2>
-                <p class="section-subheading">
+                <p class="section-subheading hero-para-text">
                     Tailored solutions for every industry, with deep understanding of sector-specific needs and
                     requirements
                 </p>
@@ -593,11 +593,11 @@
     <section class="contact-section section-padding-80px">
         <div class="container position-relative">
             <div class="text-center mb-5 animate-fade-in">
-                <h2 class="section-heading">
+                <h2 class="section-heading hero-header-text">
                     Ready to Start Your
                     <span class="gradient-text">Website Today?</span>
                 </h2>
-                <p class="section-subheading">
+                <p class="section-subheading hero-para-text">
                     Get a free quote and discover how we can transform your online presence with AI-powered development
                 </p>
             </div>

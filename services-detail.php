@@ -2,24 +2,24 @@
 
     <!-- pricing section -->
     <!-- Hero Section -->
-    <section class="service-ready-start py-5 position-relative overflow-hidden">
+    <section class="service-ready-start section-padding-80px position-relative">
         <div class="bg-grid-pattern position-absolute top-0 left-0 w-100 h-100"></div>
         <div class="bg-gradient-to-bottom from-primary/10 to-transparent position-absolute top-0 left-0 w-100 h-100">
         </div>
-        <div class="container py-5 position-relative">
+        <div class="container position-relative">
             <div class="row justify-content-center">
-                <div class="col-lg-8 text-center">
+                <div class="col-lg-8 text-center pt-5 mt-3">
                     <div class="d-inline-flex align-items-center justify-content-center bg-glass rounded-3 border border-white border-opacity-10 mb-4"
                         style="width: 6rem; height: 6rem;">
                         <i class="bi-globe text-white fs-1"></i>
                     </div>
-                    <h1 class="display-4 fw-bold mb-4 text-gradient">Static & Dynamic Websites</h1>
-                    <p class="fs-4 text-white text-opacity-70 mb-5">High-performance websites built with modern
+                    <h1 class="display-4 fw-bold mb-4 text-gradient hero-header-text">Static & Dynamic Websites</h1>
+                    <p class="fs-4 text-white text-opacity-70 mb-md-5 mb-3 hero-para-text">High-performance websites built with modern
                         technologies</p>
 
-                    <div class="d-flex flex-column flex-md-row gap-3 justify-content-center mb-5">
+                    <div class="d-flex flex-column flex-md-row gap-3 justify-content-center mb-md-5 mb-4">
                         <div
-                            class="d-flex align-items-center gap-3 bg-glass px-4 py-3 rounded-3 border border-white border-opacity-10">
+                            class="d-flex align-items-center gap-3 bg-glass px-4 py-3 rounded-3 border border-white border-opacity-10 hero-header-pricing hero-header-pricing-text">
                             <div class="bg-accent bg-opacity-20 rounded-2 d-flex align-items-center justify-content-center"
                                 style="width: 2rem; height: 2rem;">
                                 <i class="bi-currency-rupee text-accent"></i>
@@ -27,7 +27,7 @@
                             <span class="fw-semibold fs-5">Starting from ₹15,000</span>
                         </div>
                         <div
-                            class="d-flex align-items-center gap-3 bg-glass px-4 py-3 rounded-3 border border-white border-opacity-10">
+                            class="d-flex align-items-center gap-3 bg-glass px-4 py-3 rounded-3 border border-white border-opacity-10 hero-header-pricing hero-header-pricing-text">
                             <div class="bg-accent bg-opacity-20 rounded-2 d-flex align-items-center justify-content-center"
                                 style="width: 2rem; height: 2rem;">
                                 <i class="bi-clock text-accent"></i>
@@ -37,10 +37,10 @@
                     </div>
 
                     <div class="d-flex flex-column flex-sm-row gap-3 justify-content-center">
-                        <button class="btn btn-hero btn-lg px-5 py-3 fs-5">
+                        <button class="btn btn-hero btn-lg px-5 py-3 fs-5 hero-header-pricing hero-header-pricing-text">
                             Get Free Quote
                         </button>
-                        <button class="btn btn-hero-outline btn-lg px-5 py-3 fs-5">
+                        <button class="btn btn-hero-outline btn-lg px-5 py-3 fs-5 hero-header-pricing hero-header-pricing-text">
                             <i class="bi-headphones me-2"></i>
                             Schedule Call
                         </button>
@@ -51,11 +51,11 @@
     </section>
 
     <!-- Description -->
-    <section class="py-5 bg-white">
-        <div class="container py-5">
+    <section class="bg-white section-padding-80px">
+        <div class="container">
             <div class="row justify-content-center">
                 <div class="col-lg-8 text-center">
-                    <p class="fs-5 text-muted">
+                    <p class="fs-5 text-muted hero-para-text">
                         We create fast-loading, responsive websites that deliver exceptional user experiences across all
                         devices. Our websites are built with modern frameworks and optimized for performance, SEO, and
                         conversion.
@@ -66,16 +66,16 @@
     </section>
 
     <!-- Packages -->
-    <section class="py-5 bg-gradient-to-end from-secondary bg-opacity-10">
-        <div class="container py-5">
-            <div class="text-center mb-5">
+    <section class="bg-gradient-to-end from-secondary bg-opacity-10">
+        <div class="container">
+            <div class="text-center mb-md-5 mb-3">
                 <div
                     class="d-inline-flex align-items-center gap-2 bg-accent bg-opacity-10 text-accent px-4 py-2 rounded-pill small fw-bold mb-3">
                     <i class="bi-graph-up"></i>
                     Pricing Plans
                 </div>
-                <h2 class="display-4 fw-bold mb-3">Choose Your Package</h2>
-                <p class="fs-5 text-muted mx-auto" style="max-width: 700px;">
+                <h2 class="display-4 fw-bold mb-3 hero-header-text">Choose Your Package</h2>
+                <p class="fs-5 text-muted mx-auto hero-para-text">
                     Select the perfect package for your needs. All packages include our standard features plus
                     package-specific benefits.
                 </p>
@@ -120,7 +120,7 @@
                                     <span>1 month support</span>
                                 </li>
                             </ul>
-                            <button class="btn btn-offer-service w-100 py-3 fw-semibold">
+                            <button class="btn btn-offer-service w-100 py-3 fw-semibold hero-header-pricing hero-header-pricing-text">
                                 Choose Basic
                                 <i class="bi-people ms-2"></i>
                             </button>
@@ -129,7 +129,7 @@
                 </div>
 
                 <!-- Standard Package (Popular) -->
-                <div class="col-md-4">
+                <div class="col-md-4 popular-card-card">
                     <div class="card h-100 border-0 shadow popular-card pricing-card-hovv">
                         
                         <div class="card-body p-4 mt-4">
@@ -174,7 +174,7 @@
                                     <span>Content management</span>
                                 </li>
                             </ul>
-                            <button class="btn btn-hero w-100 py-3 fw-semibold pricing-card-hovv">
+                            <button class="btn btn-hero w-100 py-3 fw-semibold pricing-card-hovv hero-header-pricing hero-header-pricing-text">
                                 Choose Standard
                                 <i class="bi-people ms-2"></i>
                             </button>
@@ -224,7 +224,7 @@
                                     <span>Training included</span>
                                 </li>
                             </ul>
-                            <button class="btn btn-offer-service w-100 py-3 fw-semibold">
+                            <button class="btn btn-offer-service w-100 py-3 fw-semibold hero-header-pricing hero-header-pricing-text">
                                 Choose Premium
                                 <i class="bi-people ms-2"></i>
                             </button>

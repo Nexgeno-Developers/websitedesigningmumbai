@@ -86,7 +86,7 @@ $seo = get_seo_data($page);
                     <div class="d-flex align-items-center gap-4 text-muted small">
                         <div class="d-flex align-items-center gap-2 text-white">
                             <i class="bi bi-telephone"></i>
-                            <span>+91 98765 43210</span>
+                            <span>+91 98195 55545</span>
                         </div>
                         <div class="d-flex align-items-center gap-2 text-white">
                             <i class="bi bi-envelope"></i>
@@ -157,22 +157,22 @@ $seo = get_seo_data($page);
             <div class="container py-3">
                 <ul class="navbar-nav">
                     <li class="nav-item">
-                        <a class="nav-link py-2" href="#home">Home</a>
+                        <a class="nav-link py-2" href="/">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link py-2" href="#services">Services</a>
+                        <a class="nav-link py-2" href="services.htm">Services</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link py-2" href="#portfolio">Portfolio</a>
+                        <a class="nav-link py-2" href="portfolio.htm">Portfolio</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link py-2" href="#about">About</a>
+                        <a class="nav-link py-2" href="about.htm">About</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link py-2" href="#contact">Contact</a>
+                        <a class="nav-link py-2" href="contact.htm">Contact</a>
                     </li>
                 </ul>
-                <button class="btn btn-warning w-100 mt-2 fw-medium">
+                <button class="btn btn-warning w-100 mt-2 fw-medium" onclick="window.location.href='get-quote.htm'">
                     Get Quote
                 </button>
             </div>

@@ -2,22 +2,22 @@
 
     <!-- portfolio -->
     <!-- Hero Section -->
-    <section class="service-ready-start py-5">
-        <div class="container py-5 text-center">
-            <h1 class="display-4 fw-bold mb-4">Our Portfolio</h1>
-            <p class="fs-3 text-white text-opacity-80 mx-auto mb-5" style="max-width: 700px;">
+    <section class="service-ready-start section-padding-80px">
+        <div class="container text-center">
+            <h1 class="display-4 fw-bold pt-5 mb-3 hero-header-text">Our Portfolio</h1>
+            <p class="fs-3 text-white text-opacity-80 mx-auto mb-md-5 mb-3 hero-para-text">
                 Explore our successful projects and see how we've helped businesses achieve their goals
             </p>
-            <button class="btn btn-hero btn-lg px-5 py-3">
+            <button class="btn btn-hero btn-lg py-3 hero-header-pricing hero-header-pricing-text" onclick="window.location.href='get-quote.htm'">
                 Start Your Project
             </button>
         </div>
     </section>
 
     <!-- Filter Section -->
-    <section class="py-4 protfolio-list-background border-bottom">
+    <!-- <section class="py-4 protfolio-list-background">
         <div class="container">
-            <div class="d-flex flex-wrap justify-content-center gap-3 py-3">
+            <div class="d-flex flex-wrap justify-content-center gap-3 pt-md-3 pt-1 pb-md-3 pb-1">
                 <button class="btn btn-outline-secondary filter-btn active">All</button>
                 <button class="btn btn-outline-secondary filter-btn">E-commerce</button>
                 <button class="btn btn-outline-secondary filter-btn">Healthcare</button>
@@ -26,11 +26,21 @@
                 <button class="btn btn-outline-secondary filter-btn">Corporate</button>
             </div>
         </div>
-    </section>
+    </section> -->
 
     <!-- Projects Grid -->
-    <section class="py-5 protfolio-list-background">
-        <div class="container py-5">
+    <section class="protfolio-list-background section-padding-80px">
+         <div class="container">
+            <div class="d-flex flex-wrap justify-content-center gap-3 pb-md-5 pb-3">
+                <button class="btn btn-outline-secondary filter-btn active">All</button>
+                <button class="btn btn-outline-secondary filter-btn">E-commerce</button>
+                <button class="btn btn-outline-secondary filter-btn">Healthcare</button>
+                <button class="btn btn-outline-secondary filter-btn">Education</button>
+                <button class="btn btn-outline-secondary filter-btn">Startup</button>
+                <button class="btn btn-outline-secondary filter-btn">Corporate</button>
+            </div>
+        </div>
+        <div class="container">
             <div class="row g-4">
                 <!-- Project 1 -->
                 <div class="col-md-6 col-lg-4">
@@ -73,7 +83,7 @@
                             </div>
 
                             <div class="border-top pt-4">
-                                <div class="d-flex justify-content-between align-items-center">
+                                <div class="d-flex flex-wrap justify-content-between align-items-center">
                                     <div>
                                         <p class="small fw-semibold text-accent mb-1">Results:</p>
                                         <p class="small text-muted mb-0">300% increase in online sales</p>
@@ -128,7 +138,7 @@
                             </div>
 
                             <div class="border-top pt-4">
-                                <div class="d-flex justify-content-between align-items-center">
+                                <div class="d-flex flex-wrap justify-content-between align-items-center">
                                     <div>
                                         <p class="small fw-semibold text-accent mb-1">Results:</p>
                                         <p class="small text-muted mb-0">500+ patients registered in first month</p>
@@ -183,7 +193,7 @@
                             </div>
 
                             <div class="border-top pt-4">
-                                <div class="d-flex justify-content-between align-items-center">
+                                <div class="d-flex flex-wrap justify-content-between align-items-center">
                                     <div>
                                         <p class="small fw-semibold text-accent mb-1">Results:</p>
                                         <p class="small text-muted mb-0">10,000+ students enrolled</p>
@@ -237,7 +247,7 @@
                             </div>
 
                             <div class="border-top pt-4">
-                                <div class="d-flex justify-content-between align-items-center">
+                                <div class="d-flex flex-wrap justify-content-between align-items-center">
                                     <div>
                                         <p class="small fw-semibold text-accent mb-1">Results:</p>
                                         <p class="small text-muted mb-0">85% conversion rate improvement</p>
@@ -291,7 +301,7 @@
                             </div>
 
                             <div class="border-top pt-4">
-                                <div class="d-flex justify-content-between align-items-center">
+                                <div class="d-flex flex-wrap justify-content-between align-items-center">
                                     <div>
                                         <p class="small fw-semibold text-accent mb-1">Results:</p>
                                         <p class="small text-muted mb-0">200% increase in business inquiries</p>
@@ -345,7 +355,7 @@
                             </div>
 
                             <div class="border-top pt-4">
-                                <div class="d-flex justify-content-between align-items-center">
+                                <div class="d-flex flex-wrap justify-content-between align-items-center">
                                     <div>
                                         <p class="small fw-semibold text-accent mb-1">Results:</p>
                                         <p class="small text-muted mb-0">400% increase in customer engagement</p>
@@ -363,27 +373,27 @@
     </section>
 
     <!-- Stats Section -->
-    <section class="py-5 bg-light-blue">
-        <div class="container py-5">
+    <section class="bg-light-blue section-padding-80px">
+        <div class="container">
             <div class="text-center mb-5">
-                <h2 class="display-4 fw-bold mb-3">Project Success Metrics</h2>
+                <h2 class="display-4 fw-bold mb-3 hero-header-text">Project Success Metrics</h2>
             </div>
 
             <div class="row g-4" id="counter">
                 <div class="col-6 col-md-3 text-center">
-                    <div class="display-4 fw-bold text-accent mb-2 counter-value" data-count="4500">0</div>
+                    <div class="display-4 fw-bold text-portfolio-stat-1 mb-2 counter-value" data-count="4500">0+</div>
                     <p class="text-muted fw-medium">Projects Done</p>
                 </div>
                 <div class="col-6 col-md-3 text-center">
-                    <div class="display-4 fw-bold text-success mb-2 counter-value"  data-count="3000">0</div>
+                    <div class="display-4 fw-bold text-portfolio-stat-2 mb-2 counter-value"  data-count="3000">0+</div>
                     <p class="text-muted fw-medium">Happy Clients</p>
                 </div>
                 <div class="col-6 col-md-3 text-center">
-                    <div class="display-4 fw-bold text-primary mb-2 counter-value" data-count="17">0</div>
+                    <div class="display-4 fw-bold text-portfolio-stat-3 mb-2 counter-value" data-count="17">0+</div>
                     <p class="text-muted fw-medium">Years Of Experience</p>
                 </div>
                 <div class="col-6 col-md-3 text-center">
-                    <div class="display-4 fw-bold text-warning mb-2 counter-value" data-count="45">45</div>
+                    <div class="display-4 fw-bold text-portfolio-stat-4 mb-2 counter-value" data-count="45">0+</div>
                     <p class="text-muted fw-medium">Dedicated Employees</p>
                 </div>
             </div>

@@ -8,7 +8,7 @@
         </div>
         <div class="container position-relative">
             <div class="row justify-content-center">
-                <div class="col-lg-8 text-center pt-md-5 mt-3 hero-section-max-786">
+                <div class="col-lg-8 text-center pt-5 mt-3 hero-section-max-786">
                     <div class="hero-icon-all-web d-inline-flex align-items-center justify-content-center bg-glass rounded-3 border border-white border-opacity-10 mb-4">
                         <i class="bi-globe text-white fs-1"></i>
                     </div>

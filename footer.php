@@ -77,13 +77,13 @@
                     <h3 class="h5 fw-semibold mb-4 text-warning">Quick Links</h3>
                     <ul class="list-unstyled">
                         <li class="mb-2">
-                            <a href="#" class="footer-link">
+                            <a href="about.htm" class="footer-link">
                                 <!-- <i class="bi bi-arrow-right arrow-icon"></i> -->
                                 About Us
                             </a>
                         </li>
                         <li class="mb-2">
-                            <a href="#" class="footer-link">
+                            <a href="portfolio.htm" class="footer-link">
                                 <!-- <i class="bi bi-arrow-right arrow-icon"></i> -->
                                 Portfolio
                             </a>
@@ -95,7 +95,7 @@
                             </a>
                         </li>
                         <li class="mb-2">
-                            <a href="#" class="footer-link">
+                            <a href="get-quote.htm" class="footer-link">
                                 <!-- <i class="bi bi-arrow-right arrow-icon"></i> -->
                                 Free Quote
                             </a>
@@ -107,7 +107,7 @@
                             </a>
                         </li>
                         <li class="mb-2">
-                            <a href="#" class="footer-link">
+                            <a href="contact.htm" class="footer-link">
                                 <!-- <i class="bi bi-arrow-right arrow-icon"></i> -->
                                 Contact
                             </a>
@@ -120,15 +120,15 @@
                     <h3 class="h5 fw-semibold mb-4 text-warning">Get In Touch</h3>
                     <div class="mb-4 d-flex align-items-center">
                         <i class="bi bi-telephone text-warning me-3"></i>
-                        <a href="tel:+15551234567" class="footer-link">+1 (555) 123-4567</a>
+                        <a href="tel:+919819555545" class="footer-link">+91 98195 55545</a>
                     </div>
                     <div class="mb-4 d-flex align-items-center">
                         <i class="bi bi-envelope text-warning me-3"></i>
-                        <a href="mailto:hello@aiwebdev.com" class="footer-link">hello@aiwebdev.com</a>
+                        <a href="mailto:hello@websitedesignmumbai.com" class="footer-link">hello@websitedesignmumbai.com</a>
                     </div>
                     <div class="d-flex align-items-center">
                         <i class="bi bi-whatsapp text-warning me-3"></i>
-                        <a href="https://wa.me/15559876543" class="footer-link">WhatsApp: +1 (555) 987-6543</a>
+                        <a href="https://wa.me/+919819555545" class="footer-link">WhatsApp: +91 98195 55545</a>
                     </div>
                 </div>
             </div>
