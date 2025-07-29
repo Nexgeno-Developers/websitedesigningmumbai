@@ -111,7 +111,7 @@
                             </div>
 
                             <a class="btn btn-warning w-100 d-flex align-items-center justify-content-center gap-2"
-                               href="services-detail.htm">
+                               href="/services-detail.htm">
                                 View Details
                                 <i class="bi-arrow-right"></i>
                             </a>
@@ -213,7 +213,7 @@
                             </div>
 
                            <a class="btn btn-warning w-100 d-flex align-items-center justify-content-center gap-2"
-                               href="/services-detail.htm">
+                               href="/e-commerce-website-solutions.htm">
                                 View Details
                                 <i class="bi-arrow-right"></i>
                             </a>
@@ -314,7 +314,7 @@
                             </div>
 
                            <a class="btn btn-warning w-100 d-flex align-items-center justify-content-center gap-2"
-                               href="/services-detail.htm">
+                                href="/wordpress-cms-website-development.htm">
                                 View Details
                                 <i class="bi-arrow-right"></i>
                             </a>
@@ -416,7 +416,7 @@
                             </div>
 
                            <a class="btn btn-warning w-100 d-flex align-items-center justify-content-center gap-2"
-                               href="/services-detail.htm">
+                              href="/custom-web-applications.htm">
                                 View Details
                                 <i class="bi-arrow-right"></i>
                             </a>
@@ -515,7 +515,7 @@
                             </div>
 
                            <a class="btn btn-warning w-100 d-flex align-items-center justify-content-center gap-2"
-                               href="/services-detail.htm">
+                                href="/multi-language-websites.htm">
                                 View Details
                                 <i class="bi-arrow-right"></i>
                             </a>
@@ -615,7 +615,7 @@
                             </div>
 
                            <a class="btn btn-warning w-100 d-flex align-items-center justify-content-center gap-2"
-                               href="/services-detail.htm">
+                            href="/landing-page-website-designing.htm">
                                 View Details
                                 <i class="bi-arrow-right"></i>
                             </a>
@@ -714,7 +714,7 @@
                             </div>
 
                            <a class="btn btn-warning w-100 d-flex align-items-center justify-content-center gap-2"
-                               href="/services-detail.htm">
+                                href="/progressive-web-app.htm">
                                 View Details
                                 <i class="bi-arrow-right"></i>
                             </a>
@@ -812,7 +812,7 @@
                                 </div>
                             </div>
 
-                            <a class="btn btn-warning w-100 d-flex align-items-center justify-content-center gap-2"
+                         <a class="btn btn-warning w-100 d-flex align-items-center justify-content-center gap-2"
                                href="/services-detail.htm">
                                 View Details
                                 <i class="bi-arrow-right"></i>
@@ -895,7 +895,7 @@
                                 </div>
                             </div>
 
-                         <a class="btn btn-warning w-100 d-flex align-items-center justify-content-center gap-2"
+                           <a class="btn btn-warning w-100 d-flex align-items-center justify-content-center gap-2"
                                href="/services-detail.htm">
                                 View Details
                                 <i class="bi-arrow-right"></i>
@@ -981,7 +981,7 @@
                             </div>
 
                          <a class="btn btn-warning w-100 d-flex align-items-center justify-content-center gap-2"
-                               href="/services-detail.htm">
+                              href="/e-commerce-website-solutions.htm">
                                 View Details
                                 <i class="bi-arrow-right"></i>
                             </a>
