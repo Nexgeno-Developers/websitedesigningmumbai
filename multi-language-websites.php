@@ -2,13 +2,13 @@
 
     <!-- pricing section -->
     <!-- Hero Section -->
-    <section class="service-ready-start position-relative overflow-hidden">
+    <section class="service-ready-start pt-5 mt-3 position-relative overflow-hidden">
         <div class="bg-grid-pattern position-absolute top-0 left-0 w-100 h-100"></div>
         <div class="bg-gradient-to-bottom from-primary/10 to-transparent position-absolute top-0 left-0 w-100 h-100">
         </div>
         <div class="container position-relative">
             <div class="row justify-content-center">
-                <div class="col-lg-8 text-center pt-md-5">
+                <div class="col-lg-8 text-center pt-5 mt-3">
                     <div class="d-inline-flex align-items-center justify-content-center bg-glass rounded-3 border border-white border-opacity-10 mb-4"
                         style="width: 6rem; height: 6rem;">
                         <i class="bi-globe text-white fs-1"></i>

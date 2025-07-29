@@ -1578,19 +1578,20 @@
       overflow: hidden;
     }
 
-    .project-overlay {
-      position: absolute;
-      inset: 0;
-      background: linear-gradient(135deg, #19274e 0%, #450c8f 100%);
-      opacity: 0.8;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      flex-direction: column;
-      color: white;
-      text-align: center;
-      padding: 1rem;
-    }
+.project-overlay {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(135deg, #19274e 0%, #450c8f 100%);
+    opacity: 0.8;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    color: white;
+    text-align: center;
+    box-shadow: 1000px 1000px 1000px 1000px #000000bf inset;
+    padding: 1rem;
+}
 
     .project-link {
       position: absolute;
