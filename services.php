@@ -111,7 +111,7 @@
                             </div>
 
                             <a class="btn btn-warning w-100 d-flex align-items-center justify-content-center gap-2"
-                               href="/services-detail.htm">
+                               href="/static-dynamic-websites.htm">
                                 View Details
                                 <i class="bi-arrow-right"></i>
                             </a>
@@ -813,7 +813,7 @@
                             </div>
 
                          <a class="btn btn-warning w-100 d-flex align-items-center justify-content-center gap-2"
-                               href="/services-detail.htm">
+                               href="/seo-performance-optimization.htm">
                                 View Details
                                 <i class="bi-arrow-right"></i>
                             </a>
@@ -896,7 +896,7 @@
                             </div>
 
                            <a class="btn btn-warning w-100 d-flex align-items-center justify-content-center gap-2"
-                               href="/services-detail.htm">
+                               href="/ui-ux-design-prototyping.htm">
                                 View Details
                                 <i class="bi-arrow-right"></i>
                             </a>
