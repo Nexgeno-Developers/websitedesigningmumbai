@@ -33,10 +33,7 @@
       padding: 80px 0 !important;
     }
 
-    .section-padding-bottom-80px{
-      padding-bottom: ;  
-    }
-
+   
     .hero-icon-all-web{
       width: 6rem;
       height: 6rem;
@@ -1593,6 +1590,7 @@
       color: white;
       text-align: center;
       padding: 1rem;
+      box-shadow: 1000px 1000px 1000px 1000px #00000085 inset;
     }
 
     .project-link {
