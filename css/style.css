@@ -1609,8 +1609,8 @@
       background-color: #f8f9fa;
       color: var(--text-dark);
       font-weight: 500;
-      font-size: 0.75rem;
-      padding: 0.25rem 0.75rem;
+      font-size: 14px;
+      padding: 8px 8px;
       border-radius: 50rem;
     }
 
@@ -1779,12 +1779,12 @@
       }
 
       .hero-header-pricing{
-        padding: 8px 30px !important;
+        padding: 8px 15px !important;
         gap: 0px !important;
       }
 
       .hero-header-pricing-text{
-        font-size: 16px !important;
+        font-size: 14px !important;
       }
 
       .web-design-page-mumbai-heading{
@@ -1837,4 +1837,4 @@
 }
 
 
-    /* responsive bottom================== */
+    /* responsive botto================== */
