@@ -200,3 +200,30 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     });
 });
+
+
+$(document).ready(function(){
+    $('#form').on('submit', function(e){
+        e.preventDefault();
+
+        var formData = $(this).serialize();
+
+        $.ajax({
+            url: $(this).attr('action'),
+            method: 'POST',
+            data: formData,
+            dataType: 'json',
+            success: function(){
+                $('#formAlert').html(
+                    '<div class="alert alert-success">✅ Thank you! Your project details have been submitted successfully.</div>'
+                );
+                $('#form')[0].reset();
+            },
+            error: function(){
+                $('#formAlert').html(
+                    '<div class="alert alert-danger">⚠️ Oops! Something went wrong. Please try again later.</div>'
+                );
+            }
+        });
+    });
+});

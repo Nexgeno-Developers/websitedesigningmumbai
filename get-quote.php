@@ -25,73 +25,76 @@
                                 proposal.
                             </p>
 
-                            <form class="row g-4">
-                                <div class="col-md-6">
-                                    <label class="form-label">Full Name *</label>
-                                    <input type="text" class="form-control" placeholder="Your full name" required>
+
+                            <form action="https://usebasin.com/f/5a33516b4f98" method="POST" enctype="multipart/form-data" id="form">
+                        <div class="row g-4">
+                            <div class="col-md-6">
+                                <label for="name" class="form-label">Full Name *</label>
+                                <input type="text" class="form-control" name="name" required placeholder="Your full name" />
+                            </div>
+                            <div class="col-md-6">
+                                <label for="email" class="form-label">Email Address *</label>
+                                <input type="email" class="form-control" name="email" required placeholder="your@email.com" />
+                            </div>
+                            <div class="col-md-6">
+                                <label for="phone" class="form-label">Phone Number *</label>
+                                <input type="tel" class="form-control" name="phone" required placeholder="+91 98765 43210" />
+                            </div>
+                            <div class="col-md-6">
+                                <label for="companyname" class="form-label">Company Name *</label>
+                                <input type="text" class="form-control" name="companyname" placeholder="Your company name" />
+                            </div>
+
+                             <div class="col-12">
+                                    <label for="project" class="form-label">Project Type *</label>
+                                    <select class="form-select" name="project" required>
+                                        <option value="Select project type">Select project type</option>
+                                        <option value="Static Website">Static Website</option>
+                                        <option vlaue="E-commerce Store">E-commerce Store</option>
+                                        <option value="Web Application">Web Application</option>
+                                        <option value="WordPress Site">WordPress Site</option>
+                                        <option value="Landing Page">Landing Page</option>
+                                        <option value="Mobile App">Mobile App</option>
+                                        <option value="ustom Soluti">Custom Solution</option>
+                                    </select>
                                 </div>
+
                                 <div class="col-md-6">
-                                    <label class="form-label">Email Address *</label>
-                                    <input type="email" class="form-control" placeholder="your@email.com" required>
-                                </div>
-                                <div class="col-md-6">
-                                    <label class="form-label">Phone Number</label>
-                                    <input type="tel" class="form-control" placeholder="+91 98765 43210">
-                                </div>
-                                <div class="col-md-6">
-                                    <label class="form-label">Company Name</label>
-                                    <input type="text" class="form-control" placeholder="Your company name">
-                                </div>
-                                <div class="col-12">
-                                    <label class="form-label">Project Type *</label>
-                                    <select class="form-select" required>
-                                        <option value="">Select project type</option>
-                                        <option>Static Website</option>
-                                        <option>E-commerce Store</option>
-                                        <option>Web Application</option>
-                                        <option>WordPress Site</option>
-                                        <option>Landing Page</option>
-                                        <option>Mobile App</option>
-                                        <option>Custom Solution</option>
+                                    <label for="budgetrange" class="form-label">Budget Range</label>
+                                    <select class="form-select" name="budgetrange" required>
+                                        <option value="Select budget range">Select budget range</option>
+                                        <option value="Under ₹25,000">Under ₹25,000</option>
+                                        <option value="₹25,000 - ₹50,000">₹25,000 - ₹50,000</option>
+                                        <option value="₹50,000 - ₹1,00,000">₹50,000 - ₹1,00,000</option>
+                                        <option value="₹1,00,000 - ₹2,50,000">₹1,00,000 - ₹2,50,000</option>
+                                        <option value="₹2,50,000+">₹2,50,000+</option>
+                                        <option value="Let's Discuss">Let's Discuss</option>
                                     </select>
                                 </div>
                                 <div class="col-md-6">
-                                    <label class="form-label">Budget Range</label>
-                                    <select class="form-select">
-                                        <option value="">Select budget range</option>
-                                        <option>Under ₹25,000</option>
-                                        <option>₹25,000 - ₹50,000</option>
-                                        <option>₹50,000 - ₹1,00,000</option>
-                                        <option>₹1,00,000 - ₹2,50,000</option>
-                                        <option>₹2,50,000+</option>
-                                        <option>Let's Discuss</option>
+                                    <label for="selecttimeline" class="form-label">Timeline</label>
+                                    <select class="form-select" name="selecttimeline" required>
+                                        <option value="Select timeline">Select timeline</option>
+                                        <option value="ASAP (Rush)">ASAP (Rush)</option>
+                                        <option value="1-2 weeks">1-2 weeks</option>
+                                        <option value="2-4 weeks">2-4 weeks</option>
+                                        <option value="1-2 months">1-2 months</option>
+                                        <option value="2-3 months">2-3 months</option>
+                                        <option value="Flexible">Flexible</option>
                                     </select>
                                 </div>
-                                <div class="col-md-6">
-                                    <label class="form-label">Timeline</label>
-                                    <select class="form-select">
-                                        <option value="">Select timeline</option>
-                                        <option>ASAP (Rush)</option>
-                                        <option>1-2 weeks</option>
-                                        <option>2-4 weeks</option>
-                                        <option>1-2 months</option>
-                                        <option>2-3 months</option>
-                                        <option>Flexible</option>
-                                    </select>
-                                </div>
-                                <div class="col-12">
-                                    <label class="form-label">Project Details *</label>
-                                    <textarea class="form-control" rows="6"
-                                        placeholder="Tell us about your project requirements, goals, and any specific features you need..."
-                                        required></textarea>
-                                </div>
-                                <div class="col-12">
-                                    <button type="submit" class="btn btn-accent w-100 py-3 fw-semibold">
-                                        <i class="bi-send-fill me-2"></i>
-                                        Send Project Details
-                                    </button>
-                                </div>
-                            </form>
+
+                            <div class="col-md-12">
+                                <label for="message" class="form-label">Project Details *</label>
+                                <textarea rows="6" class="form-control" name="message" placeholder="Tell us about your project requirements, goals, and any specific features you need..."></textarea>
+                            </div>
+
+                            <div class="col-12">
+                                <button type="submit" id="submitBtn" class="btn btn-accent w-100 py-3 fw-semibold"><i class="bi-send-fill me-2"></i> Send Project Details</button>
+                            </div>
+                        </div>
+                    </form>
+<div id="formAlert" class="mt-3"></div>
                         </div>
                     </div>
                 </div>
@@ -307,3 +310,34 @@
     <!-- contact us  -->
 
 <?php include 'footer.php';?>
+
+
+<script>
+    $(document).ready(function(){
+    $('#form').on('submit', function(e){
+        e.preventDefault();
+
+        var formData = $(this).serialize();
+
+        $.ajax({
+            url: $(this).attr('action'),
+            method: 'POST',
+            data: formData,
+            headers: { 
+                'Accept': 'application/json'   // Prevent Basin redirect
+            },
+            success: function(){
+                $('#formAlert').html(
+                    '<div class="alert alert-success">✅ Thank you! Your project details have been submitted successfully.</div>'
+                );
+                $('#form')[0].reset();
+            },
+            error: function(){
+                $('#formAlert').html(
+                    '<div class="alert alert-danger">⚠️ Oops! Something went wrong. Please try again later.</div>'
+                );
+            }
+        });
+    });
+});
+</script>

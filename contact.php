@@ -19,79 +19,45 @@
                 <div class="col-lg-8 ">
                     <div class="card card-hover border-0 shadow border-radius-75rem contact-form-scroll">
                         <div class="card-body p-4 p-md-5">
-                            <h2 class="text-center display-5 fw-bold mb-4">Start Your Project Today</h2>
+                            <h2 class="text-center display-5 fw-bold mb-4">Get In Touch</h2>
                             <p class="text-center text-muted mb-5">
                                 Fill out the form below and we'll get back to you within 24 hours with a detailed
                                 proposal.
                             </p>
 
-                            <form class="row g-4">
-                                <div class="col-md-6">
-                                    <label class="form-label">Full Name *</label>
-                                    <input type="text" class="form-control" placeholder="Your full name" required>
-                                </div>
-                                <div class="col-md-6">
-                                    <label class="form-label">Email Address *</label>
-                                    <input type="email" class="form-control" placeholder="your@email.com" required>
-                                </div>
-                                <div class="col-md-6">
-                                    <label class="form-label">Phone Number</label>
-                                    <input type="tel" class="form-control" placeholder="+91 98765 43210">
-                                </div>
-                                <div class="col-md-6">
-                                    <label class="form-label">Company Name</label>
-                                    <input type="text" class="form-control" placeholder="Your company name">
-                                </div>
-                                <!-- <div class="col-12">
-                                    <label class="form-label">Project Type *</label>
-                                    <select class="form-select" required>
-                                        <option value="">Select project type</option>
-                                        <option>Static Website</option>
-                                        <option>E-commerce Store</option>
-                                        <option>Web Application</option>
-                                        <option>WordPress Site</option>
-                                        <option>Landing Page</option>
-                                        <option>Mobile App</option>
-                                        <option>Custom Solution</option>
-                                    </select>
-                                </div>
-                                <div class="col-md-6">
-                                    <label class="form-label">Budget Range</label>
-                                    <select class="form-select">
-                                        <option value="">Select budget range</option>
-                                        <option>Under ₹25,000</option>
-                                        <option>₹25,000 - ₹50,000</option>
-                                        <option>₹50,000 - ₹1,00,000</option>
-                                        <option>₹1,00,000 - ₹2,50,000</option>
-                                        <option>₹2,50,000+</option>
-                                        <option>Let's Discuss</option>
-                                    </select>
-                                </div>
-                                <div class="col-md-6">
-                                    <label class="form-label">Timeline</label>
-                                    <select class="form-select">
-                                        <option value="">Select timeline</option>
-                                        <option>ASAP (Rush)</option>
-                                        <option>1-2 weeks</option>
-                                        <option>2-4 weeks</option>
-                                        <option>1-2 months</option>
-                                        <option>2-3 months</option>
-                                        <option>Flexible</option>
-                                    </select>
-                                </div> -->
-                                <div class="col-12">
-                                    <label class="form-label">Message *</label>
-                                    <textarea class="form-control" rows="6"
-                                        placeholder="Tell us about your project requirements, goals, and any specific features you need..."
-                                        required></textarea>
-                                </div>
-                                <div class="col-12">
-                                    <button type="submit" class="btn btn-accent w-100 py-3 fw-semibold">
-                                        <i class="bi-send-fill me-2"></i>
-                                        Submit
-                                    </button>
-                                </div>
-                            </form>
+                            
+
+                     <form action="https://usebasin.com/f/60d166b6511e" method="POST" enctype="multipart/form-data" id="form">
+                        <div class="row g-4">
+                            <div class="col-md-6">
+                                <label for="name" class="form-label">Full Name *</label>
+                                <input type="text" class="form-control" name="name" required placeholder="Your full name" />
+                            </div>
+                            <div class="col-md-6">
+                                <label for="email" class="form-label">Email Address *</label>
+                                <input type="email" class="form-control" name="email" required placeholder="your@email.com" />
+                            </div>
+                            <div class="col-md-6">
+                                <label for="email" class="form-label">Phone Number *</label>
+                                <input type="tel" class="form-control" name="phone" required placeholder="+91 98765 43210" />
+                            </div>
+                            <div class="col-md-6">
+                                <label for="email" class="form-label">Company Name *</label>
+                                <input type="text" class="form-control" name="companyname" placeholder="Your company name" />
+                            </div>
+
+                            <div class="col-md-12">
+                                <label for="message" class="form-label">Message</label>
+                                <textarea rows="6" class="form-control" name="message" placeholder="Tell us about your project requirements, goals, and any specific features you need..."></textarea>
+                            </div>
+
+                            <div class="col-12">
+                                <button type="submit" class="btn btn-accent w-100 py-3 fw-semibold"><i class="bi-send-fill me-2"></i> Submit</button>
+                            </div>
+                        </div>
+                    </form>
+
+
                         </div>
                     </div>
                 </div>
@@ -194,116 +160,7 @@
         </div>
     </section>
 
-    <!-- FAQ Section -->
-    <section class="bg-light-blue section-padding-80px">
-        <div class="container">
-            <div class="text-center mb-5">
-                <h2 class="display-4 fw-bold mb-3">Frequently Asked Questions</h2>
-            </div>
-
-            <div class="row justify-content-center">
-                <div class="col-lg-8">
-                    <!-- FAQ 1 -->
-                    <div class="card faq-card mb-4 border-0">
-                        <div class="card-body p-4">
-                            <div class="d-flex gap-4">
-                                <div class="accent-gradient rounded-circle d-flex align-items-center justify-content-center flex-shrink-0"
-                                    style="width: 40px; height: 40px;">
-                                    <i class="bi-check-lg text-white"></i>
-                                </div>
-                                <div>
-                                    <h3 class="h5 fw-semibold mb-3">How long does it take to build a website?</h3>
-                                    <p class="text-muted">
-                                        Typical timelines: Landing pages (3-7 days), Business websites (10-15 days),
-                                        E-commerce sites (15-25 days), Custom applications (20-40 days). Rush projects
-                                        available.
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- FAQ 2 -->
-                    <div class="card faq-card mb-4 border-0">
-                        <div class="card-body p-4">
-                            <div class="d-flex gap-4">
-                                <div class="accent-gradient rounded-circle d-flex align-items-center justify-content-center flex-shrink-0"
-                                    style="width: 40px; height: 40px;">
-                                    <i class="bi-check-lg text-white"></i>
-                                </div>
-                                <div>
-                                    <h3 class="h5 fw-semibold mb-3">What's included in your website development service?
-                                    </h3>
-                                    <p class="text-muted">
-                                        Complete package: Design, development, responsive optimization, SEO setup,
-                                        content integration, testing, deployment, and 30-day support.
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- FAQ 3 -->
-                    <div class="card faq-card mb-4 border-0">
-                        <div class="card-body p-4">
-                            <div class="d-flex gap-4">
-                                <div class="accent-gradient rounded-circle d-flex align-items-center justify-content-center flex-shrink-0"
-                                    style="width: 40px; height: 40px;">
-                                    <i class="bi-check-lg text-white"></i>
-                                </div>
-                                <div>
-                                    <h3 class="h5 fw-semibold mb-3">Do you provide ongoing maintenance and support?</h3>
-                                    <p class="text-muted">
-                                        Yes! We offer maintenance packages including updates, security monitoring,
-                                        backups, and technical support starting from ₹3,000/month.
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- FAQ 4 -->
-                    <div class="card faq-card mb-4 border-0">
-                        <div class="card-body p-4">
-                            <div class="d-flex gap-4">
-                                <div class="accent-gradient rounded-circle d-flex align-items-center justify-content-center flex-shrink-0"
-                                    style="width: 40px; height: 40px;">
-                                    <i class="bi-check-lg text-white"></i>
-                                </div>
-                                <div>
-                                    <h3 class="h5 fw-semibold mb-3">Can you work with our existing brand guidelines?
-                                    </h3>
-                                    <p class="text-muted">
-                                        Absolutely! We'll work within your brand guidelines and can also help enhance
-                                        them if needed. Just share your brand assets with us.
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- FAQ 5 -->
-                    <div class="card faq-card border-0">
-                        <div class="card-body p-4">
-                            <div class="d-flex gap-4">
-                                <div class="accent-gradient rounded-circle d-flex align-items-center justify-content-center flex-shrink-0"
-                                    style="width: 40px; height: 40px;">
-                                    <i class="bi-check-lg text-white"></i>
-                                </div>
-                                <div>
-                                    <h3 class="h5 fw-semibold mb-3">Do you build mobile apps as well?</h3>
-                                    <p class="text-muted">
-                                        We specialize in web applications and Progressive Web Apps (PWAs) that work like
-                                        native apps. For native mobile apps, we partner with trusted developers.
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
+    
     <!-- contact us  -->
 
 <?php include 'footer.php';?>

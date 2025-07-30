@@ -640,39 +640,31 @@
                 <div class="col-lg-6">
                     <div class="contact-card p-4 p-md-5 contact-home-form">
                         <h3 class="card-title">Get Your Free Quote</h3>
-                        <form id="contactForm" class="needs-validation" novalidate>
-                            <div class="mb-4">
-                                <label for="name" class="form-label">Name</label>
-                                <input type="text" class="form-control" id="name" placeholder="Your full name" required>
-                                <div class="invalid-feedback">
-                                    Please provide your name.
-                                </div>
+                        
+
+                        <form action="https://usebasin.com/f/caa482885b4c" method="POST" enctype="multipart/form-data" id="form">
+                        <div class="row g-4">
+                            <div class="col-md-12">
+                                <label for="name" class="form-label">Full Name *</label>
+                                <input type="text" class="form-control" name="name" required placeholder="Your full name" />
+                            </div>
+                            <div class="col-md-12">
+                                <label for="email" class="form-label">Email Address *</label>
+                                <input type="email" class="form-control" name="email" required placeholder="your@email.com" />
+                            </div>
+                          
+
+                            <div class="col-md-12">
+                                <label for="message" class="form-label">Project Requirements</label>
+                                <textarea rows="6" class="form-control" name="message" placeholder="Tell us about your project requirements, goals, and any specific features you need..."></textarea>
                             </div>
 
-                            <div class="mb-4">
-                                <label for="email" class="form-label">Email</label>
-                                <input type="email" class="form-control" id="email" placeholder="your@email.com"
-                                    required>
-                                <div class="invalid-feedback">
-                                    Please provide a valid email.
-                                </div>
+                            <div class="col-12">
+                                <button type="submit" class="btn btn-accent w-100 py-3 fw-semibold"> <i class="bi bi-send arrow-icon ms-2"></i> Start Your Website Today
+                                </button>
                             </div>
-
-                            <div class="mb-4">
-                                <label for="requirements" class="form-label">Project Requirements</label>
-                                <textarea class="form-control" id="requirements" rows="4"
-                                    placeholder="Tell us about your website needs, budget, timeline, and any specific requirements..."
-                                    required></textarea>
-                                <div class="invalid-feedback">
-                                    Please describe your project requirements.
-                                </div>
-                            </div>
-
-                            <button type="submit" class="btn submit-btn">
-                                Start Your Website Today
-                                <i class="bi bi-send arrow-icon ms-2"></i>
-                            </button>
-                        </form>
+                        </div>
+                    </form>
                     </div>
                 </div>
 
@@ -729,3 +721,4 @@
    
 
     <?php include 'footer.php';?>
+    
