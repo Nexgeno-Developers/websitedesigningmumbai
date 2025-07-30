@@ -2078,19 +2078,19 @@
 
             <div class="row g-4" id="counter">
                 <div class="col-6 col-md-3 text-center">
-                    <div class="display-4 fw-bold text-portfolio-stat-1 mb-2 counter-value" data-count="4500">0+</div>
+                    <div class="display-4 fw-bold text-portfolio-stat-1 mb-2 counter-value" data-count="4500">0</div>
                     <p class="text-muted fw-medium">Projects Done</p>
                 </div>
                 <div class="col-6 col-md-3 text-center">
-                    <div class="display-4 fw-bold text-portfolio-stat-2 mb-2 counter-value"  data-count="3000">0+</div>
+                    <div class="display-4 fw-bold text-portfolio-stat-2 mb-2 counter-value"  data-count="3000">0</div>
                     <p class="text-muted fw-medium">Happy Clients</p>
                 </div>
                 <div class="col-6 col-md-3 text-center">
-                    <div class="display-4 fw-bold text-portfolio-stat-3 mb-2 counter-value" data-count="17">0+</div>
+                    <div class="display-4 fw-bold text-portfolio-stat-3 mb-2 counter-value" data-count="17">0</div>
                     <p class="text-muted fw-medium">Years Of Experience</p>
                 </div>
                 <div class="col-6 col-md-3 text-center">
-                    <div class="display-4 fw-bold text-portfolio-stat-4 mb-2 counter-value" data-count="45">0+</div>
+                    <div class="display-4 fw-bold text-portfolio-stat-4 mb-2 counter-value" data-count="45">0</div>
                     <p class="text-muted fw-medium">Dedicated Employees</p>
                 </div>
             </div>
@@ -2143,5 +2143,3 @@
     <!-- portfolio -->
 
    <?php include 'footer.php';?>
-portfolio.php
-Displaying portfolio.php.
