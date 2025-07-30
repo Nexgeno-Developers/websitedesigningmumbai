@@ -248,7 +248,7 @@
                             <div class="mb-4">
                                 <h4 class="h6 fw-semibold mb-2">Technologies:</h4>
                                 <div class="d-flex flex-wrap gap-2">
-                                    <span class="badge-tech">Laravel</span>
+                                    <span class="badge-tech">Wordpress</span>
                                     <!-- <span class="badge-tech">Node.js</span>
                                     <span class="badge-tech">MongoDB</span>
                                     <span class="badge-tech">Stripe</span> -->
@@ -308,7 +308,7 @@
                             <div class="mb-4">
                                 <h4 class="h6 fw-semibold mb-2">Technologies:</h4>
                                 <div class="d-flex flex-wrap gap-2">
-                                    <span class="badge-tech">Laravel</span>
+                                    <span class="badge-tech">Wordpress</span>
                                     <!-- <span class="badge-tech">Node.js</span>
                                     <span class="badge-tech">MongoDB</span>
                                     <span class="badge-tech">Stripe</span> -->
@@ -369,7 +369,7 @@
                             <div class="mb-4">
                                 <h4 class="h6 fw-semibold mb-2">Technologies:</h4>
                                 <div class="d-flex flex-wrap gap-2">
-                                    <span class="badge-tech">Laravel</span>
+                                    <span class="badge-tech">Wordpress</span>
                                     <!-- <span class="badge-tech">Node.js</span>
                                     <span class="badge-tech">MongoDB</span>
                                     <span class="badge-tech">Stripe</span> -->
@@ -430,7 +430,7 @@
                             <div class="mb-4">
                                 <h4 class="h6 fw-semibold mb-2">Technologies:</h4>
                                 <div class="d-flex flex-wrap gap-2">
-                                    <span class="badge-tech">Laravel</span>
+                                    <span class="badge-tech">Wordpress</span>
                                     <!-- <span class="badge-tech">Node.js</span>
                                     <span class="badge-tech">MongoDB</span>
                                     <span class="badge-tech">Stripe</span> -->
@@ -490,7 +490,7 @@
                             <div class="mb-4">
                                 <h4 class="h6 fw-semibold mb-2">Technologies:</h4>
                                 <div class="d-flex flex-wrap gap-2">
-                                    <span class="badge-tech">Laravel</span>
+                                    <span class="badge-tech">Wordpress</span>
                                     <!-- <span class="badge-tech">Node.js</span>
                                     <span class="badge-tech">MongoDB</span>
                                     <span class="badge-tech">Stripe</span> -->
@@ -1088,7 +1088,7 @@
                             <div class="mb-4">
                                 <h4 class="h6 fw-semibold mb-2">Technologies:</h4>
                                 <div class="d-flex flex-wrap gap-2">
-                                    <span class="badge-tech">Wordpress</span>
+                                    <span class="badge-tech">Laravel</span>
                                     <!-- <span class="badge-tech">Python</span>
                                     <span class="badge-tech">Django</span>
                                     <span class="badge-tech">AWS</span> -->
@@ -1385,10 +1385,10 @@
                             <div class="mb-4">
                                 <h4 class="h6 fw-semibold mb-2">Technologies:</h4>
                                 <div class="d-flex flex-wrap gap-2">
-                                    <span class="badge-tech">React</span>
-                                    <span class="badge-tech">Tailwind</span>
+                                    <span class="badge-tech">CodeIgniter/PHP</span>
+                                    <!-- <span class="badge-tech">Tailwind</span>
                                     <span class="badge-tech">EmailJS</span>
-                                    <span class="badge-tech">Google Analytics</span>
+                                    <span class="badge-tech">Google Analytics</span> -->
                                 </div>
                             </div>
 
@@ -1443,10 +1443,10 @@
                             <div class="mb-4">
                                 <h4 class="h6 fw-semibold mb-2">Technologies:</h4>
                                 <div class="d-flex flex-wrap gap-2">
-                                    <span class="badge-tech">React</span>
-                                    <span class="badge-tech">Tailwind</span>
+                                    <span class="badge-tech">Html</span>
+                                    <!-- <span class="badge-tech">Tailwind</span>
                                     <span class="badge-tech">EmailJS</span>
-                                    <span class="badge-tech">Google Analytics</span>
+                                    <span class="badge-tech">Google Analytics</span> -->
                                 </div>
                             </div>
 
@@ -1501,10 +1501,8 @@
                             <div class="mb-4">
                                 <h4 class="h6 fw-semibold mb-2">Technologies:</h4>
                                 <div class="d-flex flex-wrap gap-2">
-                                    <span class="badge-tech">React</span>
-                                    <span class="badge-tech">Tailwind</span>
-                                    <span class="badge-tech">EmailJS</span>
-                                    <span class="badge-tech">Google Analytics</span>
+                                    <span class="badge-tech">Wordpress</span>
+                                   
                                 </div>
                             </div>
 
@@ -1540,7 +1538,7 @@
                     <div class="card card-hover h-100 border-0">
                         <div class="project-image">
                              <div class="project-overlay"
-                                  style="background-image:  url('img/Take Off Aviation Academy.webp'); background-size: cover; background-position: center; height: 300px;"
+                                  style="background-image: url('img/hvs.webp'); background-size: cover; background-position: center; height: 300px;"
     >
                                 <h3 class="h3 fw-bold mb-2"> HVS Hospitals</h3>
                                 <span
@@ -1582,7 +1580,7 @@
                                         <p class="small fw-semibold text-accent mb-1">Results:</p>
                                         <p class="small text-muted mb-0">85% conversion rate improvement</p>
                                     </div>
-                                  <a href="https://cabin-crew-training.takeoff-aviation.in/" target="_blank" rel="noopener noreferrer">
+                                  <a href="https://www.hvshospitals.com/" target="_blank" rel="noopener noreferrer">
   <button class="btn btn-link p-0 text-decoration-none view-more-btn-portfolio text-dark">
     View Details <i class="bi bi-arrow-right ms-1"></i>
   </button>
@@ -1620,10 +1618,10 @@
                             <div class="mb-4">
                                 <h4 class="h6 fw-semibold mb-2">Technologies:</h4>
                                 <div class="d-flex flex-wrap gap-2">
-                                    <span class="badge-tech">React</span>
-                                    <span class="badge-tech">Tailwind</span>
-                                    <span class="badge-tech">EmailJS</span>
-                                    <span class="badge-tech">Google Analytics</span>
+                                    <span class="badge-tech">Nextjs</span>
+                                    <span class="badge-tech">Nodejs</span>
+                                    <!-- <span class="badge-tech">EmailJS</span>
+                                    <span class="badge-tech">Google Analytics</span> -->
                                 </div>
                             </div>
 
@@ -1682,10 +1680,10 @@
                             <div class="mb-4">
                                 <h4 class="h6 fw-semibold mb-2">Technologies:</h4>
                                 <div class="d-flex flex-wrap gap-2">
-                                    <span class="badge-tech">WordPress</span>
+                                    <span class="badge-tech">Laravel</span>
                                     <span class="badge-tech">PHP</span>
-                                    <span class="badge-tech">MySQL</span>
-                                    <span class="badge-tech">i18n</span>
+                                    <!-- <span class="badge-tech">MySQL</span>
+                                    <span class="badge-tech">i18n</span> -->
                                 </div>
                             </div>
 
@@ -1741,9 +1739,9 @@
                                 <h4 class="h6 fw-semibold mb-2">Technologies:</h4>
                                 <div class="d-flex flex-wrap gap-2">
                                     <span class="badge-tech">WordPress</span>
-                                    <span class="badge-tech">PHP</span>
+                                    <!-- <span class="badge-tech">PHP</span>
                                     <span class="badge-tech">MySQL</span>
-                                    <span class="badge-tech">i18n</span>
+                                    <span class="badge-tech">i18n</span> -->
                                 </div>
                             </div>
 
@@ -1799,9 +1797,9 @@
                                 <h4 class="h6 fw-semibold mb-2">Technologies:</h4>
                                 <div class="d-flex flex-wrap gap-2">
                                     <span class="badge-tech">WordPress</span>
-                                    <span class="badge-tech">PHP</span>
+                                    <!-- <span class="badge-tech">PHP</span>
                                     <span class="badge-tech">MySQL</span>
-                                    <span class="badge-tech">i18n</span>
+                                    <span class="badge-tech">i18n</span> -->
                                 </div>
                             </div>
 
@@ -1857,9 +1855,9 @@
                                 <h4 class="h6 fw-semibold mb-2">Technologies:</h4>
                                 <div class="d-flex flex-wrap gap-2">
                                     <span class="badge-tech">WordPress</span>
-                                    <span class="badge-tech">PHP</span>
+                                    <!-- <span class="badge-tech">PHP</span>
                                     <span class="badge-tech">MySQL</span>
-                                    <span class="badge-tech">i18n</span>
+                                    <span class="badge-tech">i18n</span> -->
                                 </div>
                             </div>
 
@@ -1916,9 +1914,9 @@
                                 <h4 class="h6 fw-semibold mb-2">Technologies:</h4>
                                 <div class="d-flex flex-wrap gap-2">
                                     <span class="badge-tech">WordPress</span>
-                                    <span class="badge-tech">PHP</span>
+                                    <!-- <span class="badge-tech">PHP</span>
                                     <span class="badge-tech">MySQL</span>
-                                    <span class="badge-tech">i18n</span>
+                                    <span class="badge-tech">i18n</span> -->
                                 </div>
                             </div>
 
