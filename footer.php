@@ -34,37 +34,37 @@
                     <h3 class="h5 fw-semibold mb-4 text-warning">Our Services</h3>
                     <ul class="list-unstyled">
                         <li class="mb-2">
-                            <a href="#" class="footer-link">
+                            <a href="/static-dynamic-websites.htm" class="footer-link">
                                 <!-- <i class="bi bi-arrow-right arrow-icon"></i> -->
                                 Static & Dynamic Websites
                             </a>
                         </li>
                         <li class="mb-2">
-                            <a href="#" class="footer-link">
+                            <a href="/wordpress-cms-website-development.htm" class="footer-link">
                                 <!-- <i class="bi bi-arrow-right arrow-icon"></i> -->
                                 WordPress & CMS
                             </a>
                         </li>
                         <li class="mb-2">
-                            <a href="#" class="footer-link">
+                            <a href="/e-commerce-website-solutions.htm" class="footer-link">
                                 <!-- <i class="bi bi-arrow-right arrow-icon"></i> -->
                                 E-commerce Solutions
                             </a>
                         </li>
                         <li class="mb-2">
-                            <a href="#" class="footer-link">
+                            <a href="/custom-web-applications.htm" class="footer-link">
                                 <!-- <i class="bi bi-arrow-right arrow-icon"></i> -->
                                 Custom Web Apps
                             </a>
                         </li>
                         <li class="mb-2">
-                            <a href="#" class="footer-link">
+                            <a href="/multi-language-websites.htm" class="footer-link">
                                 <!-- <i class="bi bi-arrow-right arrow-icon"></i> -->
                                 Multi-language Support
                             </a>
                         </li>
                         <li class="mb-2">
-                            <a href="#" class="footer-link">
+                            <a href="/landing-page-website-designing.htm" class="footer-link">
                                 <!-- <i class="bi bi-arrow-right arrow-icon"></i> -->
                                 Landing Pages
                             </a>
@@ -89,9 +89,9 @@
                             </a>
                         </li>
                         <li class="mb-2">
-                            <a href="#" class="footer-link">
+                            <a href="clients.htm" class="footer-link">
                                 <!-- <i class="bi bi-arrow-right arrow-icon"></i> -->
-                                Client Success Stories
+                                Clients
                             </a>
                         </li>
                         <li class="mb-2">
@@ -100,12 +100,7 @@
                                 Free Quote
                             </a>
                         </li>
-                        <li class="mb-2">
-                            <a href="#" class="footer-link">
-                                <!-- <i class="bi bi-arrow-right arrow-icon"></i> -->
-                                Blog & Resources
-                            </a>
-                        </li>
+                       
                         <li class="mb-2">
                             <a href="contact.htm" class="footer-link">
                                 <!-- <i class="bi bi-arrow-right arrow-icon"></i> -->
@@ -155,7 +150,10 @@
             <div class="container px-4">
                 <div class="d-flex flex-column flex-md-row justify-content-between align-items-center">
                     <div class="text-white-60 small text-center text-md-start mb-3 mb-md-0">
-                        <div>© 2025 Nexgeno. All rights reserved. <span>Built with Nexgeno.in</span></div>
+                        <div>© 2025 Nexgeno. All rights reserved. <span>Managed by </span><a href="https://nexgeno.in/" target="_blank" class="text-white text-decoration-none">
+  <span>Nexgeno</span>
+</a>
+   </div>
                     </div>
                     <div class="d-flex gap-3 gap-md-4">
                         <a href="#" class="text-white small text-decoration-none hover:text-warning">Privacy
