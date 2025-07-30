@@ -825,6 +825,21 @@
       font-weight: 700;
       margin-bottom: 1.5rem;
     }
+.logo-section {
+  background-color: #ffffff; /* Section full white background */
+}
+
+.logo-wrapper {
+  background-color: rgba(243, 244, 246, 1) !important; /* Greyish card background */
+  transition: background-color 0.3s ease;
+}
+
+.logo-wrapper img.custom-logo {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
 
     @media (min-width: 768px) {
       .section-heading {

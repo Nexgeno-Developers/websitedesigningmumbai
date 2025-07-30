@@ -44,7 +44,7 @@
         </div>
         <div class="container">
             <div class="row g-4">
-                <!-- ecommerceProject 1 -->
+                <!-- ecommerceProject 1
                 <div class="col-md-6 col-lg-4">
                     <div class="card card-hover h-100 border-0">
                         <div class="project-image">
@@ -71,9 +71,7 @@
                                 <h4 class="h6 fw-semibold mb-2">Technologies:</h4>
                                 <div class="d-flex flex-wrap gap-2">
                                     <span class="badge-tech">Laravel</span>
-                                    <!-- <span class="badge-tech">Node.js</span>
-                                    <span class="badge-tech">MongoDB</span>
-                                    <span class="badge-tech">Stripe</span> -->
+                                  
                                 </div>
                             </div>
 
@@ -102,7 +100,9 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
+
+
  <!-- ecommerce Project 3 -->
                 <div class="col-md-6 col-lg-4">
                     <div class="card card-hover h-100 border-0">
@@ -529,9 +529,9 @@
                     <div class="card card-hover h-100 border-0">
                         <div class="project-image">
                              <div class="project-overlay"
-                                 style="background-image:  url('img/bds.png'); background-size: cover; background-position: center; height: 300px;"
+                                 style="background-image: url('img/bombaydental.webp'); background-size: cover; background-position: center; height: 300px;"
     >
-                                <h3 class="h3 fw-bold mb-2"> bombaydental.com</h3>
+                                <h3 class="h3 fw-bold mb-2"> Bombay Dental</h3>
                                 <span
                                     class="badge bg-opacity-20 text-white border border-white border-opacity-30 rounded-pill">
                                     E-commerce
@@ -1244,64 +1244,7 @@
                     </div>
                 </div>            
 
-                <!-- Project vallum-->
-                <div class="col-md-6 col-lg-4">
-                    <div class="card card-hover h-100 border-0">
-                        <div class="project-image">
-                             <div class="project-overlay"
-                                  style="background-image:  url('img/vallum.webp'); background-size: cover; background-position: center; height: 300px;"
-    >
-                                <h3 class="h3 fw-bold mb-2">Vallum</h3>
-                                <span
-                                    class="badge bg-opacity-20 text-white border border-white border-opacity-30 rounded-pill">
-                                    Startup
-                                </span>
-                            </div>
-                            <button class="project-link btn btn-sm btn-light rounded-circle">
-                                <i class="bi-box-arrow-up-right"></i>
-                            </button>
-                        </div>
-                        <div class="card-body">
-                            <p class="text-muted mb-4">
-                                High-converting landing page with lead capture forms and conversion optimization.
-                            </p>
-
-                            <div class="mb-4">
-                                <h4 class="h6 fw-semibold mb-2">Technologies:</h4>
-                                <div class="d-flex flex-wrap gap-2">
-                                    <span class="badge-tech">React</span>
-                                    <span class="badge-tech">Tailwind</span>
-                                    <span class="badge-tech">EmailJS</span>
-                                    <span class="badge-tech">Google Analytics</span>
-                                </div>
-                            </div>
-
-                            <div class="mb-4">
-                                <h4 class="h6 fw-semibold mb-2">Key Features:</h4>
-                                <div class="d-flex flex-wrap gap-2">
-                                    <span class="badge-feature">Lead Capture</span>
-                                    <span class="badge-feature">A/B Testing</span>
-                                    <span class="badge-feature">Analytics Integration</span>
-                                </div>
-                            </div>
-
-                            <div class="border-top pt-4">
-                                <div class="d-flex flex-wrap justify-content-between align-items-center">
-                                    <div>
-                                        <p class="small fw-semibold text-accent mb-1">Results:</p>
-                                        <p class="small text-muted mb-0">85% conversion rate improvement</p>
-                                    </div>
-                                  <a href="https://www.vallum.in/" target="_blank" rel="noopener noreferrer">
-  <button class="btn btn-link p-0 text-decoration-none view-more-btn-portfolio text-dark">
-    View Details <i class="bi bi-arrow-right ms-1"></i>
-  </button>
-</a>
-
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+              
                  <!-- Project vallum corporate-->
                 <div class="col-md-6 col-lg-4">
                     <div class="card card-hover h-100 border-0">
@@ -1329,17 +1272,17 @@
                                 <div class="d-flex flex-wrap gap-2">
                                     <span class="badge-tech">React</span>
                                     <span class="badge-tech">Tailwind</span>
-                                    <span class="badge-tech">EmailJS</span>
-                                    <span class="badge-tech">Google Analytics</span>
+                                    <span class="badge-tech">NodeJS</span>
+                                    <!-- <span class="badge-tech">Google Analytics</span> -->
                                 </div>
                             </div>
 
                             <div class="mb-4">
                                 <h4 class="h6 fw-semibold mb-2">Key Features:</h4>
                                 <div class="d-flex flex-wrap gap-2">
-                                    <span class="badge-feature">Lead Capture</span>
-                                    <span class="badge-feature">A/B Testing</span>
-                                    <span class="badge-feature">Analytics Integration</span>
+                                   <span class="badge-feature">Multi-language</span>
+                                    <span class="badge-feature">CMS</span>
+                                    <span class="badge-feature">Contact Forms</span>
                                 </div>
                             </div>
 
@@ -1395,9 +1338,9 @@
                             <div class="mb-4">
                                 <h4 class="h6 fw-semibold mb-2">Key Features:</h4>
                                 <div class="d-flex flex-wrap gap-2">
-                                    <span class="badge-feature">Lead Capture</span>
-                                    <span class="badge-feature">A/B Testing</span>
-                                    <span class="badge-feature">Analytics Integration</span>
+                                    <span class="badge-feature">Multi-language</span>
+                                    <span class="badge-feature">CMS</span>
+                                    <span class="badge-feature">Contact Forms</span>
                                 </div>
                             </div>
 
@@ -1829,6 +1772,124 @@
                         </div>
                     </div>
                 </div>
+              <!-- Project vallum-->
+                <div class="col-md-6 col-lg-4">
+                    <div class="card card-hover h-100 border-0">
+                        <div class="project-image">
+                             <div class="project-overlay"
+                                  style="background-image:  url('img/vallum.webp'); background-size: cover; background-position: center; height: 300px;"
+    >
+                                <h3 class="h3 fw-bold mb-2">Vallum</h3>
+                                <span
+                                    class="badge bg-opacity-20 text-white border border-white border-opacity-30 rounded-pill">
+                                    Startup
+                                </span>
+                            </div>
+                            <button class="project-link btn btn-sm btn-light rounded-circle">
+                                <i class="bi-box-arrow-up-right"></i>
+                            </button>
+                        </div>
+                        <div class="card-body">
+                            <p class="text-muted mb-4">
+                                High-converting landing page with lead capture forms and conversion optimization.
+                            </p>
+
+                            <div class="mb-4">
+                                <h4 class="h6 fw-semibold mb-2">Technologies:</h4>
+                                <div class="d-flex flex-wrap gap-2">
+                                    <span class="badge-tech">React</span>
+                                    <span class="badge-tech">Tailwind</span>
+                                    <span class="badge-tech">EmailJS</span>
+                                    <span class="badge-tech">Google Analytics</span>
+                                </div>
+                            </div>
+
+                            <div class="mb-4">
+                                <h4 class="h6 fw-semibold mb-2">Key Features:</h4>
+                                <div class="d-flex flex-wrap gap-2">
+                                    <span class="badge-feature">Lead Capture</span>
+                                    <span class="badge-feature">A/B Testing</span>
+                                    <span class="badge-feature">Analytics Integration</span>
+                                </div>
+                            </div>
+
+                            <div class="border-top pt-4">
+                                <div class="d-flex flex-wrap justify-content-between align-items-center">
+                                    <div>
+                                        <p class="small fw-semibold text-accent mb-1">Results:</p>
+                                        <p class="small text-muted mb-0">85% conversion rate improvement</p>
+                                    </div>
+                                  <a href="https://www.vallum.in/" target="_blank" rel="noopener noreferrer">
+  <button class="btn btn-link p-0 text-decoration-none view-more-btn-portfolio text-dark">
+    View Details <i class="bi bi-arrow-right ms-1"></i>
+  </button>
+</a>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>    
+ <!-- ecommerce Project 3.7  bombaydental.com -->
+                <div class="col-md-6 col-lg-4">
+                    <div class="card card-hover h-100 border-0">
+                        <div class="project-image">
+                             <div class="project-overlay"
+                                 style="background-image:  url('img/bombaydental.webp'); background-size: cover; background-position: center; height: 300px;"
+    >
+                                <h3 class="h3 fw-bold mb-2"> Bombay Dental</h3>
+                                <span
+                                    class="badge bg-opacity-20 text-white border border-white border-opacity-30 rounded-pill">
+                                   Healthcare
+                                </span>
+                            </div>
+                            <button class="project-link btn btn-sm btn-light rounded-circle">
+                                <i class="bi-box-arrow-up-right"></i>
+                            </button>
+                        </div>
+                        <div class="card-body">
+                            <p class="text-muted mb-4">
+                                Modern e-commerce platform with advanced filtering, payment integration, and inventory
+                                management.
+                            </p>
+
+                            <div class="mb-4">
+                                <h4 class="h6 fw-semibold mb-2">Technologies:</h4>
+                                <div class="d-flex flex-wrap gap-2">
+                                    <span class="badge-tech">Laravel</span>
+                                    <!-- <span class="badge-tech">Node.js</span>
+                                    <span class="badge-tech">MongoDB</span>
+                                    <span class="badge-tech">Stripe</span> -->
+                                </div>
+                            </div>
+
+                            <div class="mb-4">
+                                <h4 class="h6 fw-semibold mb-2">Key Features:</h4>
+                                <div class="d-flex flex-wrap gap-2">
+                                    <span class="badge-feature">Appointment Booking</span>
+<span class="badge-feature">Video Consultations</span>
+<span class="badge-feature">Medical Records</span>
+                                </div>
+                            </div>
+
+                            <div class="border-top pt-4">
+                                <div class="d-flex justify-content-between align-items-center">
+                                    <div>
+                                        <p class="small fw-semibold text-accent mb-1">Results:</p>
+                                        <p class="small text-muted mb-0">300% increase in online sales</p>
+                                    </div>
+                                   <a href="https://bombaydental.com/" target="_blank" rel="noopener noreferrer">
+  <button class="btn btn-link p-0 text-decoration-none view-more-btn-portfolio text-dark">
+    View Details <i class="bi bi-arrow-right ms-1"></i>
+  </button>
+</a>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
  <!-- Project startup Sieindia Events-->
                 <div class="col-md-6 col-lg-4">
                     <div class="card card-hover h-100 border-0">
@@ -1864,9 +1925,9 @@
                             <div class="mb-4">
                                 <h4 class="h6 fw-semibold mb-2">Key Features:</h4>
                                 <div class="d-flex flex-wrap gap-2">
-                                    <span class="badge-feature">Multi-language</span>
-                                    <span class="badge-feature">CMS</span>
-                                    <span class="badge-feature">Contact Forms</span>
+                                   <span class="badge-feature">Lead Capture</span>
+                                    <span class="badge-feature">A/B Testing</span>
+                                    <span class="badge-feature">Analytics Integration</span>
                                 </div>
                             </div>
 

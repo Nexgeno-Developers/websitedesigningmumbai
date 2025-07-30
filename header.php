@@ -35,6 +35,8 @@ $seo = get_seo_data($page);
   <meta name="twitter:description" content="<?php echo htmlspecialchars($seo['description']); ?>" />
   <meta name="twitter:image" content="https://websitedesigningmumbai.in/images/og-image.jpg" /> 
 
+
+   <link rel="shortcut icon" href="img/faviconn.png">
   <!-- Bootstrap 5 CSS -->
   <link href="css/bootstrap.min.css" rel="stylesheet" />
   <!-- Bootstrap Icons -->
