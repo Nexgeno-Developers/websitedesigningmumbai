@@ -117,10 +117,13 @@
                                 API Integration
                             </li>
                         </ul>
-                        <button class="learn-more-btn">
-                            Learn More
-                            <i class="bi bi-arrow-right arrow-icon ms-2"></i>
-                        </button>
+                        <button
+  class="learn-more-btn"
+  onclick="location.href='static-dynamic-websites.htm';"
+>
+  Learn More
+  <i class="bi bi-arrow-right arrow-icon ms-2"></i>
+</button>
                     </div>
                 </div>
 
@@ -153,10 +156,14 @@
                                 Plugin Development
                             </li>
                         </ul>
-                        <button class="learn-more-btn">
-                            Learn More
-                            <i class="bi bi-arrow-right arrow-icon ms-2"></i>
-                        </button>
+                        <button
+  class="learn-more-btn"
+  onclick="location.href='wordpress-cms-website-development';"
+>
+  Learn More
+  <i class="bi bi-arrow-right arrow-icon ms-2"></i>
+</button>
+
                     </div>
                 </div>
 
@@ -189,10 +196,13 @@
                                 Mobile Commerce
                             </li>
                         </ul>
-                        <button class="learn-more-btn">
-                            Learn More
-                            <i class="bi bi-arrow-right arrow-icon ms-2"></i>
-                        </button>
+                        <button
+  class="learn-more-btn"
+  onclick="location.href='e-commerce-website-solutions.htm';"
+>
+  Learn More
+  <i class="bi bi-arrow-right arrow-icon ms-2"></i>
+</button>
                     </div>
                 </div>
 
@@ -225,10 +235,14 @@
                                 Cloud Deployment
                             </li>
                         </ul>
-                        <button class="learn-more-btn">
-                            Learn More
-                            <i class="bi bi-arrow-right arrow-icon ms-2"></i>
-                        </button>
+                       
+                        <button
+  class="learn-more-btn"
+  onclick="location.href='custom-web-applications';"
+>
+  Learn More
+  <i class="bi bi-arrow-right arrow-icon ms-2"></i>
+</button>
                     </div>
                 </div>
 
@@ -257,10 +271,14 @@
                                 Cultural Adaptation
                             </li>
                         </ul>
-                        <button class="learn-more-btn">
-                            Learn More
-                            <i class="bi bi-arrow-right arrow-icon ms-2"></i>
-                        </button>
+                        <button
+  class="learn-more-btn"
+  onclick="location.href='multi-language-websites.htm';"
+>
+  Learn More
+  <i class="bi bi-arrow-right arrow-icon ms-2"></i>
+</button>
+
                     </div>
                 </div>
 
@@ -293,10 +311,14 @@
                                 Mobile-First Design
                             </li>
                         </ul>
-                        <button class="learn-more-btn">
-                            Learn More
-                            <i class="bi bi-arrow-right arrow-icon ms-2"></i>
-                        </button>
+                        <button
+  class="learn-more-btn"
+  onclick="location.href='landing-page-website-designing.htm';"
+>
+  Learn More
+  <i class="bi bi-arrow-right arrow-icon ms-2"></i>
+</button>
+
                     </div>
                 </div>
             </div>
@@ -415,13 +437,11 @@
                                 <i class="bi bi-star-fill star-icon"></i>
                             </div>
                             <blockquote class="testimonial-text">
-                                "The team delivered our e-commerce platform in record time. The AI-assisted development
-                                process was impressive, and the final product exceeded our expectations. Sales increased
-                                by 300% within the first month!"
+                               “Best for App development company, we have something different type of requirements but they where able to understand and it was great to communicate from there team as per our time zone, we are located at South Africa Durban but pleasure working with them.”
                             </blockquote>
                             <div class="space-y-2">
-                                <div class="client-name">Sarah Johnson</div>
-                                <div class="client-position">CEO at TechStart Inc.</div>
+                                <div class="client-name">Omar S</div>
+                                <!-- <div class="client-position">CEO at TechStart Inc.</div> -->
                                 <div class="industry-badge">E-commerce</div>
                             </div>
                         </div>
@@ -436,18 +456,15 @@
                                 <i class="bi bi-star-fill star-icon"></i>
                             </div>
                             <blockquote class="testimonial-text">
-                                "We needed a multi-language medical platform that could scale globally. They delivered a
-                                robust solution with seamless internationalization. The technical expertise and
-                                attention to detail were outstanding."
+                               “Very pleased with support from Nexgeno Technology and the tool during initial kicking of the tires. The knowledge base gets points for simplicity however needs better context and examples provided to help users such as myself. Looking forward to growing with this CRM!”
                             </blockquote>
                             <div class="space-y-2">
-                                <div class="client-name">Michael Chen</div>
-                                <div class="client-position">CTO at Global Healthcare Solutions</div>
-                                <div class="industry-badge">Healthcare</div>
+                                <div class="client-name">Prime Enterprises</div>
+                                <!-- <div class="client-position">CTO at Global Healthcare Solutions</div> -->
+                                <div class="industry-badge">Enterprise</div>
                             </div>
                         </div>
-
-                        <!-- Testimonial 3 -->
+  <!-- Testimonial 3 -->
                         <div class="testimonial-item">
                             <div class="rating-stars">
                                 <i class="bi bi-star-fill star-icon"></i>
@@ -457,13 +474,29 @@
                                 <i class="bi bi-star-fill star-icon"></i>
                             </div>
                             <blockquote class="testimonial-text">
-                                "From concept to launch in just 2 weeks! The landing page they created has a 45%
-                                conversion rate. The combination of AI speed and human creativity is truly game-changing
-                                for our business."
+                                “Working with Website Designing Mumbai on my site was such a pleasure. Arif and his team always so friendly, professional, and happy to help me with any questions and concerns about my site. I would definitely recommend her to anyone looking for a professional web designer for their project."
                             </blockquote>
                             <div class="space-y-2">
-                                <div class="client-name">Emily Rodriguez</div>
-                                <div class="client-position">Founder at Creative Studio</div>
+                                <div class="client-name">Rajesh Oberoi</div>
+                                <!-- <div class="client-position">CTO at Global Healthcare Solutions</div> -->
+                                <div class="industry-badge">Healthcare</div>
+                            </div>
+                        </div>
+                        <!-- Testimonial 4 -->
+                        <div class="testimonial-item">
+                            <div class="rating-stars">
+                                <i class="bi bi-star-fill star-icon"></i>
+                                <i class="bi bi-star-fill star-icon"></i>
+                                <i class="bi bi-star-fill star-icon"></i>
+                                <i class="bi bi-star-fill star-icon"></i>
+                                <i class="bi bi-star-fill star-icon"></i>
+                            </div>
+                            <blockquote class="testimonial-text">
+                                “Great experience using The Nexgeno technology pvt ltd. They have helped build a professional website and they are always happy to help should I need any alterations. Even assisted me with SEO related bits to help get my business up and running. Cannot fault the web surgery and would high recommend them. 10/10”
+                            </blockquote>
+                            <div class="space-y-2">
+                                <div class="client-name">Rahul Garg</div>
+                                <!-- <div class="client-position">Founder at Creative Studio</div> -->
                                 <div class="industry-badge">Creative Agency</div>
                             </div>
                         </div>

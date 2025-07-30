@@ -138,6 +138,9 @@ $seo = get_seo_data($page);
                         <li class="nav-item mx-2">
                             <a class="nav-link position-relative px-2 text-white" href="about.htm">About</a>
                         </li>
+                         <li class="nav-item mx-2">
+                            <a class="nav-link position-relative px-2 text-white" href="clients.htm">Clients</a>
+                        </li>
                         <li class="nav-item mx-2">
                             <a class="nav-link position-relative px-2 text-white" href="contact.htm">Contact</a>
                         </li>
@@ -167,6 +170,9 @@ $seo = get_seo_data($page);
                     </li>
                     <li class="nav-item">
                         <a class="nav-link py-2" href="about.htm">About</a>
+                    </li>
+                     <li class="nav-item">
+                        <a class="nav-link py-2" href="clients.htm">Clients</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link py-2" href="contact.htm">Contact</a>
