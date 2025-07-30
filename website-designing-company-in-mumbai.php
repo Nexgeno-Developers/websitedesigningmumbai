@@ -8,7 +8,7 @@
         </div>
         <div class="container position-relative">
             <div class="row justify-content-center">
-                <div class="col-lg-8 text-center pt-5 mt-3 hero-section-max-786">
+                <div class="col-lg-8 text-center pt-5 mt-3">
                     <div class="hero-icon-all-web d-inline-flex align-items-center justify-content-center bg-glass rounded-3 border border-white border-opacity-10 mb-4">
                         <i class="bi-globe text-white fs-1"></i>
                     </div>
@@ -142,7 +142,7 @@
                                 </li>
                             </ul>
                             <button class="btn btn-offer-service w-100 py-3 fw-semibold hero-header-pricing hero-header-pricing-text">
-                                Choose Basic
+                                Choose Basic Package
                                 <i class="bi-people ms-2"></i>
                             </button>
                         </div>
@@ -190,13 +190,9 @@
                                     <i class="bi-check-circle text-accent mt-0"></i>
                                     <span>3 months support</span>
                                 </li>
-                                <li class="d-flex align-items-start gap-2 mb-md-3 mb-0">
-                                    <i class="bi-check-circle text-accent mt-0"></i>
-                                    <span>Content management</span>
-                                </li>
                             </ul>
                             <button class="btn btn-hero w-100 py-3 fw-semibold pricing-card-hovv hero-header-pricing hero-header-pricing-text">
-                                Choose Standard
+                                Choose Standard Package
                                 <i class="bi-people ms-2"></i>
                             </button>
                         </div>
@@ -240,13 +236,9 @@
                                     <i class="bi-check-circle text-accent mt-0"></i>
                                     <span>6 months support</span>
                                 </li>
-                                <li class="d-flex align-items-start gap-2 mb-md-3 mb-0">
-                                    <i class="bi-check-circle text-accent mt-0"></i>
-                                    <span>Training included</span>
-                                </li>
                             </ul>
                             <button class="btn btn-offer-service w-100 py-3 fw-semibold hero-header-pricing hero-header-pricing-text">
-                                Choose Premium
+                                Choose Premium Package
                                 <i class="bi-people ms-2"></i>
                             </button>
                         </div>
@@ -312,18 +304,6 @@
                                 <span>Google Analytics Setup</span>
                             </div>
                         </div>
-                        <div class="col-md-6">
-                            <div class="d-flex align-items-start gap-3 mb-md-3 mb-0">
-                                <i class="bi-check-circle text-accent mt-0"></i>
-                                <span>SSL Certificate Setup</span>
-                            </div>
-                        </div>
-                        <div class="col-md-6">
-                            <div class="d-flex align-items-start gap-3 mb-md-3 mb-0">
-                                <i class="bi-check-circle text-accent mt-0"></i>
-                                <span>Contact Forms Integration</span>
-                            </div>
-                        </div>
                     </div>
                 </div>
 
@@ -337,8 +317,6 @@
                         <span class="badge-tech badge">CSS3</span>
                         <span class="badge-tech badge">JavaScript</span>
                         <span class="badge-tech badge">Tailwind CSS</span>
-                        <span class="badge-tech badge">TypeScript</span>
-                        <span class="badge-tech badge">Vercel</span>
                     </div>
 
                     <div class="row g-4">
@@ -369,7 +347,7 @@
         <div class="container">
             <div class="text-center mb-md-5 mb-3">
                 <h2 class="display-4 fw-bold mb-3 hero-header-text">Our Process</h2>
-                <p class="fs-5 text-muted mx-auto hero-para-text" style="max-width: 700px;">
+                <p class="fs-5 text-muted mx-auto hero-para-text">
                     We follow a proven process to ensure your project is delivered on time and exceeds expectations.
                 </p>
             </div>
@@ -422,7 +400,7 @@
     <!-- FAQs -->
     <section class="bg-light-blue section-padding-80px">
         <div class="container">
-            <div class="text-center mb-md-5 mb-3">
+            <div class="text-center mb-5">
                 <h2 class="display-4 fw-bold mb-3 hero-header-text">Frequently Asked Questions</h2>
             </div>
 
@@ -431,15 +409,17 @@
                     <!-- FAQ 1 -->
                     <div class="card faq-card mb-4 border-0">
                         <div class="card-body p-4">
-                            <div class="d-flex gap-4 faq-col-column">
+                            <div class="d-flex gap-4">
                                 <div class="accent-gradient rounded-circle d-flex align-items-center justify-content-center flex-shrink-0"
                                     style="width: 40px; height: 40px;">
                                     <i class="bi-check-lg text-white"></i>
                                 </div>
                                 <div>
-                                    <h3 class="h5 fw-semibold mb-3">Do you offer domain registration and web hosting services?</h3>
+                                    <h3 class="h5 fw-semibold mb-3">How long does it take to build a website?</h3>
                                     <p class="text-muted">
-                                        Yes, we provide complete website solutions, including domain registration, secure and fast web hosting, SSL certification, and email setup.
+                                        Typical timelines: Landing pages (3-7 days), Business websites (10-15 days),
+                                        E-commerce sites (15-25 days), Custom applications (20-40 days). Rush projects
+                                        available.
                                     </p>
                                 </div>
                             </div>
@@ -449,16 +429,17 @@
                     <!-- FAQ 2 -->
                     <div class="card faq-card mb-4 border-0">
                         <div class="card-body p-4">
-                            <div class="d-flex gap-4 faq-col-column">
+                            <div class="d-flex gap-4">
                                 <div class="accent-gradient rounded-circle d-flex align-items-center justify-content-center flex-shrink-0"
                                     style="width: 40px; height: 40px;">
                                     <i class="bi-check-lg text-white"></i>
                                 </div>
                                 <div>
-                                    <h3 class="h5 fw-semibold mb-3">How long will it take to design my website?
+                                    <h3 class="h5 fw-semibold mb-3">What's included in your website development service?
                                     </h3>
                                     <p class="text-muted">
-                                        The turnaround time depends on the scope of the project. A simple website can be delivered in 1-2 weeks, while complex or feature-rich websites may take 3-6 weeks.
+                                        Complete package: Design, development, responsive optimization, SEO setup,
+                                        content integration, testing, deployment, and 30-day support.
                                     </p>
                                 </div>
                             </div>
@@ -468,15 +449,16 @@
                     <!-- FAQ 3 -->
                     <div class="card faq-card mb-4 border-0">
                         <div class="card-body p-4">
-                            <div class="d-flex gap-4 faq-col-column">
+                            <div class="d-flex gap-4">
                                 <div class="accent-gradient rounded-circle d-flex align-items-center justify-content-center flex-shrink-0"
                                     style="width: 40px; height: 40px;">
                                     <i class="bi-check-lg text-white"></i>
                                 </div>
                                 <div>
-                                    <h3 class="h5 fw-semibold mb-3">Will my website be mobile-friendly and SEO-optimized?</h3>
+                                    <h3 class="h5 fw-semibold mb-3">Do you provide ongoing maintenance and support?</h3>
                                     <p class="text-muted">
-                                        Absolutely. All websites we design are fully responsive and optimized for SEO to ensure maximum visibility on Google and a great experience on all devices.
+                                        Yes! We offer maintenance packages including updates, security monitoring,
+                                        backups, and technical support starting from ₹3,000/month.
                                     </p>
                                 </div>
                             </div>
@@ -486,16 +468,17 @@
                     <!-- FAQ 4 -->
                     <div class="card faq-card mb-4 border-0">
                         <div class="card-body p-4">
-                            <div class="d-flex gap-4 faq-col-column">
+                            <div class="d-flex gap-4">
                                 <div class="accent-gradient rounded-circle d-flex align-items-center justify-content-center flex-shrink-0"
                                     style="width: 40px; height: 40px;">
                                     <i class="bi-check-lg text-white"></i>
                                 </div>
                                 <div>
-                                    <h3 class="h5 fw-semibold mb-3">Can you redesign my existing website?
+                                    <h3 class="h5 fw-semibold mb-3">Can you work with our existing brand guidelines?
                                     </h3>
                                     <p class="text-muted">
-                                         Yes, we specialize in website redesign services. We will retain what works and revamp what doesn’t, giving your brand a fresh, modern look while improving performance and functionality.
+                                        Absolutely! We'll work within your brand guidelines and can also help enhance
+                                        them if needed. Just share your brand assets with us.
                                     </p>
                                 </div>
                             </div>
@@ -505,15 +488,16 @@
                     <!-- FAQ 5 -->
                     <div class="card faq-card border-0">
                         <div class="card-body p-4">
-                            <div class="d-flex gap-4 faq-col-column">
+                            <div class="d-flex gap-4">
                                 <div class="accent-gradient rounded-circle d-flex align-items-center justify-content-center flex-shrink-0"
                                     style="width: 40px; height: 40px;">
                                     <i class="bi-check-lg text-white"></i>
                                 </div>
                                 <div>
-                                    <h3 class="h5 fw-semibold mb-3">Do you provide website maintenance and support?</h3>
+                                    <h3 class="h5 fw-semibold mb-3">Do you build mobile apps as well?</h3>
                                     <p class="text-muted">
-                                        Yes. We offer ongoing website maintenance and support packages to keep your site updated, secure, and running smoothly.
+                                        We specialize in web applications and Progressive Web Apps (PWAs) that work like
+                                        native apps. For native mobile apps, we partner with trusted developers.
                                     </p>
                                 </div>
                             </div>
@@ -523,6 +507,5 @@
             </div>
         </div>
     </section>
-    <!-- pricing section -->
 
     <?php include 'footer.php';?>
