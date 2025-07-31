@@ -236,25 +236,28 @@
                 <div class="col-md-6 col-lg-4">
                     <div class="service-card">
                         <div class="service-icon-container">
-                            <i class="bi bi-search service-icon"></i>
+                            <!-- <i class="bi bi-search service-icon"></i> -->
+                             <i class="bi bi-wrench-adjustable-circle  fs-4 text-white"></i>
                         </div>
-                        <h3 class="service-title">Multi-language Support</h3>
+                        <h3 class="service-title">UI/UX Design & Prototyping</h3>
                         <p class="service-description">
-                            Global-ready websites with internationalization, multi-language content, and regional
-                            optimization.
+                          Design-first approach for modern and intuitive interfaces.
                         </p>
                         <ul class="feature-list">
                             <li class="feature-item">
                                 <span class="feature-bullet"></span>
-                                RTL Support
+                                Wireframes & Prototypes
                             </li>
                             <li class="feature-item">
                                 <span class="feature-bullet"></span>
-                                Regional SEO
+                                
+                              Color & Font Strategy
+                            
                             </li>
                             <li class="feature-item">
                                 <span class="feature-bullet"></span>
-                                Cultural Adaptation
+                                
+Interaction Animations
                             </li>
                         </ul>
                         <button class="learn-more-btn">
@@ -502,7 +505,7 @@
                         <div class="industry-icon-container">
                             <i class="bi bi-buildings industry-icon"></i>
                         </div>
-                        <span class="we-serve-industry-badge">Small Business</span>
+                        <span class="we-serve-industry-badge bg-warning">Small Business</span>
                     </div>
                 </div>
 
@@ -512,7 +515,7 @@
                         <div class="industry-icon-container">
                             <i class="bi bi-heart industry-icon"></i>
                         </div>
-                        <span class="we-serve-industry-badge">Healthcare</span>
+                        <span class="we-serve-industry-badge bg-warning">Healthcare</span>
                     </div>
                 </div>
 
@@ -522,7 +525,7 @@
                         <div class="industry-icon-container">
                             <i class="bi bi-bag industry-icon"></i>
                         </div>
-                        <span class="we-serve-industry-badge">Retail</span>
+                        <span class="we-serve-industry-badge bg-warning">Retail</span>
                     </div>
                 </div>
 
@@ -532,7 +535,7 @@
                         <div class="industry-icon-container">
                             <i class="bi bi-rocket industry-icon"></i>
                         </div>
-                        <span class="we-serve-industry-badge">Startups</span>
+                        <span class="we-serve-industry-badge bg-warning">Startups</span>
                     </div>
                 </div>
 
@@ -542,7 +545,7 @@
                         <div class="industry-icon-container">
                             <i class="bi bi-bank industry-icon"></i>
                         </div>
-                        <span class="we-serve-industry-badge">Legal</span>
+                        <span class="we-serve-industry-badge bg-warning">Legal</span>
                     </div>
                 </div>
 
@@ -552,7 +555,7 @@
                         <div class="industry-icon-container">
                             <i class="bi bi-mortarboard industry-icon"></i>
                         </div>
-                        <span class="we-serve-industry-badge">Education</span>
+                        <span class="we-serve-industry-badge bg-warning">Education</span>
                     </div>
                 </div>
 
@@ -562,7 +565,7 @@
                         <div class="industry-icon-container">
                             <i class="bi bi-calendar industry-icon"></i>
                         </div>
-                        <span class="we-serve-industry-badge">Events</span>
+                        <span class="we-serve-industry-badge bg-warning">Events</span>
                     </div>
                 </div>
 
@@ -572,7 +575,7 @@
                         <div class="industry-icon-container">
                             <i class="bi bi-people industry-icon"></i>
                         </div>
-                        <span class="we-serve-industry-badge">Nonprofits</span>
+                        <span class="we-serve-industry-badge bg-warning">Nonprofits</span>
                     </div>
                 </div>
             </div>
@@ -690,6 +693,7 @@
         </div>
     </section>
     <!-- contact-home -->
+     
 
 
 

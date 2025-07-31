@@ -1026,7 +1026,7 @@
     }
 
     .we-serve-industry-badge {
-      background-color: hsla(283, 94%, 13%, 0.788);
+      /* background-color: var(--accent); */
       color: white;
       padding: 0.25rem 0.75rem;
       border-radius: 9999px;

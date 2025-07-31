@@ -19,7 +19,7 @@
                 <div class="col-lg-8 ">
                     <div class="card card-hover border-0 shadow border-radius-75rem">
                         <div class="card-body p-4 p-md-5">
-                            <h2 class="text-center display-5 fw-bold mb-4">Start Your Project Today</h2>
+                            <h2 class="text-center display-5 fw-bold mb-4">Get In Touch</h2>
                             <p class="text-center text-muted mb-5">
                                 Fill out the form below and we'll get back to you within 24 hours with a detailed
                                 proposal.

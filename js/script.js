@@ -98,7 +98,40 @@ document.addEventListener('DOMContentLoaded', function () {
 // Testimonial==========================================
 
 
+// change by danish state counter
 
+document.querySelector('.hero-content').addEventListener('mouseenter', () => {
+  const counters = document.querySelectorAll('.counter-value');
+
+  counters.forEach(counter => {
+    const target = +counter.getAttribute('data-count');
+    let count = 0;
+    const duration = 2000;
+    const intervalTime = 10;
+    const steps = duration / intervalTime;
+    const increment = target / steps;
+
+    // Clear any previous interval
+    if (counter._interval) {
+      clearInterval(counter._interval);
+    }
+
+    counter.textContent = '0'; // reset to 0
+
+    counter._interval = setInterval(() => {
+      count += increment;
+      if (count >= target) {
+        counter.textContent = target;
+        clearInterval(counter._interval);
+      } else {
+        counter.textContent = Math.floor(count);
+      }
+    }, intervalTime);
+  });
+});
+
+
+// end
 
 
 // State counter==========================================

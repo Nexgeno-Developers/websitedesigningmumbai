@@ -60,7 +60,9 @@
                         <li class="mb-2">
                             <a href="#" class="footer-link">
                                 <!-- <i class="bi bi-arrow-right arrow-icon"></i> -->
-                                Multi-language Support
+                                <!-- Multi-language Support -->
+                                 UI/UX Design & Prototyping
+
                             </a>
                         </li>
                         <li class="mb-2">
