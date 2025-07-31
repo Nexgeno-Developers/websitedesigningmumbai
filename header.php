@@ -94,7 +94,7 @@ $seo = get_seo_data($page);
                 <!-- Logo -->
                 <div class="d-flex align-items-center">
                     <div class="me-2 rounded d-flex align-items-center justify-content-center">
-                       <a href="/"> <img src="img/websie_designing_logo.png" alt="Logo"
+                       <a href="/"> <img src="img/websie_designing_logo.webp" alt="Logo"
                             class="me-2 rounded object-fit-cover header_logo" /></a>
                     </div>
                     <!-- <div>

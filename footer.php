@@ -6,7 +6,7 @@
                 <!-- Company Info -->
                 <div class="col-md-6 col-lg-3">
                     <div class="d-flex align-items-center mb-4">
-                        <img src="img/websie_designing_logo.png" alt="Logo" style=" height: 30px;"
+                        <img src="img/websie_designing_logo.webp" alt="Logo" style=" height: 30px;"
                             class="me-2 rounded object-fit-cover" />
                     </div>
                     <p class="text-white-80 mb-4">
@@ -14,16 +14,16 @@
                         and business size.
                     </p>
                     <div class="d-flex gap-3">
-                        <button class="glass-btn">
+                        <button class="glass-btn" aria-label="">
                             <i class="bi bi-facebook"></i>
                         </button>
-                        <button class="glass-btn">
+                       <button class="glass-btn" aria-label="">
                             <i class="bi bi-twitter"></i>
                         </button>
-                        <button class="glass-btn">
+                       <button class="glass-btn" aria-label="">
                             <i class="bi bi-instagram"></i>
                         </button>
-                        <button class="glass-btn">
+                       <button class="glass-btn" aria-label="">
                             <i class="bi bi-linkedin"></i>
                         </button>
                     </div>
