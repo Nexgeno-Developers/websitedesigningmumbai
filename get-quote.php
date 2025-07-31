@@ -4,7 +4,7 @@
     <!-- Hero Section -->
     <section class="service-ready-start section-padding-80px">
         <div class="container text-center">
-            <h1 class="display-4 fw-bold mb-4 pt-md-5">Get In Touch</h1>
+            <h1 class="display-4 fw-bold mb-4 pt-md-5">Get Quote</h1>
             <p class="fs-3 text-white text-opacity-80 mx-auto mb-0">
                 Ready to start your project? Let's discuss how we can help bring your vision to life.
             </p>
@@ -19,7 +19,7 @@
                 <div class="col-lg-8 ">
                     <div class="card card-hover border-0 shadow border-radius-75rem">
                         <div class="card-body p-4 p-md-5">
-                            <h2 class="text-center display-5 fw-bold mb-4">Get In Touch</h2>
+                            <h2 class="text-center display-5 fw-bold mb-4">Start Your Project Today</h2>
                             <p class="text-center text-muted mb-5">
                                 Fill out the form below and we'll get back to you within 24 hours with a detailed
                                 proposal.

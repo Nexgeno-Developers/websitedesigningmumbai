@@ -40,10 +40,17 @@
                         <button class="btn btn-hero btn-lg px-5 py-3 fs-5 hero-header-pricing hero-header-pricing-text">
                             Get Free Quote
                         </button>
-                        <button class="btn btn-hero-outline btn-lg px-5 py-3 fs-5 hero-header-pricing hero-header-pricing-text">
+                        <!-- <button class="btn btn-hero-outline btn-lg px-5 py-3 fs-5 hero-header-pricing hero-header-pricing-text" >
+                            
                             <i class="bi-headphones me-2"></i>
+                            
                             Schedule Call
-                        </button>
+                        </button> -->
+                        <a href="https://calendly.com/shahrukh-nexgeno" class="btn btn-hero-outline btn-lg px-5 py-3 fs-5 hero-header-pricing hero-header-pricing-text">
+    <i class="bi-headphones me-2"></i>
+    Schedule Call 
+</a>
+
                     </div>
                 </div>
             </div>

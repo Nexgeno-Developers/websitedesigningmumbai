@@ -111,8 +111,8 @@
                             </div>
 
                             <a class="btn btn-warning w-100 d-flex align-items-center justify-content-center gap-2"
-                               href="https://calendly.com/shahrukh-nexgeno">
-                    
+                               href="services-detail.php">
+                               
                                 View Details
                                 <i class="bi-arrow-right"></i>
                             </a>
@@ -214,7 +214,7 @@
                             </div>
 
                            <a class="btn btn-warning w-100 d-flex align-items-center justify-content-center gap-2"
-                               href="https://calendly.com/shahrukh-nexgeno">
+                               href="services-detail.php">
                                 View Details
                                 <i class="bi-arrow-right"></i>
                             </a>
@@ -315,7 +315,7 @@
                             </div>
 
                            <a class="btn btn-warning w-100 d-flex align-items-center justify-content-center gap-2"
-                                href="https://calendly.com/shahrukh-nexgeno">
+                                href="services-detail.php">
                                 View Details
                                 <i class="bi-arrow-right"></i>
                             </a>
@@ -417,7 +417,7 @@
                             </div>
 
                            <a class="btn btn-warning w-100 d-flex align-items-center justify-content-center gap-2"
-                              href="https://calendly.com/shahrukh-nexgeno">
+                              href="services-detail.php">
                                 View Details
                                 <i class="bi-arrow-right"></i>
                             </a>
@@ -516,7 +516,7 @@
                             </div>
 
                            <a class="btn btn-warning w-100 d-flex align-items-center justify-content-center gap-2"
-                                href="https://calendly.com/shahrukh-nexgeno">
+                                href="services-detail.php">
                                 View Details
                                 <i class="bi-arrow-right"></i>
                             </a>
@@ -616,7 +616,7 @@
                             </div>
 
                            <a class="btn btn-warning w-100 d-flex align-items-center justify-content-center gap-2"
-                            href="https://calendly.com/shahrukh-nexgeno">
+                            href="services-detail.php">
                                 View Details
                                 <i class="bi-arrow-right"></i>
                             </a>
@@ -715,7 +715,7 @@
                             </div>
 
                            <a class="btn btn-warning w-100 d-flex align-items-center justify-content-center gap-2"
-                                href="https://calendly.com/shahrukh-nexgeno">
+                                href="/progressive-web-app.htm">
                                 View Details
                                 <i class="bi-arrow-right"></i>
                             </a>
@@ -814,7 +814,7 @@
                             </div>
 
                          <a class="btn btn-warning w-100 d-flex align-items-center justify-content-center gap-2"
-                               href="https://calendly.com/shahrukh-nexgeno">
+                               href="services-detail.php">
                                 View Details
                                 <i class="bi-arrow-right"></i>
                             </a>
@@ -897,7 +897,7 @@
                             </div>
 
                            <a class="btn btn-warning w-100 d-flex align-items-center justify-content-center gap-2"
-                               href="https://calendly.com/shahrukh-nexgeno">
+                               href="services-detail.php">
                                 View Details
                                 <i class="bi-arrow-right"></i>
                             </a>
@@ -982,7 +982,7 @@
                             </div>
 
                          <a class="btn btn-warning w-100 d-flex align-items-center justify-content-center gap-2"
-                              href="https://calendly.com/shahrukh-nexgeno">
+                              href="services-detail.php">
                                 View Details
                                 <i class="bi-arrow-right"></i>
                             </a>
