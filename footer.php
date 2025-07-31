@@ -11,7 +11,7 @@
                     </div>
                     <p class="text-white-80 mb-4">
                         Fast, scalable websites built with AI-powered development and expert human review for any budget
-                        and business size.
+                        and business size. 
                     </p>
                     <div class="d-flex gap-3">
                         <button class="glass-btn">
