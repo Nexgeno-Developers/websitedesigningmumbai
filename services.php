@@ -4,11 +4,11 @@
     <!-- Hero Section -->
     <section class="service-ready-start section-padding-80px">
         <div class="container text-center">
-            <h1 class="display-4 fw-bold mb-4 pt-md-5">Our Services</h1>
-            <p class="lead mb-5 opacity-75 mx-auto" style="max-width: 700px;">
+            <h1 class="display-4 fw-bold pt-5 mb-3 hero-header-text">Our Services</h1>
+            <p class="fs-3 text-white text-opacity-80 mx-auto mb-md-5 mb-3 hero-para-text">
                 Comprehensive web development services to help your business succeed online
             </p>
-            <button class="btn btn-hero btn-lg px-4 py-2">
+            <button class="btn btn-hero btn-lg py-2 hero-header-pricing hero-header-pricing-text" onclick="window.location.href='get-quote.htm'">
                 Get Custom Quote
             </button>
         </div>
@@ -111,7 +111,7 @@
                             </div>
 
                             <a class="btn btn-warning w-100 d-flex align-items-center justify-content-center gap-2"
-                                 href="/static-dynamic-websites.htm">
+                               href="/static-dynamic-websites.htm">
                                 View Details
                                 <i class="bi-arrow-right"></i>
                             </a>
@@ -813,7 +813,7 @@
                             </div>
 
                          <a class="btn btn-warning w-100 d-flex align-items-center justify-content-center gap-2"
-                              href="/seo-performance-optimization.htm">
+                               href="/seo-performance-optimization.htm">
                                 View Details
                                 <i class="bi-arrow-right"></i>
                             </a>
@@ -829,19 +829,20 @@
                             <div class="d-flex align-items-start gap-4 mb-4">
                                 <div class="accent-gradient rounded-xl service-icon d-flex align-items-center justify-content-center"
                                     style="width: 64px; height: 64px;">
-                                   <i class="bi bi-vector-pen  fs-4 text-white"></i>
+                                  <i class="bi bi-wrench-adjustable-circle  fs-4 text-white"></i> 
                                 </div>
                                 <div class="flex-grow-1">
                                     <h3 class="h4 service-title mb-2">UI/UX Design & Prototyping</h3>
-                                    <p class="text-muted mb-3">Design-first approach for modern and intuitive interfaces</p>
+                                    <p class="text-muted mb-3">Design-first approach for modern and intuitive interfaces
+                                    </p>
                                     <div class="d-flex flex-wrap gap-3 small">
                                         <div class="d-flex align-items-center gap-2">
-                                           <i class="bi-currency-rupee text-accent"></i>
-                                            <span class="fw-medium"> Starting from ₹10,000</span>
+                                            <i class="bi-currency-rupee text-accent"></i>
+                                            <span class="fw-medium">Starting from ₹10,000</span>
                                         </div>
                                         <div class="d-flex align-items-center gap-2">
                                             <i class="bi-clock text-accent"></i>
-                                            <span class="fw-medium"> 5–10 days</span>
+                                            <span class="fw-medium">5-10 days</span>
                                         </div>
                                     </div>
                                 </div>
@@ -880,8 +881,6 @@
                                             <span class="small text-muted">Interaction Animations</span>
                                         </div>
                                     </div>
-                                   
-                                    </div>
                                 </div>
                             </div>
 
@@ -892,17 +891,18 @@
                                     <span class="badge badge-tech">Adobe XD</span>
                                     <span class="badge badge-tech">Sketch</span>
                                     <span class="badge badge-tech">Lottie</span>
-                                    <span class="badge badge-tech">Zeplin</span>
+                                     <span class="badge badge-tech">Zepline</span>
                                 </div>
                             </div>
 
                            <a class="btn btn-warning w-100 d-flex align-items-center justify-content-center gap-2"
-                                href="/ui-ux-design-prototyping.htm">
+                               href="/ui-ux-design-prototyping.htm">
                                 View Details
                                 <i class="bi-arrow-right"></i>
                             </a>
                         </div>
                     </div>
+                </div>
                 <!-- Service 10 -->
                 <div class="col-lg-6">
                     <div class="card card-hover h-100 border-0">
@@ -990,15 +990,15 @@
                 </div>
             </div>
         </div>
-</div>
+    </div>
     </section>
 
     <!-- Process Section -->
-    <section class="py-5 why-choose-us">
-        <div class="container py-5">
-            <div class="text-center mb-5">
-                <h2 class="display-5 fw-bold mb-4">Our Process</h2>
-                <p class="lead text-muted mx-auto" style="max-width: 700px;">
+    <section class="why-choose-us section-padding-80px">
+        <div class="container">
+            <div class="text-center">
+                <h2 class="display-5 fw-bold mb-md-4 mb-3 hero-header-text">Our Process</h2>
+                <p class="lead text-muted mx-auto hero-para-text">
                     We follow a proven process to ensure your project is delivered on time and exceeds expectations.
                 </p>
             </div>

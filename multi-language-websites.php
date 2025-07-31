@@ -2,44 +2,43 @@
 
     <!-- pricing section -->
     <!-- Hero Section -->
-    <section class="service-ready-start position-relative overflow-hidden">
+    <section class="service-ready-start section-padding-80px position-relative overflow-hidden">
         <div class="bg-grid-pattern position-absolute top-0 left-0 w-100 h-100"></div>
         <div class="bg-gradient-to-bottom from-primary/10 to-transparent position-absolute top-0 left-0 w-100 h-100">
         </div>
         <div class="container position-relative">
             <div class="row justify-content-center">
-                <div class="col-lg-8 text-center pt-md-5">
-                    <div class="d-inline-flex align-items-center justify-content-center bg-glass rounded-3 border border-white border-opacity-10 mb-4"
-                        style="width: 6rem; height: 6rem;">
-                        <i class="bi-globe text-white fs-1"></i>
+                <div class="col-lg-8 text-center pt-5 mt-3">
+                    <div class="hero-icon-all-web d-inline-flex align-items-center justify-content-center bg-glass rounded-3 border border-white border-opacity-10 mb-4">
+                        <i class="bi bi-translate text-white fs-1"></i>
                     </div>
-                    <h1 class="display-4 fw-bold mb-4 text-gradient">Multi-language Websites</h1>
-                    <p class="fs-4 text-white text-opacity-70 mb-5">International websites with multi-language and currency support</p>
+                    <h1 class="display-4 fw-bold mb--md-4 mb-3 text-gradient hero-header-text">Multi-language Websites</h1>
+                    <p class="fs-4 text-white text-opacity-70 mb-md-5 mb-3 hero-para-text">International websites with multi-language and currency support</p>
 
-                    <div class="d-flex flex-column flex-md-row gap-3 justify-content-center mb-5">
+                    <div class="d-flex flex-column flex-md-row gap-3 justify-content-center mb-md-5 mb-4">
                         <div
-                            class="d-flex align-items-center gap-3 bg-glass px-4 py-3 rounded-3 border border-white border-opacity-10">
+                            class="d-flex align-items-center gap-3 bg-glass px-4 py-3 rounded-3 border border-white border-opacity-10 hero-header-pricing">
                             <div class="bg-accent bg-opacity-20 rounded-2 d-flex align-items-center justify-content-center"
                                 style="width: 2rem; height: 2rem;">
                                 <i class="bi-currency-rupee text-accent"></i>
                             </div>
-                            <span class="fw-semibold fs-5">Starting from ₹35,000</span>
+                            <span class="fw-semibold fs-5 hero-header-pricing-text">Starting from ₹35,000</span>
                         </div>
                         <div
-                            class="d-flex align-items-center gap-3 bg-glass px-4 py-3 rounded-3 border border-white border-opacity-10">
+                            class="d-flex align-items-center gap-3 bg-glass px-4 py-3 rounded-3 border border-white border-opacity-10 hero-header-pricing">
                             <div class="bg-accent bg-opacity-20 rounded-2 d-flex align-items-center justify-content-center"
                                 style="width: 2rem; height: 2rem;">
                                 <i class="bi-clock text-accent"></i>
                             </div>
-                            <span class="fw-semibold fs-5">12-20 days</span>
+                            <span class="fw-semibold fs-5 hero-header-pricing-text">12-20 days</span>
                         </div>
                     </div>
 
                     <div class="d-flex flex-column flex-sm-row gap-3 justify-content-center">
-                        <button class="btn btn-hero btn-lg px-5 py-3 fs-5" onclick="window.location.href='get-quote.htm'">
+                        <button class="btn btn-hero btn-lg px-5 py-3 fs-5 hero-header-pricing hero-header-pricing-text" onclick="window.location.href='get-quote.htm'">
                             Get Free Quote
                         </button>
-                        <button class="btn btn-hero-outline btn-lg px-5 py-3 fs-5">
+                        <button class="btn btn-hero-outline btn-lg px-5 py-3 fs-5 hero-header-pricing hero-header-pricing-text">
                             <i class="bi-headphones me-2"></i>
                             Schedule Call
                         </button>
@@ -50,10 +49,10 @@
     </section>
 
     <!-- Description -->
-    <section class="py-5 bg-white">
+    <section class="bg-white section-padding-80px">
         <div class="container">
             <div class="row">
-                <div class="col-lg-12">
+                <!-- <div class="col-lg-12">
                     <h1 class="web-design-page-mumbai-heading fw-bold mb-md-2 mb-2">Best Website Designing Company in Mumbai</h1>
                     <p class="web-design-page-mumbai">Looking for a reliable website designing company in Mumbai, India that can bring your business vision to life? Your search ends here. We are a top-rated web design company based in Mumbai, offering innovative, result-driven, and customized website solutions to businesses of all sizes. Whether you are a startup, SME, or large enterprise, we design websites that not only look great but also perform brilliantly.</p>
                     <h2 class="web-design-page-mumbai-heading fw-bold mb-md-2 mb-2 mt-md-4 mt-3">Crafting Digital Experiences That Deliver Results</h2>
@@ -81,22 +80,23 @@
                         <li>Website Redesigning</li>
                     </ul>
                     <p class="web-design-page-mumbai"><span>Whether you want to </span><b>build a new website from scratch</b><span> or </span><b>revamp an existing one</b><span>, we ensure a seamless process that delivers outstanding results. Let us help you create a website that not only reflects your brand identity but also drives traffic, leads, and sales.</span></p>
-                </div>
+                </div> -->
+                <p class="web-design-page-mumbai text-center">Build powerful custom web applications tailored to your business needs. From simple tools to complex enterprise systems, we create scalable solutions that grow with your business.</p>
             </div>
         </div>
     </section>
 
     <!-- Packages -->
-    <section class="bg-gradient-to-end from-secondary bg-opacity-10">
-        <div class="container py-5">
-            <div class="text-center mb-5">
+    <section class="package-section-padding-bottom-80px">
+        <div class="container">
+            <div class="text-center mb-md-5 mb-4">
                 <div
                     class="d-inline-flex align-items-center gap-2 bg-accent bg-opacity-10 text-accent px-4 py-2 rounded-pill small fw-bold mb-3">
                     <i class="bi-graph-up"></i>
                     Pricing Plans
                 </div>
-                <h2 class="display-4 fw-bold mb-3">Choose Your Package</h2>
-                <p class="fs-5 text-muted mx-auto" style="max-width: 700px;">
+                <h2 class="display-4 fw-bold mb-3 hero-header-text">Choose Your Package</h2>
+                <p class="fs-5 text-muted mx-auto hero-para-text">
                     Select the perfect package for your needs. All packages include our standard features plus
                     package-specific benefits.
                 </p>
@@ -104,45 +104,41 @@
 
             <div class="row g-4">
                 <!-- Basic Package -->
-                <div class="col-md-4">
+                <div class="col-lg-4 col-md-6 col-12">
                     <div class="card h-100 border-0 shadow pricing-card-hovv">
                         <div class="card-body p-4">
-                            <h3 class="h3 fw-bold text-center mb-md-2 mb-1">Basic Package</h3>
-                            <div class="text-center mb-4">
-                                <div class="display-5 fw-bold text-accent mb-2">₹15,000</div>
-                                <p class="text-muted d-flex align-items-center justify-content-center gap-2">
+                            <h3 class="h3 fw-bold text-center mb-md-2 mb-1 pricing-heading-design-company">Basic Multi-language</h3>
+                            <div class="text-center mb-md-4 mb-2">
+                                <div class="display-5 fw-bold text-accent mb-2 pricing-price-design-company">₹35,000</div>
+                                <p class="text-muted d-flex align-items-center justify-content-center gap-2 pricing-duration-design-company">
                                     <i class="bi-clock"></i>
-                                    5-7 days
+                                    12-15 days
                                 </p>
                             </div>
-                            <ul class="list-unstyled mb-4">
-                                <li class="d-flex align-items-start gap-3 mb-3">
-                                    <i class="bi-check-circle text-accent mt-1"></i>
-                                    <span>Up to 5 pages</span>
+                            <ul class="list-unstyled mb-4 web-design-page-mumbai-li-hight">
+                                <li class="d-flex align-items-start gap-2 mb-md-3 mb-0">
+                                    <i class="bi-check-circle text-accent mt-0"></i>
+                                    <span>2-3 languages</span>
                                 </li>
-                                <li class="d-flex align-items-start gap-3 mb-3">
-                                    <i class="bi-check-circle text-accent mt-1"></i>
-                                    <span>Responsive design</span>
+                                <li class="d-flex align-items-start gap-2 mb-md-3 mb-0">
+                                    <i class="bi-check-circle text-accent mt-0"></i>
+                                    <span>Basic translation</span>
                                 </li>
-                                <li class="d-flex align-items-start gap-3 mb-3">
-                                    <i class="bi-check-circle text-accent mt-1"></i>
-                                    <span>Basic SEO setup</span>
+                                <li class="d-flex align-items-start gap-2 mb-md-3 mb-0">
+                                    <i class="bi-check-circle text-accent mt-0"></i>
+                                    <span>Currency support</span>
                                 </li>
-                                <li class="d-flex align-items-start gap-3 mb-3">
-                                    <i class="bi-check-circle text-accent mt-1"></i>
-                                    <span>Contact form</span>
+                                <li class="d-flex align-items-start gap-2 mb-md-3 mb-0">
+                                    <i class="bi-check-circle text-accent mt-0"></i>
+                                    <span>SEO optimization</span>
                                 </li>
-                                <li class="d-flex align-items-start gap-3 mb-3">
-                                    <i class="bi-check-circle text-accent mt-1"></i>
-                                    <span>Social media links</span>
-                                </li>
-                                <li class="d-flex align-items-start gap-3">
-                                    <i class="bi-check-circle text-accent mt-1"></i>
-                                    <span>1 month support</span>
+                                <li class="d-flex align-items-start gap-2 mb-md-3 mb-0">
+                                    <i class="bi-check-circle text-accent mt-0"></i>
+                                    <span>3 months support</span>
                                 </li>
                             </ul>
-                            <button class="btn btn-offer-service w-100 py-3 fw-semibold">
-                                Choose Basic
+                            <button class="btn btn-offer-service w-100 py-3 fw-semibold hero-header-pricing hero-header-pricing-text">
+                                Choose Basic Multi-language
                                 <i class="bi-people ms-2"></i>
                             </button>
                         </div>
@@ -150,53 +146,45 @@
                 </div>
 
                 <!-- Standard Package (Popular) -->
-                <div class="col-md-4">
+                <div class="col-lg-4 col-md-6 col-12 mt-md-4 mt-5">
                     <div class="card h-100 border-0 shadow popular-card pricing-card-hovv">
-                        
-                        <div class="card-body p-4 mt-4">
-                            <span class="popular-badge badge bg-accent px-3 py-2 fw-normal">
+                        <span class="popular-badge badge bg-accent px-3 py-2 fw-normal">
                             ⭐ Most Popular
                         </span>
-                            <h3 class="h3 fw-bold text-center mb-md-2 mb-1">Standard Package</h3>
-                            <div class="text-center mb-4">
-                                <div class="display-5 fw-bold text-accent mb-2">₹25,000</div>
-                                <p class="text-muted d-flex align-items-center justify-content-center gap-2">
+                        <div class="card-body p-4 mt-4">
+                            
+                            <h3 class="h3 fw-bold text-center mb-md-2 mb-1 pricing-heading-design-company">Basic Multi-language</h3>
+                            <div class="text-center mb-md-4 mb-2">
+                                <div class="display-5 fw-bold text-accent mb-2 pricing-price-design-company">₹55,000</div>
+                                <p class="text-muted d-flex align-items-center justify-content-center gap-2 pricing-duration-design-company">
                                     <i class="bi-clock"></i>
-                                    7-10 days
+                                    15-18 days
                                 </p>
                             </div>
-                            <ul class="list-unstyled mb-4">
-                                <li class="d-flex align-items-start gap-3 mb-3">
-                                    <i class="bi-check-circle text-accent mt-1"></i>
-                                    <span>Up to 10 pages</span>
+                            <ul class="list-unstyled mb-4 web-design-page-mumbai-li-hight">
+                                <li class="d-flex align-items-start gap-2 mb-md-3 mb-0">
+                                    <i class="bi-check-circle text-accent mt-0"></i>
+                                    <span>5+ languages</span>
                                 </li>
-                                <li class="d-flex align-items-start gap-3 mb-3">
-                                    <i class="bi-check-circle text-accent mt-1"></i>
-                                    <span>Advanced animations</span>
+                                <li class="d-flex align-items-start gap-2 mb-md-3 mb-0">
+                                    <i class="bi-check-circle text-accent mt-0"></i>
+                                    <span>RTL support</span>
                                 </li>
-                                <li class="d-flex align-items-start gap-3 mb-3">
-                                    <i class="bi-check-circle text-accent mt-1"></i>
-                                    <span>Blog integration</span>
+                                <li class="d-flex align-items-start gap-2 mb-md-3 mb-0">
+                                    <i class="bi-check-circle text-accent mt-0"></i>
+                                    <span>Auto-translation</span>
                                 </li>
-                                <li class="d-flex align-items-start gap-3 mb-3">
-                                    <i class="bi-check-circle text-accent mt-1"></i>
-                                    <span>Advanced SEO</span>
+                                <li class="d-flex align-items-start gap-2 mb-md-3 mb-0">
+                                    <i class="bi-check-circle text-accent mt-0"></i>
+                                    <span>Geo-targeting</span>
                                 </li>
-                                <li class="d-flex align-items-start gap-3 mb-3">
-                                    <i class="bi-check-circle text-accent mt-1"></i>
-                                    <span>Analytics setup</span>
-                                </li>
-                                <li class="d-flex align-items-start gap-3 mb-3">
-                                    <i class="bi-check-circle text-accent mt-1"></i>
-                                    <span>3 months support</span>
-                                </li>
-                                <li class="d-flex align-items-start gap-3">
-                                    <i class="bi-check-circle text-accent mt-1"></i>
-                                    <span>Content management</span>
+                                <li class="d-flex align-items-start gap-2 mb-md-3 mb-0">
+                                    <i class="bi-check-circle text-accent mt-0"></i>
+                                    <span>6 months support</span>
                                 </li>
                             </ul>
-                            <button class="btn btn-hero w-100 py-3 fw-semibold pricing-card-hovv">
-                                Choose Standard
+                            <button class="btn btn-hero w-100 py-3 fw-semibold pricing-card-hovv hero-header-pricing hero-header-pricing-text">
+                                Choose Advanced Multi-language
                                 <i class="bi-people ms-2"></i>
                             </button>
                         </div>
@@ -204,49 +192,41 @@
                 </div>
 
                 <!-- Premium Package -->
-                <div class="col-md-4">
+                <div class="col-lg-4 col-md-6 col-12">
                     <div class="card h-100 border-0 shadow pricing-card-hovv">
                         <div class="card-body p-4">
-                            <h3 class="h3 fw-bold text-center mb-md-2 mb-1">Premium Package</h3>
-                            <div class="text-center mb-4">
-                                <div class="display-5 fw-bold text-accent mb-2">₹40,000</div>
-                                <p class="text-muted d-flex align-items-center justify-content-center gap-2">
+                            <h3 class="h3 fw-bold text-center mb-md-2 mb-1 pricing-heading-design-company">Enterprise Multi-language</h3>
+                            <div class="text-center mb-md-4 mb-2">
+                                <div class="display-5 fw-bold text-accent mb-2 pricing-price-design-company">₹85,000</div>
+                                <p class="text-muted d-flex align-items-center justify-content-center gap-2 pricing-duration-design-company">
                                     <i class="bi-clock"></i>
-                                    10-15 days
+                                    18-25 days
                                 </p>
                             </div>
-                            <ul class="list-unstyled mb-4">
-                                <li class="d-flex align-items-start gap-3 mb-3">
-                                    <i class="bi-check-circle text-accent mt-1"></i>
-                                    <span>Unlimited pages</span>
+                            <ul class="list-unstyled mb-4 web-design-page-mumbai-li-hight">
+                                <li class="d-flex align-items-start gap-2 mb-md-3 mb-0">
+                                    <i class="bi-check-circle text-accent mt-0"></i>
+                                    <span>Unlimited languages</span>
                                 </li>
-                                <li class="d-flex align-items-start gap-3 mb-3">
-                                    <i class="bi-check-circle text-accent mt-1"></i>
-                                    <span>Custom animations</span>
+                                <li class="d-flex align-items-start gap-2 mb-md-3 mb-0">
+                                    <i class="bi-check-circle text-accent mt-0"></i>
+                                    <span>Professional translation</span>
                                 </li>
-                                <li class="d-flex align-items-start gap-3 mb-3">
-                                    <i class="bi-check-circle text-accent mt-1"></i>
-                                    <span>E-commerce ready</span>
+                                <li class="d-flex align-items-start gap-2 mb-md-3 mb-0">
+                                    <i class="bi-check-circle text-accent mt-0"></i>
+                                    <span>Advanced localization</span>
                                 </li>
-                                <li class="d-flex align-items-start gap-3 mb-3">
-                                    <i class="bi-check-circle text-accent mt-1"></i>
-                                    <span>Advanced integrations</span>
+                                <li class="d-flex align-items-start gap-2 mb-md-3 mb-0">
+                                    <i class="bi-check-circle text-accent mt-0"></i>
+                                    <span>Content management</span>
                                 </li>
-                                <li class="d-flex align-items-start gap-3 mb-3">
-                                    <i class="bi-check-circle text-accent mt-1"></i>
-                                    <span>Performance optimization</span>
-                                </li>
-                                <li class="d-flex align-items-start gap-3 mb-3">
-                                    <i class="bi-check-circle text-accent mt-1"></i>
-                                    <span>6 months support</span>
-                                </li>
-                                <li class="d-flex align-items-start gap-3">
-                                    <i class="bi-check-circle text-accent mt-1"></i>
-                                    <span>Training included</span>
+                                <li class="d-flex align-items-start gap-2 mb-md-3 mb-0">
+                                    <i class="bi-check-circle text-accent mt-0"></i>
+                                    <span>1 year support</span>
                                 </li>
                             </ul>
-                            <button class="btn btn-offer-service w-100 py-3 fw-semibold">
-                                Choose Premium
+                            <button class="btn btn-offer-service w-100 py-3 fw-semibold hero-header-pricing hero-header-pricing-text">
+                                Choose Enterprise Multi-language
                                 <i class="bi-people ms-2"></i>
                             </button>
                         </div>
@@ -257,60 +237,72 @@
     </section>
 
     <!-- Features & Technologies -->
-    <section class="py-5 bg-white">
-        <div class="container py-5">
+    <section class="section-padding-80px">
+        <div class="container">
             <div class="row g-5">
                 <!-- Features -->
                 <div class="col-lg-6">
-                    <h3 class="display-6 fw-bold mb-4">What's Included</h3>
+                    <h3 class="display-6 fw-bold mb-4 hero-header-text what-include">What's Included</h3>
                     <div class="row g-3">
-                       <div class="col-md-6">
-  <div class="d-flex align-items-start gap-3 mb-3">
-    <i class="bi-check-circle text-accent mt-1"></i>
-    <span>Multiple Language Support</span>
-  </div>
-  <div class="d-flex align-items-start gap-3 mb-3">
-    <i class="bi-check-circle text-accent mt-1"></i>
-    <span>RTL Language Support</span>
-  </div>
-  <div class="d-flex align-items-start gap-3 mb-3">
-    <i class="bi-check-circle text-accent mt-1"></i>
-    <span>Currency Conversion</span>
-  </div>
-  <div class="d-flex align-items-start gap-3 mb-3">
-    <i class="bi-check-circle text-accent mt-1"></i>
-    <span>Geo-location Detection</span>
-  </div>
-  <div class="d-flex align-items-start gap-3 mb-3">
-    <i class="bi-check-circle text-accent mt-1"></i>
-    <span>Cultural Localization</span>
-  </div>
-  <div class="d-flex align-items-start gap-3 mb-3">
-    <i class="bi-check-circle text-accent mt-1"></i>
-    <span>SEO for Each Language</span>
-  </div>
-  <div class="d-flex align-items-start gap-3 mb-3">
-    <i class="bi-check-circle text-accent mt-1"></i>
-    <span>Content Translation</span>
-  </div>
-  <div class="d-flex align-items-start gap-3 mb-3">
-    <i class="bi-check-circle text-accent mt-1"></i>
-    <span>Global CDN Setup</span>
-  </div>
-</div>
-
+                        <div class="col-md-6">
+                            <div class="d-flex align-items-start gap-3 mb-md-3 mb-0">
+                                <i class="bi-check-circle text-accent mt-0"></i>
+                                <span>Multiple Language Support</span>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="d-flex align-items-start gap-3 mb-md-3 mb-0">
+                                <i class="bi-check-circle text-accent mt-0"></i>
+                                <span>RTL Language Support</span>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="d-flex align-items-start gap-3 mb-md-3 mb-0">
+                                <i class="bi-check-circle text-accent mt-0"></i>
+                                <span>Currency Conversion</span>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="d-flex align-items-start gap-3 mb-md-3 mb-0">
+                                <i class="bi-check-circle text-accent mt-0"></i>
+                                <span>Geo-location Detection</span>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="d-flex align-items-start gap-3 mb-md-3 mb-0">
+                                <i class="bi-check-circle text-accent mt-0"></i>
+                                <span>Cultural Localization</span>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="d-flex align-items-start gap-3 mb-md-3 mb-0">
+                                <i class="bi-check-circle text-accent mt-0"></i>
+                                <span>SEO for Each Language</span>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="d-flex align-items-start gap-3 mb-md-3 mb-0">
+                                <i class="bi-check-circle text-accent mt-0"></i>
+                                <span>Content Translation</span>
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="d-flex align-items-start gap-3 mb-md-3 mb-0">
+                                <i class="bi-check-circle text-accent mt-0"></i>
+                                <span>Global CDN Setup</span>
+                            </div>
+                        </div>
                     </div>
                 </div>
 
                 <!-- Technologies -->
                 <div class="col-lg-6">
-                    <h3 class="display-6 fw-bold mb-4">Technologies Used</h3>
+                    <h3 class="display-6 fw-bold mb-4 hero-header-text">Technologies Used</h3>
                     <div class="d-flex flex-wrap gap-2 mb-5">
-                       <span class="badge-tech badge">React i18n</span>
-<span class="badge-tech badge">Next.js i18n</span>
-<span class="badge-tech badge">Translation APIs</span>
-<span class="badge-tech badge">Geo APIs</span>
-
+                        <span class="badge-tech badge">React</span>
+                        <span class="badge-tech badge">Next.js</span>
+                        <span class="badge-tech badge">Translation APIs</span>
+                        <span class="badge-tech badge">Geo APIs</span>
                     </div>
 
                     <div class="row g-4">
@@ -337,11 +329,11 @@
     </section>
 
     <!-- Process -->
-    <section class="py-5 bg-light">
-        <div class="container py-5">
-            <div class="text-center mb-5">
-                <h2 class="display-4 fw-bold mb-3">Our Process</h2>
-                <p class="fs-5 text-muted mx-auto" style="max-width: 700px;">
+    <section class="bg-light section-padding-80px">
+        <div class="container">
+            <div class="text-center mb-md-5 mb-3">
+                <h2 class="display-4 fw-bold mb-3 hero-header-text">Our Process</h2>
+                <p class="fs-5 text-muted mx-auto hero-para-text">
                     We follow a proven process to ensure your project is delivered on time and exceeds expectations.
                 </p>
             </div>
@@ -352,24 +344,24 @@
                         class="accent-gradient rounded-circle process-step d-flex align-items-center justify-content-center mx-auto mb-3">
                         1
                     </div>
-                    <h3 class="h5 fw-semibold mb-2">Discovery</h3>
-                    <p class="text-muted small">We analyze your business needs and target audience</p>
+                    <h3 class="h5 fw-semibold mb-2">Planning</h3>
+                    <p class="text-muted small">Define target markets and languages</p>
                 </div>
                 <div class="col-md-2 col-6 text-center">
                     <div
                         class="accent-gradient rounded-circle process-step d-flex align-items-center justify-content-center mx-auto mb-3">
                         2
                     </div>
-                    <h3 class="h5 fw-semibold mb-2">Design</h3>
-                    <p class="text-muted small">Create wireframes and visual designs</p>
+                    <h3 class="h5 fw-semibold mb-2">Structure</h3>
+                    <p class="text-muted small">Set up multi-language architecture</p>
                 </div>
                 <div class="col-md-2 col-6 text-center">
                     <div
                         class="accent-gradient rounded-circle process-step d-flex align-items-center justify-content-center mx-auto mb-3">
                         3
                     </div>
-                    <h3 class="h5 fw-semibold mb-2">Development</h3>
-                    <p class="text-muted small">Build your website with modern technologies</p>
+                    <h3 class="h5 fw-semibold mb-2">Translation</h3>
+                    <p class="text-muted small">Translate content and localize features</p>
                 </div>
                 <div class="col-md-2 col-6 text-center">
                     <div
@@ -377,7 +369,7 @@
                         4
                     </div>
                     <h3 class="h5 fw-semibold mb-2">Testing</h3>
-                    <p class="text-muted small">Comprehensive testing across devices and browsers</p>
+                    <p class="text-muted small">Test across different languages and regions</p>
                 </div>
                 <div class="col-md-2 col-6 text-center">
                     <div
@@ -385,17 +377,17 @@
                         5
                     </div>
                     <h3 class="h5 fw-semibold mb-2">Launch</h3>
-                    <p class="text-muted small">Deploy and provide ongoing support</p>
+                    <p class="text-muted small">Deploy with global CDN and monitoring</p>
                 </div>
             </div>
         </div>
     </section>
 
     <!-- FAQs -->
-    <section class="py-5 bg-light-blue">
-        <div class="container py-5">
+    <section class="bg-light-blue section-padding-80px">
+        <div class="container">
             <div class="text-center mb-5">
-                <h2 class="display-4 fw-bold mb-3">Frequently Asked Questions</h2>
+                <h2 class="display-4 fw-bold mb-3 hero-header-text">Frequently Asked Questions</h2>
             </div>
 
             <div class="row justify-content-center">
@@ -409,9 +401,9 @@
                                     <i class="bi-check-lg text-white"></i>
                                 </div>
                                 <div>
-                                    <h3 class="h5 fw-semibold mb-3">Do you offer domain registration and web hosting services?</h3>
+                                    <h3 class="h5 fw-semibold mb-3">How many languages can you support?</h3>
                                     <p class="text-muted">
-                                        Yes, we provide complete website solutions, including domain registration, secure and fast web hosting, SSL certification, and email setup.
+                                        We can support unlimited languages, including complex scripts and right-to-left languages like Arabic and Hebrew.
                                     </p>
                                 </div>
                             </div>
@@ -427,10 +419,10 @@
                                     <i class="bi-check-lg text-white"></i>
                                 </div>
                                 <div>
-                                    <h3 class="h5 fw-semibold mb-3">How long will it take to design my website?
+                                    <h3 class="h5 fw-semibold mb-3">Do you provide translation services?
                                     </h3>
                                     <p class="text-muted">
-                                        The turnaround time depends on the scope of the project. A simple website can be delivered in 1-2 weeks, while complex or feature-rich websites may take 3-6 weeks.
+                                       We can integrate with professional translation services or work with your existing translation team.
                                     </p>
                                 </div>
                             </div>
@@ -446,55 +438,18 @@
                                     <i class="bi-check-lg text-white"></i>
                                 </div>
                                 <div>
-                                    <h3 class="h5 fw-semibold mb-3">Will my website be mobile-friendly and SEO-optimized?</h3>
+                                    <h3 class="h5 fw-semibold mb-3">How does SEO work for multiple languages?</h3>
                                     <p class="text-muted">
-                                        Absolutely. All websites we design are fully responsive and optimized for SEO to ensure maximum visibility on Google and a great experience on all devices.
+                                        We implement proper hreflang tags, localized URLs, and optimize content for search engines in each target language.
                                     </p>
                                 </div>
                             </div>
                         </div>
                     </div>
 
-                    <!-- FAQ 4 -->
-                    <div class="card faq-card mb-4 border-0">
-                        <div class="card-body p-4">
-                            <div class="d-flex gap-4">
-                                <div class="accent-gradient rounded-circle d-flex align-items-center justify-content-center flex-shrink-0"
-                                    style="width: 40px; height: 40px;">
-                                    <i class="bi-check-lg text-white"></i>
-                                </div>
-                                <div>
-                                    <h3 class="h5 fw-semibold mb-3">Can you redesign my existing website?
-                                    </h3>
-                                    <p class="text-muted">
-                                         Yes, we specialize in website redesign services. We will retain what works and revamp what doesn’t, giving your brand a fresh, modern look while improving performance and functionality.
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- FAQ 5 -->
-                    <div class="card faq-card border-0">
-                        <div class="card-body p-4">
-                            <div class="d-flex gap-4">
-                                <div class="accent-gradient rounded-circle d-flex align-items-center justify-content-center flex-shrink-0"
-                                    style="width: 40px; height: 40px;">
-                                    <i class="bi-check-lg text-white"></i>
-                                </div>
-                                <div>
-                                    <h3 class="h5 fw-semibold mb-3">Do you provide website maintenance and support?</h3>
-                                    <p class="text-muted">
-                                        Yes. We offer ongoing website maintenance and support packages to keep your site updated, secure, and running smoothly.
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
                 </div>
             </div>
         </div>
     </section>
-    <!-- pricing section -->
 
     <?php include 'footer.php';?>

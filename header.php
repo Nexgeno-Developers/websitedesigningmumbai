@@ -35,6 +35,8 @@ $seo = get_seo_data($page);
   <meta name="twitter:description" content="<?php echo htmlspecialchars($seo['description']); ?>" />
   <meta name="twitter:image" content="https://websitedesigningmumbai.in/images/og-image.jpg" /> 
 
+
+   <link rel="shortcut icon" href="img/faviconn.png">
   <!-- Bootstrap 5 CSS -->
   <link href="css/bootstrap.min.css" rel="stylesheet" />
   <!-- Bootstrap Icons -->
@@ -62,6 +64,18 @@ $seo = get_seo_data($page);
     color: #000 !important;
     
 }
+/* Hide the scrolled logo by default */
+.scrolled-logo {
+    display: none;
+}
+
+/* When the parent has .scrolled, hide default and show scrolled logo */
+.scrolled .default-logo {
+    display: none;
+}
+.scrolled .scrolled-logo {
+    display: inline-block;
+}
 </style>
 <body>
 
@@ -74,7 +88,7 @@ $seo = get_seo_data($page);
                     <div class="d-flex align-items-center gap-4 text-muted small">
                         <div class="d-flex align-items-center gap-2 text-white">
                             <i class="bi bi-telephone"></i>
-                            <span>+91 98765 43210</span>
+                            <span>+91 98195 55545</span>
                         </div>
                         <div class="d-flex align-items-center gap-2 text-white">
                             <i class="bi bi-envelope"></i>
@@ -94,8 +108,15 @@ $seo = get_seo_data($page);
                 <!-- Logo -->
                 <div class="d-flex align-items-center">
                     <div class="me-2 rounded d-flex align-items-center justify-content-center">
+<<<<<<< HEAD
                        <a href="/"> <img src="img/websie_designing_logo.webp" alt="Logo"
                             class="me-2 rounded object-fit-cover header_logo" /></a>
+=======
+                       <a href="/">
+                            <img src="img/websie_designing_logo_white.png" alt="Logo" class="me-2 rounded object-fit-cover header_logo default-logo" />
+                            <img src="img/websie_designing_logo.png" alt="Logo" class="me-2 rounded object-fit-cover header_logo scrolled-logo" />
+                        </a>
+>>>>>>> main
                     </div>
                     <!-- <div>
                         <div class="fw-bold fs-5 text-white">WebDesign</div>
@@ -124,6 +145,9 @@ $seo = get_seo_data($page);
                         <li class="nav-item mx-2">
                             <a class="nav-link position-relative px-2 text-white" href="about.htm">About</a>
                         </li>
+                         <li class="nav-item mx-2">
+                            <a class="nav-link position-relative px-2 text-white" href="clients.htm">Clients</a>
+                        </li>
                         <li class="nav-item mx-2">
                             <a class="nav-link position-relative px-2 text-white" href="contact.htm">Contact</a>
                         </li>
@@ -143,22 +167,25 @@ $seo = get_seo_data($page);
             <div class="container py-3">
                 <ul class="navbar-nav">
                     <li class="nav-item">
-                        <a class="nav-link py-2" href="#home">Home</a>
+                        <a class="nav-link py-2" href="/">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link py-2" href="#services">Services</a>
+                        <a class="nav-link py-2" href="services.htm">Services</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link py-2" href="#portfolio">Portfolio</a>
+                        <a class="nav-link py-2" href="portfolio.htm">Portfolio</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link py-2" href="#about">About</a>
+                        <a class="nav-link py-2" href="about.htm">About</a>
+                    </li>
+                     <li class="nav-item">
+                        <a class="nav-link py-2" href="clients.htm">Clients</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link py-2" href="#contact">Contact</a>
+                        <a class="nav-link py-2" href="contact.htm">Contact</a>
                     </li>
                 </ul>
-                <button class="btn btn-warning w-100 mt-2 fw-medium">
+                <button class="btn btn-warning w-100 mt-2 fw-medium" onclick="window.location.href='get-quote.htm'">
                     Get Quote
                 </button>
             </div>

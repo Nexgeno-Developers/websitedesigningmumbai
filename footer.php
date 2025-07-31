@@ -1,12 +1,16 @@
  <!-- footer -->
-    <footer class="footer">
+    <footer class="footer section-padding-top-80px">
         <!-- Main Footer Content -->
-        <div class="container px-4 pt-md-5 pt-3">
-            <div class="row g-4 mb-5">
+        <div class="container">
+            <div class="row g-4">
                 <!-- Company Info -->
                 <div class="col-md-6 col-lg-3">
                     <div class="d-flex align-items-center mb-4">
+<<<<<<< HEAD
                         <img src="img/websie_designing_logo.webp" alt="Logo" style=" height: 30px;"
+=======
+                        <img src="img/websie_designing_logo_white.png" alt="Logo" style=" height: 30px;"
+>>>>>>> main
                             class="me-2 rounded object-fit-cover" />
                     </div>
                     <p class="text-white-80 mb-4">
@@ -34,38 +38,38 @@
                     <h3 class="h5 fw-semibold mb-4 text-warning">Our Services</h3>
                     <ul class="list-unstyled">
                         <li class="mb-2">
-                            <a href="#" class="footer-link">
-                                <i class="bi bi-arrow-right arrow-icon"></i>
+                            <a href="/static-dynamic-websites.htm" class="footer-link">
+                                <!-- <i class="bi bi-arrow-right arrow-icon"></i> -->
                                 Static & Dynamic Websites
                             </a>
                         </li>
                         <li class="mb-2">
-                            <a href="#" class="footer-link">
-                                <i class="bi bi-arrow-right arrow-icon"></i>
+                            <a href="/wordpress-cms-website-development.htm" class="footer-link">
+                                <!-- <i class="bi bi-arrow-right arrow-icon"></i> -->
                                 WordPress & CMS
                             </a>
                         </li>
                         <li class="mb-2">
-                            <a href="#" class="footer-link">
-                                <i class="bi bi-arrow-right arrow-icon"></i>
+                            <a href="/e-commerce-website-solutions.htm" class="footer-link">
+                                <!-- <i class="bi bi-arrow-right arrow-icon"></i> -->
                                 E-commerce Solutions
                             </a>
                         </li>
                         <li class="mb-2">
-                            <a href="#" class="footer-link">
-                                <i class="bi bi-arrow-right arrow-icon"></i>
+                            <a href="/custom-web-applications.htm" class="footer-link">
+                                <!-- <i class="bi bi-arrow-right arrow-icon"></i> -->
                                 Custom Web Apps
                             </a>
                         </li>
                         <li class="mb-2">
-                            <a href="#" class="footer-link">
-                                <i class="bi bi-arrow-right arrow-icon"></i>
+                            <a href="/multi-language-websites.htm" class="footer-link">
+                                <!-- <i class="bi bi-arrow-right arrow-icon"></i> -->
                                 Multi-language Support
                             </a>
                         </li>
                         <li class="mb-2">
-                            <a href="#" class="footer-link">
-                                <i class="bi bi-arrow-right arrow-icon"></i>
+                            <a href="/landing-page-website-designing.htm" class="footer-link">
+                                <!-- <i class="bi bi-arrow-right arrow-icon"></i> -->
                                 Landing Pages
                             </a>
                         </li>
@@ -77,38 +81,33 @@
                     <h3 class="h5 fw-semibold mb-4 text-warning">Quick Links</h3>
                     <ul class="list-unstyled">
                         <li class="mb-2">
-                            <a href="#" class="footer-link">
-                                <i class="bi bi-arrow-right arrow-icon"></i>
+                            <a href="about.htm" class="footer-link">
+                                <!-- <i class="bi bi-arrow-right arrow-icon"></i> -->
                                 About Us
                             </a>
                         </li>
                         <li class="mb-2">
-                            <a href="#" class="footer-link">
-                                <i class="bi bi-arrow-right arrow-icon"></i>
+                            <a href="portfolio.htm" class="footer-link">
+                                <!-- <i class="bi bi-arrow-right arrow-icon"></i> -->
                                 Portfolio
                             </a>
                         </li>
                         <li class="mb-2">
-                            <a href="#" class="footer-link">
-                                <i class="bi bi-arrow-right arrow-icon"></i>
-                                Client Success Stories
+                            <a href="clients.htm" class="footer-link">
+                                <!-- <i class="bi bi-arrow-right arrow-icon"></i> -->
+                                Clients
                             </a>
                         </li>
                         <li class="mb-2">
-                            <a href="#" class="footer-link">
-                                <i class="bi bi-arrow-right arrow-icon"></i>
+                            <a href="get-quote.htm" class="footer-link">
+                                <!-- <i class="bi bi-arrow-right arrow-icon"></i> -->
                                 Free Quote
                             </a>
                         </li>
+                       
                         <li class="mb-2">
-                            <a href="#" class="footer-link">
-                                <i class="bi bi-arrow-right arrow-icon"></i>
-                                Blog & Resources
-                            </a>
-                        </li>
-                        <li class="mb-2">
-                            <a href="#" class="footer-link">
-                                <i class="bi bi-arrow-right arrow-icon"></i>
+                            <a href="contact.htm" class="footer-link">
+                                <!-- <i class="bi bi-arrow-right arrow-icon"></i> -->
                                 Contact
                             </a>
                         </li>
@@ -120,29 +119,29 @@
                     <h3 class="h5 fw-semibold mb-4 text-warning">Get In Touch</h3>
                     <div class="mb-4 d-flex align-items-center">
                         <i class="bi bi-telephone text-warning me-3"></i>
-                        <a href="tel:+15551234567" class="footer-link">+1 (555) 123-4567</a>
+                        <a href="tel:+919819555545" class="footer-link">+91 98195 55545</a>
                     </div>
                     <div class="mb-4 d-flex align-items-center">
                         <i class="bi bi-envelope text-warning me-3"></i>
-                        <a href="mailto:hello@aiwebdev.com" class="footer-link">hello@aiwebdev.com</a>
+                        <a href="mailto:hello@websitedesignmumbai.com" class="footer-link">hello@websitedesignmumbai.com</a>
                     </div>
                     <div class="d-flex align-items-center">
                         <i class="bi bi-whatsapp text-warning me-3"></i>
-                        <a href="https://wa.me/15559876543" class="footer-link">WhatsApp: +1 (555) 987-6543</a>
+                        <a href="https://wa.me/+919819555545" class="footer-link">WhatsApp: +91 98195 55545</a>
                     </div>
                 </div>
             </div>
 
             <!-- Newsletter Signup -->
-            <div class="newsletter-card p-4 p-md-5 mb-5 stay-tuned-footer-card">
+            <div class="newsletter-card mx-auto pb-md-4 mb-4 pt-4 pt-md-4 mb-5 mt-3 mt-md-4 stay-tuned-footer-card mt-5">
                 <div class="text-center mb-4">
-                    <h3 class="h2 fw-bold mb-2">Stay Updated</h3>
-                    <p class="text-white-80">Get web development insights, AI trends, and exclusive offers delivered to
+                    <h3 class="h5 fw-bold mb-2">Stay Updated</h3>
+                    <p class="text-white-80 mb-1">Get web development insights, AI trends, and exclusive offers delivered to
                         your inbox</p>
                 </div>
-                <div class="d-flex flex-column flex-sm-row gap-3 max-w-md mx-auto px-md-5 px-auto">
+                <div class="d-flex flex-column flex-sm-row gap-3 max-w-md mx-auto px-md-5 px-3 pb-3">
                     <input type="email" class="form-control newsletter-input" placeholder="Enter your email">
-                    <button class="btn accent-btn">
+                    <button class="btn accent-btn btn-subscribe">
                         <i class="bi bi-send me-2"></i>
                         Subscribe
                     </button>
@@ -155,15 +154,17 @@
             <div class="container px-4">
                 <div class="d-flex flex-column flex-md-row justify-content-between align-items-center">
                     <div class="text-white-60 small text-center text-md-start mb-3 mb-md-0">
-                        <div>© 2024 AI WebDev Agency. All rights reserved.</div>
-                        <div class="mt-1">Built with AI on Lovable.dev</div>
+                        <div>© 2025 Nexgeno. All rights reserved. <span>Managed by </span><a href="https://nexgeno.in/" target="_blank" class="text-white text-decoration-none">
+  <span>Nexgeno</span>
+</a>
+   </div>
                     </div>
                     <div class="d-flex gap-3 gap-md-4">
-                        <a href="#" class="text-white-60 small text-decoration-none hover:text-warning">Privacy
+                        <a href="#" class="text-white small text-decoration-none hover:text-warning">Privacy
                             Policy</a>
-                        <a href="#" class="text-white-60 small text-decoration-none hover:text-warning">Terms of
+                        <a href="#" class="text-white small text-decoration-none hover:text-warning">Terms of
                             Service</a>
-                        <a href="#" class="text-white-60 small text-decoration-none hover:text-warning">Cookie
+                        <a href="#" class="text-white small text-decoration-none hover:text-warning">Cookie
                             Policy</a>
                     </div>
                 </div>
@@ -181,6 +182,6 @@
 
 </body>
 
-<script src="js/script.js"></script>
+<script src="js/script.js?v=1.0.1"></script>
 
 </html>

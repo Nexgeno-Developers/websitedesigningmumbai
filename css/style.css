@@ -33,6 +33,20 @@
       padding: 80px 0 !important;
     }
 
+
+    .hero-icon-all-web{
+      width: 6rem;
+      height: 6rem;
+    }
+
+    .choose-package-section-padding-80px{
+      padding-bottom: 80px !important;
+    }
+
+    .section-padding-top-80px{
+      padding-top: 80px !important;
+    }
+
     #mainHeader {
       z-index: 9999;
     }
@@ -189,7 +203,6 @@
       position: relative;
       z-index: 1;
       text-align: center;
-      max-width: 1200px;
       margin: 0 auto;
       padding: 0 1.5rem;
       animation: fadeIn 1s ease-out;
@@ -287,10 +300,10 @@
       z-index: 10;
     }
 
-    .btn-hero:hover,
-.btn-hero:focus,
-.btn-hero:active {
+    .btn-hero:hover, .btn-hero:focus, .btn-hero:active,
+    .btn-subscribe:hover, .btn-subscribe:focus, .btn-subscribe:active {
     color: var(--text-dark) !important;
+    
 }
 
     .btn-glass {
@@ -325,7 +338,7 @@
       display: grid;
       grid-template-columns: repeat(4, 1fr);
       gap: 2rem;
-      max-width: 36rem;
+      max-width: 45rem;
       margin: 4rem auto 0;
     }
 
@@ -722,7 +735,7 @@
     .glass-btn {
       background: rgba(255, 255, 255, 0.1);
       backdrop-filter: blur(10px);
-      border: 1px solid rgba(255, 255, 255, 0.2);
+      border: 1px solid rgb(255 255 255);
       width: 36px;
       height: 36px;
       border-radius: 50%;
@@ -730,6 +743,7 @@
       align-items: center;
       justify-content: center;
       transition: all 0.3s ease;
+      color: white;
     }
 
     .glass-btn:hover {
@@ -758,10 +772,11 @@
     }
 
     .newsletter-card {
-      background: linear-gradient(135deg, hsla(220, 20%, 100%, .8) 0%, hsla(220, 20%, 100%, .4) 100%);
-      backdrop-filter: blur(10px);
-      border-radius: 0.5rem;
-      border: 1px solid rgba(255, 255, 255, 0.1);
+        background: linear-gradient(135deg, hsl(0deg 0% 100% / 14%) 0%, hsl(0deg 0% 100% / 18%) 100%);
+        backdrop-filter: blur(10px);
+        border-radius: 0.5rem;
+        border: 1px solid rgba(255, 255, 255, 0.1);
+        max-width: 650px;
     }
 
     .newsletter-input {
@@ -810,6 +825,21 @@
       font-weight: 700;
       margin-bottom: 1.5rem;
     }
+.logo-section {
+  background-color: #ffffff; /* Section full white background */
+}
+
+.logo-wrapper {
+  background-color: rgba(243, 244, 246, 1) !important; /* Greyish card background */
+  transition: background-color 0.3s ease;
+}
+
+.logo-wrapper img.custom-logo {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
 
     @media (min-width: 768px) {
       .section-heading {
@@ -1197,6 +1227,11 @@
       color: var(--text-dark);
     }
 
+    .contact-form-scroll{
+     position: sticky;
+     top: 105px; 
+    }
+
     /* Animations */
     @keyframes fadeIn {
       from {
@@ -1371,7 +1406,7 @@
 
     .popular-badge {
       position: absolute;
-      top: 10px;
+      top: -15px;
       left: 50%;
       transform: translateX(-50%);
       background: var(--accent);
@@ -1558,20 +1593,20 @@
       overflow: hidden;
     }
 
-    .project-overlay {
-      position: absolute;
-      inset: 0;
-      background: linear-gradient(135deg, #19274e 0%, #450c8f 100%);
-      opacity: 0.8;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      flex-direction: column;
-      color: white;
-      text-align: center;
-      padding: 1rem;
-      box-shadow: 1000px 1000px 1000px 1000px #00000085 inset;
-    }
+.project-overlay {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(135deg, #19274e 0%, #450c8f 100%);
+    opacity: 0.8;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    color: white;
+    text-align: center;
+    box-shadow: 1000px 1000px 1000px 1000px #000000bf inset;
+    padding: 1rem;
+}
 
     .project-link {
       position: absolute;
@@ -1589,8 +1624,8 @@
       background-color: #f8f9fa;
       color: var(--text-dark);
       font-weight: 500;
-      font-size: 0.75rem;
-      padding: 0.25rem 0.75rem;
+      font-size: 14px;
+      padding: 8px 8px;
       border-radius: 50rem;
     }
 
@@ -1659,6 +1694,26 @@
     .view-more-btn-portfolio {
       padding: 5px 10px !important;
       border-radius: .45rem !important;
+      max-width: 133px;
+      max-height: 36px;
+      font-size: 13px;
+  
+    }
+
+    .text-portfolio-stat-1{
+      color: #82cf65;
+    }
+
+    .text-portfolio-stat-2{
+      color: #28aba6;
+    }
+   
+    .text-portfolio-stat-3{
+      color: #2293f4;
+    }
+  
+    .text-portfolio-stat-4{
+      color: #a271ce;
     }
 
     /* Portfolio section==================================================== */
@@ -1676,6 +1731,7 @@
     .web-design-page-mumbai-heading{
       font-size: 28px !important;
     }
+
     /* website design mumbai company page==================================================== */
 
 
@@ -1683,21 +1739,117 @@
     /* responsive================== */
 
     @media (max-width: 768px) {
+      .section-padding-80px,
+      .choose-package-section-padding-80px{
+        padding: 40px 0 !important;
+      }
+
+      /* .package-section-padding-bottom-80px{
+        padding-bottom: 40px !important;
+      } */
+
+
+      .section-padding-bottom-80px{
+        padding-bottom: 40px;
+      }
+
+      .section-padding-top-80px{
+        padding-top: 40px !important;
+      }
+
       .industry-icon-container{
         width: 3rem;
         height: 3rem;
       }
+      
       .industry-icon{
         font-size: 1rem;
       }
+      
       .we-serve-industry-badge{
         font-size: 11px;
         padding: 2px 7px;
       }
+      
       .industry-item{
         margin-bottom: 10px;
         gap: 10px;
       }
-    }
 
-    /* responsive================== */
+      .hero-icon-all-web{
+        width: 4rem;
+        height: 4rem;
+      }
+
+      .hero-header-text{
+        font-size: 24px;
+      }
+
+      .hero-para-text{
+        font-size: 16px !important;
+      }
+
+      .what-include span{
+        font-size: 16px !important;
+      }
+
+      .hero-header-pricing{
+        padding: 8px 15px !important;
+        gap: 0px !important;
+      }
+
+      .hero-header-pricing-text{
+        font-size: 14px !important;
+      }
+
+      .web-design-page-mumbai-heading{
+        font-size: 24px !important;
+      }
+
+      .web-design-page-mumbai{
+        font-size: 16px;
+        line-height: 1.7;
+      }
+
+      .pricing-heading-design-company{
+        font-size: 20px;
+      }
+
+      .web-design-page-mumbai-li-hight{
+        line-height: 1.7 !important;
+      }
+
+      .faq-col-column{
+        display: flex;
+        flex-direction: column;
+      }
+
+      .ai-powerd-badge{
+        font-size: 12px !important;
+      }
+
+      .stat-number{
+        font: 20px !important;
+      }
+
+      .stat-label{
+        font-size: 12px !important;
+      }
+
+      .hero-stats{
+        gap: 1rem !important;
+      }
+
+      .filter-btn{
+        font-size: 14px;
+        padding: 3px 10px;
+      }
+
+      .popular-card-card{
+        margin-top: 3rem;
+      }
+
+}
+
+
+    /* responsive botto================== */

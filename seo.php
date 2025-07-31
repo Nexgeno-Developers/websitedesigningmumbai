@@ -7,7 +7,7 @@ function get_seo_data($page) {
     $data = json_decode($json, true);
 
     return $data[$page] ?? [
-        'title' => 'Default Title - Website Design Mumbai',
+        'title' => ' Website Design Mumbai',
         'description' => 'Default description for our web design services in Mumbai.'
     ];
 }

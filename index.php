@@ -15,34 +15,34 @@
         </div>
 
         <div class="hero-content">
-            <div class="pt-md-5">
+            <div class="pt-5 mt-3 ">
                 <!-- Badge -->
-                <div class="hero-badge">
+                <div class="hero-badge ai-powerd-badge">
                     <span class="badge-dot"></span>
                     AI-Powered Web Development Agency
                 </div>
 
                 <!-- Main Heading -->
-                <h1 class="hero-heading">
+                <h1 class="hero-heading hero-header-text">
                     Get a Stunning Website
                     <span class="hero-heading-accent">Fast, Scalable</span>
                     & Within Your Budget
                 </h1>
 
                 <!-- Subheading -->
-                <p class="hero-subheading">
+                <p class="hero-subheading hero-para-text">
                     From one-page websites to full-scale platforms, we build it all — in any language or tech stack.
                     Fast delivery via AI + Expert Review.
                 </p>
 
                 <!-- CTA Buttons -->
                 <div class="d-flex flex-column flex-sm-row align-items-center justify-content-center gap-4 pt-4">
-                    <button class="btn btn-hero" onclick="window.location.href='get-quote.htm'">
+                    <button class="btn btn-hero hero-header-pricing hero-header-pricing-text" onclick="window.location.href='get-quote.htm'">
                         Get a Free Quote
                         <i class="bi bi-arrow-right btn-icon ms-2"></i>
                     </button>
 
-                    <button class="btn btn-glass" onclick="window.location.href='portfolio.htm'">
+                    <button class="btn btn-glass hero-header-pricing hero-header-pricing-text" onclick="window.location.href='portfolio.htm'">
                         <i class="bi bi-play-fill btn-icon me-2"></i>
                         View Our Work
                     </button>
@@ -117,10 +117,13 @@
                                 API Integration
                             </li>
                         </ul>
-                        <button class="learn-more-btn">
-                            Learn More
-                            <i class="bi bi-arrow-right arrow-icon ms-2"></i>
-                        </button>
+                        <button
+  class="learn-more-btn"
+  onclick="location.href='static-dynamic-websites.htm';"
+>
+  Learn More
+  <i class="bi bi-arrow-right arrow-icon ms-2"></i>
+</button>
                     </div>
                 </div>
 
@@ -153,10 +156,14 @@
                                 Plugin Development
                             </li>
                         </ul>
-                        <button class="learn-more-btn">
-                            Learn More
-                            <i class="bi bi-arrow-right arrow-icon ms-2"></i>
-                        </button>
+                        <button
+  class="learn-more-btn"
+  onclick="location.href='wordpress-cms-website-development';"
+>
+  Learn More
+  <i class="bi bi-arrow-right arrow-icon ms-2"></i>
+</button>
+
                     </div>
                 </div>
 
@@ -189,10 +196,13 @@
                                 Mobile Commerce
                             </li>
                         </ul>
-                        <button class="learn-more-btn">
-                            Learn More
-                            <i class="bi bi-arrow-right arrow-icon ms-2"></i>
-                        </button>
+                        <button
+  class="learn-more-btn"
+  onclick="location.href='e-commerce-website-solutions.htm';"
+>
+  Learn More
+  <i class="bi bi-arrow-right arrow-icon ms-2"></i>
+</button>
                     </div>
                 </div>
 
@@ -225,10 +235,14 @@
                                 Cloud Deployment
                             </li>
                         </ul>
-                        <button class="learn-more-btn">
-                            Learn More
-                            <i class="bi bi-arrow-right arrow-icon ms-2"></i>
-                        </button>
+                       
+                        <button
+  class="learn-more-btn"
+  onclick="location.href='custom-web-applications';"
+>
+  Learn More
+  <i class="bi bi-arrow-right arrow-icon ms-2"></i>
+</button>
                     </div>
                 </div>
 
@@ -257,10 +271,14 @@
                                 Cultural Adaptation
                             </li>
                         </ul>
-                        <button class="learn-more-btn">
-                            Learn More
-                            <i class="bi bi-arrow-right arrow-icon ms-2"></i>
-                        </button>
+                        <button
+  class="learn-more-btn"
+  onclick="location.href='multi-language-websites.htm';"
+>
+  Learn More
+  <i class="bi bi-arrow-right arrow-icon ms-2"></i>
+</button>
+
                     </div>
                 </div>
 
@@ -293,16 +311,20 @@
                                 Mobile-First Design
                             </li>
                         </ul>
-                        <button class="learn-more-btn">
-                            Learn More
-                            <i class="bi bi-arrow-right arrow-icon ms-2"></i>
-                        </button>
+                        <button
+  class="learn-more-btn"
+  onclick="location.href='landing-page-website-designing.htm';"
+>
+  Learn More
+  <i class="bi bi-arrow-right arrow-icon ms-2"></i>
+</button>
+
                     </div>
                 </div>
             </div>
 
             <div class="text-center animate-scale-in">
-                <button class="btn cta-btn">
+                <button class="btn cta-btn hero-header-pricing hero-header-pricing-text" onclick="window.location.href='get-quote.htm'">
                     Get Custom Quote
                     <i class="bi bi-arrow-right ms-2"></i>
                 </button>
@@ -315,10 +337,10 @@
     <section class="why-choose-us section-padding-80px">
         <div class="container">
             <div class="text-center mb-5">
-                <h2 class="section-heading">
+                <h2 class="section-heading hero-header-text">
                     Why <span class="gradient-text">Choose Us?</span>
                 </h2>
-                <p class="section-subheading">
+                <p class="section-subheading hero-para-text">
                     We combine cutting-edge technology with proven expertise to deliver
                     exceptional results for businesses of all sizes.
                 </p>
@@ -332,8 +354,8 @@
                             <i class="bi bi-lightning-charge feature-icon"></i>
                         </div>
                         <div>
-                            <h3 class="feature-title">Fast Delivery via AI + Expert Review</h3>
-                            <p class="feature-description">
+                            <h3 class="feature-title hero-header-text">Fast Delivery via AI + Expert Review</h3>
+                            <p class="feature-description hero-para-text">
                                 Accelerated development process with AI assistance and human expertise for quality assurance.
                             </p>
                         </div>
@@ -347,8 +369,8 @@
                             <i class="bi bi-currency-dollar feature-icon"></i>
                         </div>
                         <div>
-                            <h3 class="feature-title">Budget-Flexible: Startups to Enterprise</h3>
-                            <p class="feature-description">
+                            <h3 class="feature-title hero-header-text">Budget-Flexible: Startups to Enterprise</h3>
+                            <p class="feature-description hero-para-text">
                                 Scalable solutions that grow with your business, from MVP to enterprise-grade applications.
                             </p>
                         </div>
@@ -362,8 +384,8 @@
                             <i class="bi bi-shield-check feature-icon"></i>
                         </div>
                         <div>
-                            <h3 class="feature-title">SEO-Friendly & Mobile Responsive</h3>
-                            <p class="feature-description">
+                            <h3 class="feature-title hero-header-text">SEO-Friendly & Mobile Responsive</h3>
+                            <p class="feature-description hero-para-text">
                                 Built-in SEO optimization and responsive design for maximum reach and performance.
                             </p>
                         </div>
@@ -377,8 +399,8 @@
                             <i class="bi bi-graph-up feature-icon"></i>
                         </div>
                         <div>
-                            <h3 class="feature-title">Technology-Agnostic Development</h3>
-                            <p class="feature-description">
+                            <h3 class="feature-title hero-header-text">Technology-Agnostic Development</h3>
+                            <p class="feature-description hero-para-text">
                                 Any platform, any stack - we adapt to your preferred technologies and requirements.
                             </p>
                         </div>
@@ -394,10 +416,10 @@
     <section class="testimonials-section section-padding-80px">
         <div class="container">
             <div class="text-center mb-5">
-                <h2 class="section-heading">
+                <h2 class="section-heading hero-header-text">
                     What Our <span class="gradient-text">Clients Say</span>
                 </h2>
-                <p class="section-subheading">
+                <p class="section-subheading hero-para-text">
                     Real results from real businesses who trusted us with their digital presence
                 </p>
             </div>
@@ -415,13 +437,11 @@
                                 <i class="bi bi-star-fill star-icon"></i>
                             </div>
                             <blockquote class="testimonial-text">
-                                "The team delivered our e-commerce platform in record time. The AI-assisted development
-                                process was impressive, and the final product exceeded our expectations. Sales increased
-                                by 300% within the first month!"
+                               “Best for App development company, we have something different type of requirements but they where able to understand and it was great to communicate from there team as per our time zone, we are located at South Africa Durban but pleasure working with them.”
                             </blockquote>
                             <div class="space-y-2">
-                                <div class="client-name">Sarah Johnson</div>
-                                <div class="client-position">CEO at TechStart Inc.</div>
+                                <div class="client-name">Omar S</div>
+                                <!-- <div class="client-position">CEO at TechStart Inc.</div> -->
                                 <div class="industry-badge">E-commerce</div>
                             </div>
                         </div>
@@ -436,18 +456,15 @@
                                 <i class="bi bi-star-fill star-icon"></i>
                             </div>
                             <blockquote class="testimonial-text">
-                                "We needed a multi-language medical platform that could scale globally. They delivered a
-                                robust solution with seamless internationalization. The technical expertise and
-                                attention to detail were outstanding."
+                               “Very pleased with support from Nexgeno Technology and the tool during initial kicking of the tires. The knowledge base gets points for simplicity however needs better context and examples provided to help users such as myself. Looking forward to growing with this CRM!”
                             </blockquote>
                             <div class="space-y-2">
-                                <div class="client-name">Michael Chen</div>
-                                <div class="client-position">CTO at Global Healthcare Solutions</div>
-                                <div class="industry-badge">Healthcare</div>
+                                <div class="client-name">Prime Enterprises</div>
+                                <!-- <div class="client-position">CTO at Global Healthcare Solutions</div> -->
+                                <div class="industry-badge">Enterprise</div>
                             </div>
                         </div>
-
-                        <!-- Testimonial 3 -->
+  <!-- Testimonial 3 -->
                         <div class="testimonial-item">
                             <div class="rating-stars">
                                 <i class="bi bi-star-fill star-icon"></i>
@@ -457,13 +474,29 @@
                                 <i class="bi bi-star-fill star-icon"></i>
                             </div>
                             <blockquote class="testimonial-text">
-                                "From concept to launch in just 2 weeks! The landing page they created has a 45%
-                                conversion rate. The combination of AI speed and human creativity is truly game-changing
-                                for our business."
+                                “Working with Website Designing Mumbai on my site was such a pleasure. Arif and his team always so friendly, professional, and happy to help me with any questions and concerns about my site. I would definitely recommend her to anyone looking for a professional web designer for their project."
                             </blockquote>
                             <div class="space-y-2">
-                                <div class="client-name">Emily Rodriguez</div>
-                                <div class="client-position">Founder at Creative Studio</div>
+                                <div class="client-name">Rajesh Oberoi</div>
+                                <!-- <div class="client-position">CTO at Global Healthcare Solutions</div> -->
+                                <div class="industry-badge">Healthcare</div>
+                            </div>
+                        </div>
+                        <!-- Testimonial 4 -->
+                        <div class="testimonial-item">
+                            <div class="rating-stars">
+                                <i class="bi bi-star-fill star-icon"></i>
+                                <i class="bi bi-star-fill star-icon"></i>
+                                <i class="bi bi-star-fill star-icon"></i>
+                                <i class="bi bi-star-fill star-icon"></i>
+                                <i class="bi bi-star-fill star-icon"></i>
+                            </div>
+                            <blockquote class="testimonial-text">
+                                “Great experience using The Nexgeno technology pvt ltd. They have helped build a professional website and they are always happy to help should I need any alterations. Even assisted me with SEO related bits to help get my business up and running. Cannot fault the web surgery and would high recommend them. 10/10”
+                            </blockquote>
+                            <div class="space-y-2">
+                                <div class="client-name">Rahul Garg</div>
+                                <!-- <div class="client-position">Founder at Creative Studio</div> -->
                                 <div class="industry-badge">Creative Agency</div>
                             </div>
                         </div>
@@ -485,11 +518,11 @@
     <!-- Industries we serve -->
     <section class="industries-section section-padding-80px">
         <div class="container">
-            <div class="text-center mb-5 animate-fade-in">
-                <h2 class="section-heading">
+            <div class="text-center mb-md-5 mb-3 animate-fade-in">
+                <h2 class="section-heading hero-header-text">
                     Industries <span class="gradient-text">We Serve</span>
                 </h2>
-                <p class="section-subheading">
+                <p class="section-subheading hero-para-text">
                     Tailored solutions for every industry, with deep understanding of sector-specific needs and
                     requirements
                 </p>
@@ -593,11 +626,11 @@
     <section class="contact-section section-padding-80px">
         <div class="container position-relative">
             <div class="text-center mb-5 animate-fade-in">
-                <h2 class="section-heading">
+                <h2 class="section-heading hero-header-text">
                     Ready to Start Your
                     <span class="gradient-text">Website Today?</span>
                 </h2>
-                <p class="section-subheading">
+                <p class="section-subheading hero-para-text">
                     Get a free quote and discover how we can transform your online presence with AI-powered development
                 </p>
             </div>
@@ -607,39 +640,31 @@
                 <div class="col-lg-6">
                     <div class="contact-card p-4 p-md-5 contact-home-form">
                         <h3 class="card-title">Get Your Free Quote</h3>
-                        <form id="contactForm" class="needs-validation" novalidate>
-                            <div class="mb-4">
-                                <label for="name" class="form-label">Name</label>
-                                <input type="text" class="form-control" id="name" placeholder="Your full name" required>
-                                <div class="invalid-feedback">
-                                    Please provide your name.
-                                </div>
+                        
+
+                        <form action="https://usebasin.com/f/caa482885b4c" method="POST" enctype="multipart/form-data" id="form">
+                        <div class="row g-4">
+                            <div class="col-md-12">
+                                <label for="name" class="form-label">Full Name *</label>
+                                <input type="text" class="form-control" name="name" required placeholder="Your full name" />
+                            </div>
+                            <div class="col-md-12">
+                                <label for="email" class="form-label">Email Address *</label>
+                                <input type="email" class="form-control" name="email" required placeholder="your@email.com" />
+                            </div>
+                          
+
+                            <div class="col-md-12">
+                                <label for="message" class="form-label">Project Requirements</label>
+                                <textarea rows="6" class="form-control" name="message" placeholder="Tell us about your project requirements, goals, and any specific features you need..."></textarea>
                             </div>
 
-                            <div class="mb-4">
-                                <label for="email" class="form-label">Email</label>
-                                <input type="email" class="form-control" id="email" placeholder="your@email.com"
-                                    required>
-                                <div class="invalid-feedback">
-                                    Please provide a valid email.
-                                </div>
+                            <div class="col-12">
+                                <button type="submit" class="btn btn-accent w-100 py-3 fw-semibold"> <i class="bi bi-send arrow-icon ms-2"></i> Start Your Website Today
+                                </button>
                             </div>
-
-                            <div class="mb-4">
-                                <label for="requirements" class="form-label">Project Requirements</label>
-                                <textarea class="form-control" id="requirements" rows="4"
-                                    placeholder="Tell us about your website needs, budget, timeline, and any specific requirements..."
-                                    required></textarea>
-                                <div class="invalid-feedback">
-                                    Please describe your project requirements.
-                                </div>
-                            </div>
-
-                            <button type="submit" class="btn submit-btn">
-                                Start Your Website Today
-                                <i class="bi bi-send arrow-icon ms-2"></i>
-                            </button>
-                        </form>
+                        </div>
+                    </form>
                     </div>
                 </div>
 
@@ -696,3 +721,4 @@
    
 
     <?php include 'footer.php';?>
+    

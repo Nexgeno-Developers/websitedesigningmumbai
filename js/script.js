@@ -103,37 +103,33 @@ document.addEventListener('DOMContentLoaded', function () {
 
 // State counter==========================================
 var a = 0;
-$(window).scroll(function () {
-
+    $(window).scroll(function () {
     var oTop = $('#counter').offset().top - window.innerHeight;
     if (a == 0 && $(window).scrollTop() > oTop) {
         $('.counter-value').each(function () {
-            var $this = $(this),
-                countTo = $this.attr('data-count');
-            $({
-                countNum: $this.text()
-            }).animate({
-                countNum: countTo
+        var $this = $(this),
+            countTo = $this.attr('data-count');
+        $({
+            countNum: $this.text()
+        }).animate(
+            {
+            countNum: countTo
             },
-
-                {
-
-                    duration: 2000,
-                    easing: 'swing',
-                    step: function () {
-                        $this.text(Math.floor(this.countNum));
-                    },
-                    complete: function () {
-                        $this.text(this.countNum);
-                        //alert('finished');
-                    }
-
-                });
+            {
+            duration: 2000,
+            easing: 'swing',
+            step: function () {
+                $this.text(Math.floor(this.countNum) + '+'); // Add the + during the count
+            },
+            complete: function () {
+                $this.text(this.countNum + '+'); // Ensure the + is added at the end
+            }
+            }
+        );
         });
         a = 1;
     }
-
-});
+    });
 // State counter==========================================
 
 
@@ -197,6 +193,33 @@ document.addEventListener('DOMContentLoaded', function() {
                     card.style.display = 'none';
                 }
             });
+        });
+    });
+});
+
+
+$(document).ready(function(){
+    $('#form').on('submit', function(e){
+        e.preventDefault();
+
+        var formData = $(this).serialize();
+
+        $.ajax({
+            url: $(this).attr('action'),
+            method: 'POST',
+            data: formData,
+            dataType: 'json',
+            success: function(){
+                $('#formAlert').html(
+                    '<div class="alert alert-success">✅ Thank you! Your project details have been submitted successfully.</div>'
+                );
+                $('#form')[0].reset();
+            },
+            error: function(){
+                $('#formAlert').html(
+                    '<div class="alert alert-danger">⚠️ Oops! Something went wrong. Please try again later.</div>'
+                );
+            }
         });
     });
 });

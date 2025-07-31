@@ -2,18 +2,18 @@
 
     <!-- contact us  -->
     <!-- Hero Section -->
-    <section class="service-ready-start py-5">
-        <div class="container py-5 text-center">
-            <h1 class="display-4 fw-bold mb-4">Get In Touch</h1>
-            <p class="fs-3 text-white text-opacity-80 mx-auto" style="max-width: 700px;">
+    <section class="service-ready-start section-padding-80px">
+        <div class="container text-center">
+            <h1 class="display-4 fw-bold mb-4 pt-md-5">Get In Touch</h1>
+            <p class="fs-3 text-white text-opacity-80 mx-auto mb-0">
                 Ready to start your project? Let's discuss how we can help bring your vision to life.
             </p>
         </div>
     </section>
 
     <!-- Contact Form & Info -->
-    <section class="py-5 services-section">
-        <div class="container py-5">
+    <section class="services-section section-padding-80px">
+        <div class="container">
             <div class="row g-4">
                 <!-- Contact Form -->
                 <div class="col-lg-8 ">
@@ -25,73 +25,76 @@
                                 proposal.
                             </p>
 
-                            <form class="row g-4">
-                                <div class="col-md-6">
-                                    <label class="form-label">Full Name *</label>
-                                    <input type="text" class="form-control" placeholder="Your full name" required>
+
+                            <form action="https://usebasin.com/f/5a33516b4f98" method="POST" enctype="multipart/form-data" id="form">
+                        <div class="row g-4">
+                            <div class="col-md-6">
+                                <label for="name" class="form-label">Full Name *</label>
+                                <input type="text" class="form-control" name="name" required placeholder="Your full name" />
+                            </div>
+                            <div class="col-md-6">
+                                <label for="email" class="form-label">Email Address *</label>
+                                <input type="email" class="form-control" name="email" required placeholder="your@email.com" />
+                            </div>
+                            <div class="col-md-6">
+                                <label for="phone" class="form-label">Phone Number *</label>
+                                <input type="tel" class="form-control" name="phone" required placeholder="+91 98765 43210" />
+                            </div>
+                            <div class="col-md-6">
+                                <label for="companyname" class="form-label">Company Name *</label>
+                                <input type="text" class="form-control" name="companyname" placeholder="Your company name" />
+                            </div>
+
+                             <div class="col-12">
+                                    <label for="project" class="form-label">Project Type *</label>
+                                    <select class="form-select" name="project" required>
+                                        <option value="Select project type">Select project type</option>
+                                        <option value="Static Website">Static Website</option>
+                                        <option vlaue="E-commerce Store">E-commerce Store</option>
+                                        <option value="Web Application">Web Application</option>
+                                        <option value="WordPress Site">WordPress Site</option>
+                                        <option value="Landing Page">Landing Page</option>
+                                        <option value="Mobile App">Mobile App</option>
+                                        <option value="ustom Soluti">Custom Solution</option>
+                                    </select>
                                 </div>
+
                                 <div class="col-md-6">
-                                    <label class="form-label">Email Address *</label>
-                                    <input type="email" class="form-control" placeholder="your@email.com" required>
-                                </div>
-                                <div class="col-md-6">
-                                    <label class="form-label">Phone Number</label>
-                                    <input type="tel" class="form-control" placeholder="+91 98765 43210">
-                                </div>
-                                <div class="col-md-6">
-                                    <label class="form-label">Company Name</label>
-                                    <input type="text" class="form-control" placeholder="Your company name">
-                                </div>
-                                <div class="col-12">
-                                    <label class="form-label">Project Type *</label>
-                                    <select class="form-select" required>
-                                        <option value="">Select project type</option>
-                                        <option>Static Website</option>
-                                        <option>E-commerce Store</option>
-                                        <option>Web Application</option>
-                                        <option>WordPress Site</option>
-                                        <option>Landing Page</option>
-                                        <option>Mobile App</option>
-                                        <option>Custom Solution</option>
+                                    <label for="budgetrange" class="form-label">Budget Range</label>
+                                    <select class="form-select" name="budgetrange" required>
+                                        <option value="Select budget range">Select budget range</option>
+                                        <option value="Under ₹25,000">Under ₹25,000</option>
+                                        <option value="₹25,000 - ₹50,000">₹25,000 - ₹50,000</option>
+                                        <option value="₹50,000 - ₹1,00,000">₹50,000 - ₹1,00,000</option>
+                                        <option value="₹1,00,000 - ₹2,50,000">₹1,00,000 - ₹2,50,000</option>
+                                        <option value="₹2,50,000+">₹2,50,000+</option>
+                                        <option value="Let's Discuss">Let's Discuss</option>
                                     </select>
                                 </div>
                                 <div class="col-md-6">
-                                    <label class="form-label">Budget Range</label>
-                                    <select class="form-select">
-                                        <option value="">Select budget range</option>
-                                        <option>Under ₹25,000</option>
-                                        <option>₹25,000 - ₹50,000</option>
-                                        <option>₹50,000 - ₹1,00,000</option>
-                                        <option>₹1,00,000 - ₹2,50,000</option>
-                                        <option>₹2,50,000+</option>
-                                        <option>Let's Discuss</option>
+                                    <label for="selecttimeline" class="form-label">Timeline</label>
+                                    <select class="form-select" name="selecttimeline" required>
+                                        <option value="Select timeline">Select timeline</option>
+                                        <option value="ASAP (Rush)">ASAP (Rush)</option>
+                                        <option value="1-2 weeks">1-2 weeks</option>
+                                        <option value="2-4 weeks">2-4 weeks</option>
+                                        <option value="1-2 months">1-2 months</option>
+                                        <option value="2-3 months">2-3 months</option>
+                                        <option value="Flexible">Flexible</option>
                                     </select>
                                 </div>
-                                <div class="col-md-6">
-                                    <label class="form-label">Timeline</label>
-                                    <select class="form-select">
-                                        <option value="">Select timeline</option>
-                                        <option>ASAP (Rush)</option>
-                                        <option>1-2 weeks</option>
-                                        <option>2-4 weeks</option>
-                                        <option>1-2 months</option>
-                                        <option>2-3 months</option>
-                                        <option>Flexible</option>
-                                    </select>
-                                </div>
-                                <div class="col-12">
-                                    <label class="form-label">Project Details *</label>
-                                    <textarea class="form-control" rows="6"
-                                        placeholder="Tell us about your project requirements, goals, and any specific features you need..."
-                                        required></textarea>
-                                </div>
-                                <div class="col-12">
-                                    <button type="submit" class="btn btn-accent w-100 py-3 fw-semibold">
-                                        <i class="bi-send-fill me-2"></i>
-                                        Send Project Details
-                                    </button>
-                                </div>
-                            </form>
+
+                            <div class="col-md-12">
+                                <label for="message" class="form-label">Project Details *</label>
+                                <textarea rows="6" class="form-control" name="message" placeholder="Tell us about your project requirements, goals, and any specific features you need..."></textarea>
+                            </div>
+
+                            <div class="col-12">
+                                <button type="submit" id="submitBtn" class="btn btn-accent w-100 py-3 fw-semibold"><i class="bi-send-fill me-2"></i> Send Project Details</button>
+                            </div>
+                        </div>
+                    </form>
+<div id="formAlert" class="mt-3"></div>
                         </div>
                     </div>
                 </div>
@@ -116,8 +119,7 @@
                                 <div>
                                     <h3 class="h5 fw-semibold mb-1 contact-title">Phone</h3>
                                     <p class="small text-muted mb-2">Call us anytime</p>
-                                    <p class="fw-medium mb-1">+91 98765 43210</p>
-                                    <p class="fw-medium">+91 98765 43211</p>
+                                    <p class="fw-medium mb-1 contact-field-number-email"><a class="contact-field-number-email" href="tel:+919819555545"> +91 9819555545</a></p>
                                 </div>
                             </div>
                         </div>
@@ -134,8 +136,8 @@
                                 <div>
                                     <h3 class="h5 fw-semibold mb-1 contact-title">Email</h3>
                                     <p class="small text-muted mb-2">Drop us a line</p>
-                                    <p class="fw-medium mb-1">hello@websitedesignmumbai.com</p>
-                                    <p class="fw-medium">projects@websitedesignmumbai.com</p>
+                                    <p class="fw-medium mb-1"><a class="contact-field-number-email" href="mailto:hello@websitedesignmumbai.com">hello@websitedesignmumbai.com</a></p>
+                                    <p class="fw-medium"><a class="contact-field-number-email" href="mailto:shahrukh@nexgeno.in">shahrukh@nexgeno.in</a></p>
                                 </div>
                             </div>
                         </div>
@@ -152,8 +154,11 @@
                                 <div>
                                     <h3 class="h5 fw-semibold mb-1 contact-title">Address</h3>
                                     <p class="small text-muted mb-2">Visit our office</p>
-                                    <p class="fw-medium mb-1">Andheri East, Mumbai</p>
-                                    <p class="fw-medium">Maharashtra 400069, India</p>
+                                    <p class="fw-medium mb-1">Unit No. F-50, First Floor,</p>
+                                    <p class="fw-medium mb-1">Kohinoor City Mall,</p>
+                                    <p class="fw-medium mb-1">Opp Holly Cross School,</p>
+                                    <p class="fw-medium mb-1">Kurla (West) Mumbai,</p>
+                                    <p class="fw-medium">Maharashtra - 400070, India</p>
                                 </div>
                             </div>
                         </div>
@@ -170,8 +175,7 @@
                                 <div>
                                     <h3 class="h5 fw-semibold mb-1 contact-title">Business Hours</h3>
                                     <p class="small text-muted mb-2">We're available</p>
-                                    <p class="fw-medium mb-1">Mon - Fri: 9:00 AM - 7:00 PM</p>
-                                    <p class="fw-medium">Sat: 10:00 AM - 4:00 PM</p>
+                                    <p class="fw-medium mb-1">Mon - Fri: 9:00 AM - 6:00 PM</p>
                                 </div>
                             </div>
                         </div>
@@ -179,11 +183,11 @@
 
                     <!-- Quick Actions -->
                     <div class="d-grid gap-3">
-                        <button class="btn btn-offer-service d-flex align-items-center justify-content-center py-3">
+                        <button onclick="window.open('https://wa.me/919819555545', '_blank')" class="btn btn-offer-service d-flex align-items-center justify-content-center py-3">
                             <i class="bi-whatsapp me-2"></i>
                             WhatsApp Chat
                         </button>
-                        <button class="btn btn-offer-service d-flex align-items-center justify-content-center py-3">
+                        <button class="btn btn-offer-service d-flex align-items-center justify-content-center py-3" onclick="window.open('https://calendly.com/shahrukh-nexgeno', '_blank')">
                             <i class="bi-calendar-check me-2"></i>
                             Schedule Video Call
                         </button>
@@ -194,8 +198,8 @@
     </section>
 
     <!-- FAQ Section -->
-    <section class="py-5 bg-light-blue">
-        <div class="container py-5">
+    <section class="bg-light-blue section-padding-80px">
+        <div class="container">
             <div class="text-center mb-5">
                 <h2 class="display-4 fw-bold mb-3">Frequently Asked Questions</h2>
             </div>
@@ -306,3 +310,34 @@
     <!-- contact us  -->
 
 <?php include 'footer.php';?>
+
+
+<script>
+    $(document).ready(function(){
+    $('#form').on('submit', function(e){
+        e.preventDefault();
+
+        var formData = $(this).serialize();
+
+        $.ajax({
+            url: $(this).attr('action'),
+            method: 'POST',
+            data: formData,
+            headers: { 
+                'Accept': 'application/json'   // Prevent Basin redirect
+            },
+            success: function(){
+                $('#formAlert').html(
+                    '<div class="alert alert-success">✅ Thank you! Your project details have been submitted successfully.</div>'
+                );
+                $('#form')[0].reset();
+            },
+            error: function(){
+                $('#formAlert').html(
+                    '<div class="alert alert-danger">⚠️ Oops! Something went wrong. Please try again later.</div>'
+                );
+            }
+        });
+    });
+});
+</script>
