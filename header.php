@@ -108,15 +108,14 @@ $seo = get_seo_data($page);
                 <!-- Logo -->
                 <div class="d-flex align-items-center">
                     <div class="me-2 rounded d-flex align-items-center justify-content-center">
-<<<<<<< HEAD
-                       <a href="/"> <img src="img/websie_designing_logo.webp" alt="Logo"
-                            class="me-2 rounded object-fit-cover header_logo" /></a>
-=======
+
+                      
+
                        <a href="/">
-                            <img src="img/websie_designing_logo_white.png" alt="Logo" class="me-2 rounded object-fit-cover header_logo default-logo" />
-                            <img src="img/websie_designing_logo.png" alt="Logo" class="me-2 rounded object-fit-cover header_logo scrolled-logo" />
+                            <img src="img/websie_designing_logo_white.webp" alt="Logo" class="me-2 rounded object-fit-cover header_logo default-logo" />
+                            <img src="img/websie_designing_logo.webp" alt="Logo" class="me-2 rounded object-fit-cover header_logo scrolled-logo" />
                         </a>
->>>>>>> main
+
                     </div>
                     <!-- <div>
                         <div class="fw-bold fs-5 text-white">WebDesign</div>
