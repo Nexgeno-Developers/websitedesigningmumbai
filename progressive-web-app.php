@@ -12,7 +12,7 @@
                     <div class="hero-icon-all-web d-inline-flex align-items-center justify-content-center bg-glass rounded-3 border border-white border-opacity-10 mb-4">
                         <i class="bi bi-phone text-white fs-1"></i>
                     </div>
-                    <h1 class="display-4 fw-bold mb--md-4 mb-3 text-gradient hero-header-text">Progressive Web Apps (PWAs)</h1>
+                    <div class="display-4 fw-bold mb--md-4 mb-3 text-gradient hero-header-text">Progressive Web Apps (PWAs)</div>
                     <p class="fs-4 text-white text-opacity-70 mb-md-5 mb-3 hero-para-text">App-like experiences that work across all platforms</p>
 
                     <div class="d-flex flex-column flex-md-row gap-3 justify-content-center mb-md-5 mb-4">
@@ -97,7 +97,7 @@
                     <i class="bi-graph-up"></i>
                     Pricing Plans
                 </div>
-                <h2 class="display-4 fw-bold mb-3 hero-header-text">Choose Your Package</h2>
+                <div class="display-4 fw-bold mb-3 hero-header-text">Choose Your Package</div>
                 <p class="fs-5 text-muted mx-auto hero-para-text">
                     Select the perfect package for your needs. All packages include our standard features plus
                     package-specific benefits.
@@ -335,7 +335,7 @@
     <section class="bg-light section-padding-80px">
         <div class="container">
             <div class="text-center mb-md-5 mb-3">
-                <h2 class="display-4 fw-bold mb-3 hero-header-text">Our Process</h2>
+                <div class="display-4 fw-bold mb-3 hero-header-text">Our Process</div>
                 <p class="fs-5 text-muted mx-auto hero-para-text">
                     We follow a proven process to ensure your project is delivered on time and exceeds expectations.
                 </p>
@@ -390,7 +390,7 @@
     <section class="bg-light-blue section-padding-80px">
         <div class="container">
             <div class="text-center mb-5">
-                <h2 class="display-4 fw-bold mb-3 hero-header-text">Frequently Asked Questions</h2>
+                <div class="display-4 fw-bold mb-3 hero-header-text">Frequently Asked Questions</div>
             </div>
 
             <div class="row justify-content-center">

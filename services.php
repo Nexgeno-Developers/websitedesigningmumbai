@@ -28,7 +28,7 @@
                                     <i class="bi-globe fs-4 text-white"></i>
                                 </div>
                                 <div class="flex-grow-1">
-                                    <h3 class="h4 service-title mb-2">Static & Dynamic Websites</h3>
+                                    <p class="h4 service-title mb-2">Static & Dynamic Websites</p>
                                     <p class="text-muted mb-3">High-performance websites built with modern technologies
                                     </p>
                                     <div class="d-flex flex-wrap gap-3 small">
@@ -129,7 +129,7 @@
                                     <i class="bi-cart fs-4 text-white"></i>
                                 </div>
                                 <div class="flex-grow-1">
-                                    <h3 class="h4 service-title mb-2">E-commerce Website Solutions</h3>
+                                    <p class="h4 service-title mb-2">E-commerce Website Solutions</p>
                                     <p class="text-muted mb-3">Complete online stores with payment and inventory
                                         management</p>
                                     <div class="d-flex flex-wrap gap-3 small">
@@ -231,7 +231,7 @@
                                     <i class="bi-palette fs-4 text-white"></i>
                                 </div>
                                 <div class="flex-grow-1">
-                                    <h3 class="h4 service-title mb-2">WordPress & CMS Website Development</h3>
+                                    <p class="h4 service-title mb-2">WordPress & CMS Website Development</p>
                                     <p class="text-muted mb-3">Custom WordPress themes and plugins for easy content
                                         management</p>
                                     <div class="d-flex flex-wrap gap-3 small">
@@ -332,7 +332,7 @@
                                     <i class="bi-code fs-4 text-white"></i>
                                 </div>
                                 <div class="flex-grow-1">
-                                    <h3 class="h4 service-title mb-2">Custom Web Applications</h3>
+                                    <p class="h4 service-title mb-2">Custom Web Applications</p>
                                     <p class="text-muted mb-3">Scalable web applications built with cutting-edge
                                         frameworks</p>
                                     <div class="d-flex flex-wrap gap-3 small">
@@ -434,7 +434,7 @@
                                     <i class="bi-translate fs-4 text-white"></i>
                                 </div>
                                 <div class="flex-grow-1">
-                                    <h3 class="h4 service-title mb-2">Multi-language Websites</h3>
+                                    <p class="h4 service-title mb-2">Multi-language Websites</p>
                                     <p class="text-muted mb-3">International websites with multi-language and currency
                                         support</p>
                                     <div class="d-flex flex-wrap gap-3 small">
@@ -533,7 +533,7 @@
                                     <i class="bi-lightning fs-4 text-white"></i>
                                 </div>
                                 <div class="flex-grow-1">
-                                    <h3 class="h4 service-title mb-2">Landing Pages</h3>
+                                    <p class="h4 service-title mb-2">Landing Pages</p>
                                     <p class="text-muted mb-3">High-converting landing pages optimized for lead
                                         generation</p>
                                     <div class="d-flex flex-wrap gap-3 small">
@@ -633,7 +633,7 @@
                                     <i class="bi-phone fs-4 text-white"></i>
                                 </div>
                                 <div class="flex-grow-1">
-                                    <h3 class="h4 service-title mb-2">Progressive Web Apps (PWAs)</h3>
+                                    <p class="h4 service-title mb-2">Progressive Web Apps (PWAs)</p>
                                     <p class="text-muted mb-3">App-like experiences that work across all platforms</p>
                                     <div class="d-flex flex-wrap gap-3 small">
                                         <div class="d-flex align-items-center gap-2">
@@ -732,7 +732,7 @@
                                     <i class="bi-search fs-4 text-white"></i>
                                 </div>
                                 <div class="flex-grow-1">
-                                    <h3 class="h4 service-title mb-2">SEO & Performance Optimization</h3>
+                                    <p class="h4 service-title mb-2">SEO & Performance Optimization</p>
                                     <p class="text-muted mb-3">Complete SEO audit and performance enhancement
                                     </p>
                                     <div class="d-flex flex-wrap gap-3 small">
@@ -832,7 +832,7 @@
                                   <i class="bi bi-wrench-adjustable-circle  fs-4 text-white"></i> 
                                 </div>
                                 <div class="flex-grow-1">
-                                    <h3 class="h4 service-title mb-2">UI/UX Design & Prototyping</h3>
+                                    <p class="h4 service-title mb-2">UI/UX Design & Prototyping</p>
                                     <p class="text-muted mb-3">Design-first approach for modern and intuitive interfaces
                                     </p>
                                     <div class="d-flex flex-wrap gap-3 small">
@@ -913,7 +913,7 @@
                                   <i class="bi bi-wrench-adjustable-circle  fs-4 text-white"></i> 
                                 </div>
                                 <div class="flex-grow-1">
-                                    <h3 class="h4 service-title mb-2">Website Maintenance & Support</h3>
+                                    <p class="h4 service-title mb-2">Website Maintenance & Support</p>
                                     <p class="text-muted mb-3">Ongoing updates, security & performance care
                                     </p>
                                     <div class="d-flex flex-wrap gap-3 small">

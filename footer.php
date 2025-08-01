@@ -31,7 +31,7 @@
 
                 <!-- Services -->
                 <div class="col-md-6 col-lg-4 footer-col-lg-3-desc1">
-                    <h3 class="h5 fw-semibold mb-md-4 mb-3 text-warning">Our Services</h3>
+                    <p class="h5 fw-semibold mb-md-4 mb-3 text-warning">Our Services</p>
                     <div class="row">  <!-- Bootstrap row -->
                         <div class="col-lg-6 col-md-12 col-12">  <!-- First column -->
                             <ul class="list-unstyled d-flex flex-column gap-2">  <!-- Flex column for vertical stacking -->
@@ -117,7 +117,7 @@
 
                 <!-- Quick Links -->
                 <div class="col-md-6 col-lg-2 footer-col-lg-3-desc2">
-                    <h3 class="h5 fw-semibold mb-md-4 mb-3 text-warning">Quick Links</h3>
+                    <p class="h5 fw-semibold mb-md-4 mb-3 text-warning">Quick Links</p>
                     <ul class="list-unstyled">
                         <li class="mb-2">
                             <a href="about.htm" class="footer-link small">
@@ -155,7 +155,7 @@
 
                 <!-- Contact Info -->
                 <div class="col-md-6 col-lg-3 footer-col-lg-3-desc3">
-                    <h3 class="h5 fw-semibold mb-md-4 mb-3 text-warning">Get In Touch</h3>
+                    <p class="h5 fw-semibold mb-md-4 mb-3 text-warning">Get In Touch</p>
                     <div class="mb-md-4 mb-3 d-flex align-items-center">
                         <i class="bi bi-telephone text-warning me-2 small"></i>
                         <a href="tel:+919819555545" class="footer-link small">+91 98195 55545</a>
@@ -174,7 +174,7 @@
             <!-- Newsletter Signup -->
             <div class="newsletter-card mx-auto pb-md-4 mb-4 pt-4 pt-md-4 mb-5 mt-3 mt-md-4 stay-tuned-footer-card mt-5">
                 <div class="text-center mb-4">
-                    <h3 class="h5 fw-bold mb-2">Stay Updated</h3>
+                    <p class="h5 fw-bold mb-2">Stay Updated</p>
                     <p class="text-white-80 mb-1">Get web development insights, AI trends, and exclusive offers delivered to
                         your inbox</p>
                 </div>

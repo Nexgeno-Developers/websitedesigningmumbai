@@ -23,11 +23,11 @@
                 </div>
 
                 <!-- Main Heading -->
-                <h1 class="hero-heading hero-header-text">
+                <div class="hero-heading hero-header-text">
                     Get a Stunning Website
                     <span class="hero-heading-accent">Fast, Scalable</span>
                     & Within Your Budget
-                </h1>
+                </div>
 
                 <!-- Subheading -->
                 <p class="hero-subheading hero-para-text">
@@ -81,9 +81,9 @@
     <section class="services-section section-padding-80px">
         <div class="container">
             <div class="text-center mb-5 animate-fade-in">
-                <h2 class="section-heading">
+                <div class="section-heading">
                     Our <span class="gradient-text">Services</span>
-                </h2>
+</div>
                 <p class="section-subheading">
                     Comprehensive digital solutions to transform your business and accelerate growth
                 </p>
@@ -96,7 +96,7 @@
                         <div class="service-icon-container">
                             <i class="bi bi-globe service-icon"></i>
                         </div>
-                        <h3 class="service-title">Static & Dynamic Websites</h3>
+                        <p class="service-title">Static & Dynamic Websites</p>
                         <p class="service-description">
                             Lightning-fast static sites and powerful dynamic websites built with modern frameworks and
                             AI assistance.
@@ -135,7 +135,7 @@
                         <div class="service-icon-container">
                             <i class="bi bi-cart service-icon"></i>
                         </div>
-                        <h3 class="service-title">WordPress & CMS</h3>
+                        <p class="service-title">WordPress & CMS</p>
                         <p class="service-description">
                             Custom WordPress themes, headless CMS solutions, and content management systems for easy
                             updates.
@@ -175,7 +175,7 @@
                         <div class="service-icon-container">
                             <i class="bi bi-graph-up service-icon"></i>
                         </div>
-                        <h3 class="service-title">E-commerce Websites</h3>
+                        <p class="service-title">E-commerce Websites</p>
                         <p class="service-description">
                             Complete online stores with secure payments, inventory management, and conversion
                             optimization.
@@ -214,7 +214,7 @@
                         <div class="service-icon-container">
                             <i class="bi bi-palette service-icon"></i>
                         </div>
-                        <h3 class="service-title">Custom Web Apps</h3>
+                        <p class="service-title">Custom Web Apps</p>
                         <p class="service-description">
                             Scalable web applications built with cutting-edge technologies and tailored to your business
                             needs.
@@ -254,7 +254,7 @@
                         <div class="service-icon-container">
                             <i class="bi bi-palette service-icon"></i>
                         </div>
-                        <h3 class="service-title">UI/UX Design & Prototyping</h3>
+                        <p class="service-title">UI/UX Design & Prototyping</p>
                         <p class="service-description">
                             Design-first approach for modern and intuitive interfaces
                         </p>
@@ -293,7 +293,7 @@
                         <div class="service-icon-container">
                             <i class="bi bi-phone service-icon"></i>
                         </div>
-                        <h3 class="service-title">Landing Pages</h3>
+                        <p class="service-title">Landing Pages</p>
                         <p class="service-description">
                             High-converting landing pages optimized for conversions, lead generation, and campaign
                             success.
@@ -342,9 +342,9 @@
     <section class="why-choose-us section-padding-80px">
         <div class="container">
             <div class="text-center mb-5">
-                <h2 class="section-heading hero-header-text">
+                <div class="section-heading hero-header-text">
                     Why <span class="gradient-text">Choose Us?</span>
-                </h2>
+</div>
                 <p class="section-subheading hero-para-text">
                     We combine cutting-edge technology with proven expertise to deliver
                     exceptional results for businesses of all sizes.
@@ -359,7 +359,7 @@
                             <i class="bi bi-lightning-charge feature-icon"></i>
                         </div>
                         <div>
-                            <h3 class="feature-title hero-header-text">Fast Delivery via AI + Expert Review</h3>
+                            <p class="feature-title hero-header-text">Fast Delivery via AI + Expert Review</p>
                             <p class="feature-description hero-para-text">
                                 Accelerated development process with AI assistance and human expertise for quality assurance.
                             </p>
@@ -374,7 +374,7 @@
                             <i class="bi bi-currency-dollar feature-icon"></i>
                         </div>
                         <div>
-                            <h3 class="feature-title hero-header-text">Budget-Flexible: Startups to Enterprise</h3>
+                            <p class="feature-title hero-header-text">Budget-Flexible: Startups to Enterprise</p>
                             <p class="feature-description hero-para-text">
                                 Scalable solutions that grow with your business, from MVP to enterprise-grade applications.
                             </p>
@@ -389,7 +389,7 @@
                             <i class="bi bi-shield-check feature-icon"></i>
                         </div>
                         <div>
-                            <h3 class="feature-title hero-header-text">SEO-Friendly & Mobile Responsive</h3>
+                            <p class="feature-title hero-header-text">SEO-Friendly & Mobile Responsive</p>
                             <p class="feature-description hero-para-text">
                                 Built-in SEO optimization and responsive design for maximum reach and performance.
                             </p>
@@ -404,7 +404,7 @@
                             <i class="bi bi-graph-up feature-icon"></i>
                         </div>
                         <div>
-                            <h3 class="feature-title hero-header-text">Technology-Agnostic Development</h3>
+                            <p class="feature-title hero-header-text">Technology-Agnostic Development</p>
                             <p class="feature-description hero-para-text">
                                 Any platform, any stack - we adapt to your preferred technologies and requirements.
                             </p>
@@ -421,9 +421,9 @@
     <section class="testimonials-section section-padding-80px">
         <div class="container">
             <div class="text-center mb-5">
-                <h2 class="section-heading hero-header-text">
+                <div class="section-heading hero-header-text">
                     What Our <span class="gradient-text">Clients Say</span>
-                </h2>
+</div>
                 <p class="section-subheading hero-para-text">
                     Real results from real businesses who trusted us with their digital presence
                 </p>
@@ -524,9 +524,9 @@
     <section class="industries-section section-padding-80px">
         <div class="container">
             <div class="text-center mb-md-5 mb-3 animate-fade-in">
-                <h2 class="section-heading hero-header-text">
+                <div class="section-heading hero-header-text">
                     Industries <span class="gradient-text">We Serve</span>
-                </h2>
+</div>
                 <p class="section-subheading hero-para-text">
                     Tailored solutions for every industry, with deep understanding of sector-specific needs and
                     requirements
@@ -631,10 +631,10 @@
     <section class="contact-section section-padding-80px">
         <div class="container position-relative">
             <div class="text-center mb-5 animate-fade-in">
-                <h2 class="section-heading hero-header-text">
+                <div class="section-heading hero-header-text">
                     Ready to Start Your
                     <span class="gradient-text">Website Today?</span>
-                </h2>
+</div>
                 <p class="section-subheading hero-para-text">
                     Get a free quote and discover how we can transform your online presence with AI-powered development
                 </p>
@@ -644,7 +644,7 @@
                 <!-- Contact Form -->
                 <div class="col-lg-6">
                     <div class="contact-card p-4 p-md-5 contact-home-form">
-                        <h3 class="card-title">Get Your Free Quote</h3>
+                        <p class="card-title">Get Your Free Quote</p>
                         
 
                         <form action="https://usebasin.com/f/caa482885b4c" method="POST" enctype="multipart/form-data" id="form">
@@ -680,7 +680,7 @@
                             <div class="benefit-item">
                                 <div class="benefit-number">1</div>
                                 <div>
-                                    <h3 class="benefit-title">Free Consultation</h3>
+                                    <p class="benefit-title">Free Consultation</p>
                                     <p class="benefit-description">We analyze your needs and provide a detailed project
                                         proposal at no cost.</p>
                                 </div>
@@ -689,7 +689,7 @@
                             <div class="benefit-item">
                                 <div class="benefit-number">2</div>
                                 <div>
-                                    <h3 class="benefit-title">Rapid Development</h3>
+                                    <p class="benefit-title">Rapid Development</p>
                                     <p class="benefit-description">AI-accelerated development means faster delivery
                                         without compromising quality.</p>
                                 </div>
@@ -698,7 +698,7 @@
                             <div class="benefit-item">
                                 <div class="benefit-number">3</div>
                                 <div>
-                                    <h3 class="benefit-title">Ongoing Support</h3>
+                                    <p class="benefit-title">Ongoing Support</p>
                                     <p class="benefit-description">Comprehensive support and maintenance to keep your
                                         website running perfectly.</p>
                                 </div>
@@ -706,7 +706,7 @@
                         </div>
 
                         <div class="bonus-card">
-                            <h4 class="bonus-title">Get started today and receive:</h4>
+                            <p class="bonus-title">Get started today and receive:</p>
                             <ul class="bonus-list">
                                 <li>Free initial consultation</li>
                                 <li>Detailed project roadmap</li>
