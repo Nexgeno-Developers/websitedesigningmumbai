@@ -51,24 +51,27 @@
                 <!-- Stats -->
                 <div id="counter" class="hero-stats">
                     <div class="text-center">
-                        <div class="counter-value1 stat-number" data-count="4500">0</div>
+                        <div class="stat-number" data-target="4500">0</div>
                         <div class="stat-label">Projects Done</div>
                     </div>
                     <div class="text-center">
-                        <div class="counter-value1 stat-number" data-count="3000">0</div>
+                        <div class="stat-number" data-target="3000">0</div>
                         <div class="stat-label">Happy Clients</div>
                     </div>
                     <div class="text-center">
-                        <div class="counter-value1 stat-number" data-count="17">0</div>
+                        <div class="stat-number" data-target="17">0</div>
                         <div class="stat-label">Years Experience</div>
                     </div>
                     <div class="text-center">
-                        <div class="counter-value1 stat-number" data-count="45">0</div>
+                        <div class="stat-number" data-target="45">0</div>
                         <div class="stat-label">Dedicated Employees</div>
                     </div>
                 </div>
             </div>
         </div>
+
+
+
 
         <!-- Bottom Gradient Fade -->
         <div class="bottom-gradient"></div>
@@ -717,37 +720,6 @@
         </div>
     </section>
     <!-- contact-home -->
-
-
-<script>
-$(document).ready(function() {
-    $('.counter-value1').each(function() {
-        var $this = $(this),
-            countTo = $this.attr('data-count');
-        // Add the + sign immediately
-        $this.text('0+');
-        
-        $({
-            countNum: 0 // Start from 0
-        }).animate(
-            {
-                countNum: countTo
-            },
-            {
-                duration: 2000,
-                easing: 'swing',
-                step: function() {
-                    $this.text(Math.floor(this.countNum) + '+');
-                },
-                complete: function() {
-                    $this.text(this.countNum + '+');
-                }
-            }
-        );
-    });
-});
-</script>
-   
 
     <?php include 'footer.php';?>
     

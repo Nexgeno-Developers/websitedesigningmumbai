@@ -133,7 +133,28 @@ var a = 0;
 // State counter==========================================
 
 
-
+// Counter runs immediately on page load
+$(document).ready(function () {
+    $('.stat-number').each(function () {
+        var $this = $(this),
+            countTo = $this.attr('data-target'); // updated attribute name
+        $({ countNum: $this.text() }).animate(
+            {
+                countNum: countTo
+            },
+            {
+                duration: 2000,
+                easing: 'swing',
+                step: function () {
+                    $this.text(Math.floor(this.countNum) + '+'); // Show number during animation
+                },
+                complete: function () {
+                    $this.text(this.countNum + '+'); // Final number with +
+                }
+            }
+        );
+    });
+});
 
 
 // form home validate==========================================
