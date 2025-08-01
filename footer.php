@@ -9,7 +9,7 @@
                         <img src="img/websie_designing_logo_white.png" alt="Logo" style=" height: 30px;"
                             class="me-2 rounded object-fit-cover" />
                     </div>
-                    <p class="small mb-md-4 mb-3 fottor-disc-color">
+                    <p class="small mb-md-4 mb-3 fottor-disc-color pe-md-4">
                         Fast, scalable websites built with AI-powered development and expert human review for any budget
                         and business size. 
                     </p>

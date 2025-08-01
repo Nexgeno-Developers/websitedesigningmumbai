@@ -38,7 +38,7 @@
                         <button class="btn btn-hero btn-lg px-5 py-3 fs-5 hero-header-pricing hero-header-pricing-text" onclick="window.location.href='get-quote.htm'">
                             Get Free Quote
                         </button>
-                        <button class="btn btn-hero-outline btn-lg px-5 py-3 fs-5 hero-header-pricing hero-header-pricing-text">
+                        <button class="btn btn-hero-outline btn-lg px-5 py-3 fs-5 hero-header-pricing hero-header-pricing-text"  onclick="window.open('https://calendly.com/shahrukh-nexgeno', '_blank')">
                             <i class="bi-headphones me-2"></i>
                             Schedule Call
                         </button>
