@@ -4,16 +4,16 @@
         <div class="container">
             <div class="row g-4">
                 <!-- Company Info -->
-                <div class="col-md-6 col-lg-3">
+                <div class="col-md-6 col-lg-3 footer-col-lg-3-desc">
                     <div class="d-flex align-items-center mb-4">
                         <img src="img/websie_designing_logo_white.png" alt="Logo" style=" height: 30px;"
                             class="me-2 rounded object-fit-cover" />
                     </div>
-                    <p class="text-white-80 mb-4">
+                    <p class="small mb-md-4 mb-3 fottor-disc-color">
                         Fast, scalable websites built with AI-powered development and expert human review for any budget
                         and business size. 
                     </p>
-                    <div class="d-flex gap-3">
+                    <!-- <div class="d-flex gap-3">
                         <button class="glass-btn">
                             <i class="bi bi-facebook"></i>
                         </button>
@@ -26,83 +26,126 @@
                         <button class="glass-btn">
                             <i class="bi bi-linkedin"></i>
                         </button>
-                    </div>
+                    </div> -->
                 </div>
 
                 <!-- Services -->
-                <div class="col-md-6 col-lg-3">
-                    <h3 class="h5 fw-semibold mb-4 text-warning">Our Services</h3>
-                    <ul class="list-unstyled">
-                        <li class="mb-2">
-                            <a href="/static-dynamic-websites.htm" class="footer-link">
-                                <!-- <i class="bi bi-arrow-right arrow-icon"></i> -->
-                                Static & Dynamic Websites
-                            </a>
-                        </li>
-                        <li class="mb-2">
-                            <a href="/wordpress-cms-website-development.htm" class="footer-link">
-                                <!-- <i class="bi bi-arrow-right arrow-icon"></i> -->
-                                WordPress & CMS
-                            </a>
-                        </li>
-                        <li class="mb-2">
-                            <a href="/e-commerce-website-solutions.htm" class="footer-link">
-                                <!-- <i class="bi bi-arrow-right arrow-icon"></i> -->
-                                E-commerce Solutions
-                            </a>
-                        </li>
-                        <li class="mb-2">
-                            <a href="/custom-web-applications.htm" class="footer-link">
-                                <!-- <i class="bi bi-arrow-right arrow-icon"></i> -->
-                                Custom Web Apps
-                            </a>
-                        </li>
-                        <li class="mb-2">
-                            <a href="/multi-language-websites.htm" class="footer-link">
-                                <!-- <i class="bi bi-arrow-right arrow-icon"></i> -->
-                                Multi-language Support
-                            </a>
-                        </li>
-                        <li class="mb-2">
-                            <a href="/landing-page-website-designing.htm" class="footer-link">
-                                <!-- <i class="bi bi-arrow-right arrow-icon"></i> -->
-                                Landing Pages
-                            </a>
-                        </li>
-                    </ul>
+                <div class="col-md-6 col-lg-4 footer-col-lg-3-desc1">
+                    <h3 class="h5 fw-semibold mb-md-4 mb-3 text-warning">Our Services</h3>
+                    <div class="row">  <!-- Bootstrap row -->
+                        <div class="col-lg-6 col-md-12 col-12">  <!-- First column -->
+                            <ul class="list-unstyled d-flex flex-column gap-2">  <!-- Flex column for vertical stacking -->
+                                <li>
+                                    <div class="d-flex align-items-center gap-2">
+                                        <a href="/static-dynamic-websites.htm" class="footer-link small">
+                                            Static & Dynamic Websites
+                                        </a>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="d-flex align-items-center gap-2">
+                                        <a href="/e-commerce-website-solutions.htm" class="footer-link small">
+                                            E-commerce Websites
+                                        </a>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="d-flex align-items-center gap-2">
+                                        <a href="/wordpress-cms-website-development.htm" class="footer-link small">
+                                            WordPress & CMS
+                                        </a>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="d-flex align-items-center gap-2">
+                                        <a href="/custom-web-applications.htm" class="footer-link small">
+                                            Custom Web Applications
+                                        </a>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="d-flex align-items-center gap-2">
+                                        <a href="/multi-language-websites.htm" class="footer-link small">
+                                            Multi-language Support
+                                        </a>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                        
+                        <div class="col-lg-6 col-md-12 col-12">  <!-- Second column -->
+                            <ul class="list-unstyled d-flex flex-column gap-2">
+                                <li>
+                                    <div class="d-flex align-items-center gap-2">
+                                        <a href="/landing-page-website-designing.htm" class="footer-link small">
+                                            Landing Pages
+                                        </a>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="d-flex align-items-center gap-2">
+                                        <a href="/progressive-web-app.htm" class="footer-link small">
+                                            Progressive Web Apps
+                                        </a>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="d-flex align-items-center gap-2">
+                                        <a href="/seo-performance-optimization.htm" class="footer-link small">
+                                            SEO & Performance 
+                                        </a>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="d-flex align-items-center gap-2">
+                                        <a href="/ui-ux-design-prototyping.htm" class="footer-link small">
+                                            UI/UX Design 
+                                        </a>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="d-flex align-items-center gap-2">
+                                        <a href="/website-maintenance-support.htm" class="footer-link small">
+                                            Website Maintenance
+                                        </a>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
                 </div>
 
                 <!-- Quick Links -->
-                <div class="col-md-6 col-lg-3">
-                    <h3 class="h5 fw-semibold mb-4 text-warning">Quick Links</h3>
+                <div class="col-md-6 col-lg-2 footer-col-lg-3-desc2">
+                    <h3 class="h5 fw-semibold mb-md-4 mb-3 text-warning">Quick Links</h3>
                     <ul class="list-unstyled">
                         <li class="mb-2">
-                            <a href="about.htm" class="footer-link">
+                            <a href="about.htm" class="footer-link small">
                                 <!-- <i class="bi bi-arrow-right arrow-icon"></i> -->
                                 About Us
                             </a>
                         </li>
                         <li class="mb-2">
-                            <a href="portfolio.htm" class="footer-link">
+                            <a href="portfolio.htm" class="footer-link small">
                                 <!-- <i class="bi bi-arrow-right arrow-icon"></i> -->
                                 Portfolio
                             </a>
                         </li>
                         <li class="mb-2">
-                            <a href="clients.htm" class="footer-link">
+                            <a href="clients.htm" class="footer-link small">
                                 <!-- <i class="bi bi-arrow-right arrow-icon"></i> -->
                                 Clients
                             </a>
                         </li>
                         <li class="mb-2">
-                            <a href="get-quote.htm" class="footer-link">
+                            <a href="get-quote.htm" class="footer-link small">
                                 <!-- <i class="bi bi-arrow-right arrow-icon"></i> -->
                                 Free Quote
                             </a>
                         </li>
                        
                         <li class="mb-2">
-                            <a href="contact.htm" class="footer-link">
+                            <a href="contact.htm" class="footer-link small">
                                 <!-- <i class="bi bi-arrow-right arrow-icon"></i> -->
                                 Contact
                             </a>
@@ -111,19 +154,19 @@
                 </div>
 
                 <!-- Contact Info -->
-                <div class="col-md-6 col-lg-3">
-                    <h3 class="h5 fw-semibold mb-4 text-warning">Get In Touch</h3>
-                    <div class="mb-4 d-flex align-items-center">
-                        <i class="bi bi-telephone text-warning me-3"></i>
-                        <a href="tel:+919819555545" class="footer-link">+91 98195 55545</a>
+                <div class="col-md-6 col-lg-3 footer-col-lg-3-desc3">
+                    <h3 class="h5 fw-semibold mb-md-4 mb-3 text-warning">Get In Touch</h3>
+                    <div class="mb-md-4 mb-3 d-flex align-items-center">
+                        <i class="bi bi-telephone text-warning me-2 small"></i>
+                        <a href="tel:+919819555545" class="footer-link small">+91 98195 55545</a>
                     </div>
-                    <div class="mb-4 d-flex align-items-center">
-                        <i class="bi bi-envelope text-warning me-3"></i>
-                        <a href="mailto:hello@websitedesignmumbai.com" class="footer-link">hello@websitedesignmumbai.com</a>
+                    <div class="mb-md-4 mb-3 d-flex align-items-center">
+                        <i class="bi bi-envelope text-warning me-2 small"></i>
+                        <a href="mailto:hello@websitedesignmumbai.in" class="footer-link small">hello@websitedesignmumbai.in</a>
                     </div>
                     <div class="d-flex align-items-center">
-                        <i class="bi bi-whatsapp text-warning me-3"></i>
-                        <a href="https://wa.me/+919819555545" class="footer-link">WhatsApp: +91 98195 55545</a>
+                        <i class="bi bi-whatsapp text-warning me-2 small"></i>
+                        <a href="https://wa.me/+919819555545" class="footer-link small">WhatsApp: +91 98195 55545</a>
                     </div>
                 </div>
             </div>
@@ -150,17 +193,17 @@
             <div class="container px-4">
                 <div class="d-flex flex-column flex-md-row justify-content-between align-items-center">
                     <div class="text-white-60 small text-center text-md-start mb-3 mb-md-0">
-                        <div>© 2025 Nexgeno. All rights reserved. <span>Managed by </span><a href="https://nexgeno.in/" target="_blank" class="text-white text-decoration-none">
+                        <div class="footer-term-and-condition">© 2025 Nexgeno. All rights reserved. <span>Managed by </span><a href="https://nexgeno.in/" target="_blank" class="text-white text-decoration-none">
   <span>Nexgeno</span>
 </a>
    </div>
                     </div>
                     <div class="d-flex gap-3 gap-md-4">
-                        <a href="#" class="text-white small text-decoration-none hover:text-warning">Privacy
+                        <a href="#" class="footer-term-and-condition text-white small text-decoration-none hover:text-warning">Privacy
                             Policy</a>
-                        <a href="#" class="text-white small text-decoration-none hover:text-warning">Terms of
+                        <a href="#" class="footer-term-and-condition text-white small text-decoration-none hover:text-warning">Terms of
                             Service</a>
-                        <a href="#" class="text-white small text-decoration-none hover:text-warning">Cookie
+                        <a href="#" class="footer-term-and-condition text-white small text-decoration-none hover:text-warning">Cookie
                             Policy</a>
                     </div>
                 </div>

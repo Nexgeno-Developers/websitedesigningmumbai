@@ -64,6 +64,11 @@ $seo = get_seo_data($page);
     color: #000 !important;
     
 }
+
+.scrolled .bi-list{
+    color: black;
+}
+
 /* Hide the scrolled logo by default */
 .scrolled-logo {
     display: none;
@@ -92,7 +97,7 @@ $seo = get_seo_data($page);
                         </div>
                         <div class="d-flex align-items-center gap-2 text-white">
                             <i class="bi bi-envelope"></i>
-                            <span>hello@websitedesignmumbai.com</span>
+                            <span>hello@websitedesignmumbai.in</span>
                         </div>
                     </div>
                     <div class=" small text-white">
@@ -122,7 +127,7 @@ $seo = get_seo_data($page);
                 <!-- Mobile Menu Button -->
                 <button class="navbar-toggler border-0 shadow-none" type="button" id="mobileMenuButton"
                     aria-label="Toggle navigation">
-                    <i class="bi bi-list fs-4" id="menuIcon"></i>
+                    <i class="bi bi-list fs-4 text-white" id="menuIcon"></i>
                 </button>
 
                 <!-- Desktop Navigation -->

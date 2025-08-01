@@ -12,7 +12,7 @@
                     <div class="hero-icon-all-web d-inline-flex align-items-center justify-content-center bg-glass rounded-3 border border-white border-opacity-10 mb-4">
                         <i class="bi-globe text-white fs-1"></i>
                     </div>
-                    <h1 class="display-4 fw-bold mb--md-4 mb-3 text-gradient hero-header-text">Static & Dynamic Websites</h1>
+                    <h1 class="display-4 fw-bold mb-md-4 mb-3 text-gradient hero-header-text">Static & Dynamic Websites</h1>
                     <p class="fs-4 text-white text-opacity-70 mb-md-5 mb-3 hero-para-text">High-performance websites built with modern
                         technologies</p>
 

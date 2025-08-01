@@ -49,22 +49,21 @@
                 </div>
 
                 <!-- Stats -->
-                <div class="fake-div"></div>
                 <div id="counter" class="hero-stats">
                     <div class="text-center">
-                        <div class="counter-value stat-number" data-count="4500">0</div>
+                        <div class="counter-value1 stat-number" data-count="4500">0</div>
                         <div class="stat-label">Projects Done</div>
                     </div>
                     <div class="text-center">
-                        <div class="counter-value stat-number" data-count="3000">0</div>
+                        <div class="counter-value1 stat-number" data-count="3000">0</div>
                         <div class="stat-label">Happy Clients</div>
                     </div>
                     <div class="text-center">
-                        <div class="counter-value stat-number" data-count="17">0</div>
+                        <div class="counter-value1 stat-number" data-count="17">0</div>
                         <div class="stat-label">Years Experience</div>
                     </div>
                     <div class="text-center">
-                        <div class="counter-value stat-number" data-count="45">0</div>
+                        <div class="counter-value1 stat-number" data-count="45">0</div>
                         <div class="stat-label">Dedicated Employees</div>
                     </div>
                 </div>
@@ -118,12 +117,12 @@
                             </li>
                         </ul>
                         <button
-  class="learn-more-btn"
-  onclick="location.href='static-dynamic-websites.htm';"
->
-  Learn More
-  <i class="bi bi-arrow-right arrow-icon ms-2"></i>
-</button>
+                            class="learn-more-btn hero-header-pricing hero-header-pricing-text"
+                            onclick="location.href='static-dynamic-websites.htm';"
+                            >
+                            Learn More
+                            <i class="bi bi-arrow-right arrow-icon ms-2"></i>
+                        </button>
                     </div>
                 </div>
 
@@ -157,8 +156,8 @@
                             </li>
                         </ul>
                         <button
-  class="learn-more-btn"
-  onclick="location.href='wordpress-cms-website-development';"
+  class="learn-more-btn hero-header-pricing hero-header-pricing-text"
+  onclick="location.href='wordpress-cms-website-development.htm';"
 >
   Learn More
   <i class="bi bi-arrow-right arrow-icon ms-2"></i>
@@ -197,7 +196,7 @@
                             </li>
                         </ul>
                         <button
-  class="learn-more-btn"
+  class="learn-more-btn hero-header-pricing hero-header-pricing-text"
   onclick="location.href='e-commerce-website-solutions.htm';"
 >
   Learn More
@@ -237,8 +236,8 @@
                         </ul>
                        
                         <button
-  class="learn-more-btn"
-  onclick="location.href='custom-web-applications';"
+  class="learn-more-btn hero-header-pricing hero-header-pricing-text"
+  onclick="location.href='custom-web-applications.htm';"
 >
   Learn More
   <i class="bi bi-arrow-right arrow-icon ms-2"></i>
@@ -250,34 +249,37 @@
                 <div class="col-md-6 col-lg-4">
                     <div class="service-card">
                         <div class="service-icon-container">
-                            <i class="bi bi-search service-icon"></i>
+                            <i class="bi bi-palette service-icon"></i>
                         </div>
-                        <h3 class="service-title">Multi-language Support</h3>
+                        <h3 class="service-title">UI/UX Design & Prototyping</h3>
                         <p class="service-description">
-                            Global-ready websites with internationalization, multi-language content, and regional
-                            optimization.
+                            Design-first approach for modern and intuitive interfaces
                         </p>
                         <ul class="feature-list">
                             <li class="feature-item">
                                 <span class="feature-bullet"></span>
-                                RTL Support
+                                Wireframes & Prototypes
                             </li>
                             <li class="feature-item">
                                 <span class="feature-bullet"></span>
-                                Regional SEO
+                                Figma or Adobe XD UI Design
                             </li>
                             <li class="feature-item">
                                 <span class="feature-bullet"></span>
-                                Cultural Adaptation
+                                Interaction Animations
+                            </li>
+                            <li class="feature-item">
+                                <span class="feature-bullet"></span>
+                                Color & Font Strategy
                             </li>
                         </ul>
                         <button
-  class="learn-more-btn"
-  onclick="location.href='multi-language-websites.htm';"
->
-  Learn More
-  <i class="bi bi-arrow-right arrow-icon ms-2"></i>
-</button>
+                            class="learn-more-btn hero-header-pricing hero-header-pricing-text"
+                            onclick="location.href='ui-ux-design-prototyping.htm';"
+                            >
+                            Learn More
+                            <i class="bi bi-arrow-right arrow-icon ms-2"></i>
+                        </button>
 
                     </div>
                 </div>
@@ -312,12 +314,12 @@
                             </li>
                         </ul>
                         <button
-  class="learn-more-btn"
-  onclick="location.href='landing-page-website-designing.htm';"
->
-  Learn More
-  <i class="bi bi-arrow-right arrow-icon ms-2"></i>
-</button>
+                            class="learn-more-btn hero-header-pricing hero-header-pricing-text"
+                            onclick="location.href='landing-page-website-designing.htm';"
+                            >
+                            Learn More
+                            <i class="bi bi-arrow-right arrow-icon ms-2"></i>
+                        </button>
 
                     </div>
                 </div>
@@ -660,7 +662,7 @@
                             </div>
 
                             <div class="col-12">
-                                <button type="submit" class="btn btn-accent w-100 py-3 fw-semibold"> <i class="bi bi-send arrow-icon ms-2"></i> Start Your Website Today
+                                <button type="submit" class="btn btn-accent w-100 py-3 fw-semibold hero-header-pricing hero-header-pricing-text"> <i class="bi bi-send arrow-icon ms-2"></i> Start Your Website Today
                                 </button>
                             </div>
                         </div>
@@ -717,7 +719,34 @@
     <!-- contact-home -->
 
 
-
+<script>
+$(document).ready(function() {
+    $('.counter-value1').each(function() {
+        var $this = $(this),
+            countTo = $this.attr('data-count');
+        // Add the + sign immediately
+        $this.text('0+');
+        
+        $({
+            countNum: 0 // Start from 0
+        }).animate(
+            {
+                countNum: countTo
+            },
+            {
+                duration: 2000,
+                easing: 'swing',
+                step: function() {
+                    $this.text(Math.floor(this.countNum) + '+');
+                },
+                complete: function() {
+                    $this.text(this.countNum + '+');
+                }
+            }
+        );
+    });
+});
+</script>
    
 
     <?php include 'footer.php';?>

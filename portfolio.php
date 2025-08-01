@@ -146,7 +146,7 @@
                             </div>
 
                             <div class="border-top pt-4">
-                                <div class="d-flex justify-content-between align-items-center">
+                                <div class="d-flex flex-wrap justify-content-between align-items-center">
                                     <div>
                                         <p class="small fw-semibold text-accent mb-1">Results:</p>
                                         <p class="small text-muted mb-0">300% increase in online sales</p>
@@ -205,7 +205,7 @@
                             </div>
 
                             <div class="border-top pt-4">
-                                <div class="d-flex justify-content-between align-items-center">
+                                <div class="d-flex flex-wrap justify-content-between align-items-center">
                                     <div>
                                         <p class="small fw-semibold text-accent mb-1">Results:</p>
                                         <p class="small text-muted mb-0">300% increase in online sales</p>
@@ -265,7 +265,7 @@
                             </div>
 
                             <div class="border-top pt-4">
-                                <div class="d-flex justify-content-between align-items-center">
+                                <div class="d-flex flex-wrap justify-content-between align-items-center">
                                     <div>
                                         <p class="small fw-semibold text-accent mb-1">Results:</p>
                                         <p class="small text-muted mb-0">300% increase in online sales</p>
@@ -325,7 +325,7 @@
                             </div>
 
                             <div class="border-top pt-4">
-                                <div class="d-flex justify-content-between align-items-center">
+                                <div class="d-flex flex-wrap justify-content-between align-items-center">
                                     <div>
                                         <p class="small fw-semibold text-accent mb-1">Results:</p>
                                         <p class="small text-muted mb-0">300% increase in online sales</p>
@@ -386,7 +386,7 @@
                             </div>
 
                             <div class="border-top pt-4">
-                                <div class="d-flex justify-content-between align-items-center">
+                                <div class="d-flex flex-wrap justify-content-between align-items-center">
                                     <div>
                                         <p class="small fw-semibold text-accent mb-1">Results:</p>
                                         <p class="small text-muted mb-0">300% increase in online sales</p>
@@ -447,7 +447,7 @@
                             </div>
 
                             <div class="border-top pt-4">
-                                <div class="d-flex justify-content-between align-items-center">
+                                <div class="d-flex flex-wrap justify-content-between align-items-center">
                                     <div>
                                         <p class="small fw-semibold text-accent mb-1">Results:</p>
                                         <p class="small text-muted mb-0">300% increase in online sales</p>
@@ -507,7 +507,7 @@
                             </div>
 
                             <div class="border-top pt-4">
-                                <div class="d-flex justify-content-between align-items-center">
+                                <div class="d-flex flex-wrap justify-content-between align-items-center">
                                     <div>
                                         <p class="small fw-semibold text-accent mb-1">Results:</p>
                                         <p class="small text-muted mb-0">300% increase in online sales</p>
@@ -567,7 +567,7 @@
                             </div>
 
                             <div class="border-top pt-4">
-                                <div class="d-flex justify-content-between align-items-center">
+                                <div class="d-flex flex-wrap justify-content-between align-items-center">
                                     <div>
                                         <p class="small fw-semibold text-accent mb-1">Results:</p>
                                         <p class="small text-muted mb-0">300% increase in online sales</p>
@@ -687,7 +687,7 @@
                             </div>
 
                             <div class="border-top pt-4">
-                                <div class="d-flex justify-content-between align-items-center">
+                                <div class="d-flex flex-wrap justify-content-between align-items-center">
                                     <div>
                                         <p class="small fw-semibold text-accent mb-1">Results:</p>
                                         <p class="small text-muted mb-0">500+ patients registered in first month</p>
@@ -746,7 +746,7 @@
                             </div>
 
                             <div class="border-top pt-4">
-                                <div class="d-flex justify-content-between align-items-center">
+                                <div class="d-flex flex-wrap justify-content-between align-items-center">
                                     <div>
                                         <p class="small fw-semibold text-accent mb-1">Results:</p>
                                         <p class="small text-muted mb-0">500+ patients registered in first month</p>
@@ -806,7 +806,7 @@
                             </div>
 
                             <div class="border-top pt-4">
-                                <div class="d-flex justify-content-between align-items-center">
+                                <div class="d-flex flex-wrap justify-content-between align-items-center">
                                     <div>
                                         <p class="small fw-semibold text-accent mb-1">Results:</p>
                                         <p class="small text-muted mb-0">500+ patients registered in first month</p>
@@ -867,7 +867,7 @@
                             </div>
 
                             <div class="border-top pt-4">
-                                <div class="d-flex justify-content-between align-items-center">
+                                <div class="d-flex flex-wrap justify-content-between align-items-center">
                                     <div>
                                         <p class="small fw-semibold text-accent mb-1">Results:</p>
                                         <p class="small text-muted mb-0">500+ patients registered in first month</p>
@@ -986,7 +986,7 @@
                             </div>
 
                             <div class="border-top pt-4">
-                                <div class="d-flex justify-content-between align-items-center">
+                                <div class="d-flex flex-wrap justify-content-between align-items-center">
                                     <div>
                                         <p class="small fw-semibold text-accent mb-1">Results:</p>
                                         <p class="small text-muted mb-0">10,000+ students enrolled</p>
@@ -1045,7 +1045,7 @@
                             </div>
 
                             <div class="border-top pt-4">
-                                <div class="d-flex justify-content-between align-items-center">
+                                <div class="d-flex flex-wrap justify-content-between align-items-center">
                                     <div>
                                         <p class="small fw-semibold text-accent mb-1">Results:</p>
                                         <p class="small text-muted mb-0">10,000+ students enrolled</p>
@@ -1105,7 +1105,7 @@
                             </div>
 
                             <div class="border-top pt-4">
-                                <div class="d-flex justify-content-between align-items-center">
+                                <div class="d-flex flex-wrap justify-content-between align-items-center">
                                     <div>
                                         <p class="small fw-semibold text-accent mb-1">Results:</p>
                                         <p class="small text-muted mb-0">10,000+ students enrolled</p>
@@ -1167,7 +1167,7 @@
                             </div>
 
                             <div class="border-top pt-4">
-                                <div class="d-flex justify-content-between align-items-center">
+                                <div class="d-flex flex-wrap justify-content-between align-items-center">
                                     <div>
                                         <p class="small fw-semibold text-accent mb-1">Results:</p>
                                         <p class="small text-muted mb-0">10,000+ students enrolled</p>
@@ -1227,7 +1227,7 @@
                             </div>
 
                             <div class="border-top pt-4">
-                                <div class="d-flex justify-content-between align-items-center">
+                                <div class="d-flex flex-wrap justify-content-between align-items-center">
                                     <div>
                                         <p class="small fw-semibold text-accent mb-1">Results:</p>
                                         <p class="small text-muted mb-0">10,000+ students enrolled</p>
@@ -1403,7 +1403,7 @@
                             </div>
 
                             <div class="border-top pt-4">
-                                <div class="d-flex justify-content-between align-items-center">
+                                <div class="d-flex flex-wrap justify-content-between align-items-center">
                                     <div>
                                         <p class="small fw-semibold text-accent mb-1">Results:</p>
                                         <p class="small text-muted mb-0">85% conversion rate improvement</p>
@@ -1459,7 +1459,7 @@
                             </div>
 
                             <div class="border-top pt-4">
-                                <div class="d-flex justify-content-between align-items-center">
+                                <div class="d-flex flex-wrap justify-content-between align-items-center">
                                     <div>
                                         <p class="small fw-semibold text-accent mb-1">Results:</p>
                                         <p class="small text-muted mb-0">85% conversion rate improvement</p>
@@ -1518,7 +1518,7 @@
                             </div>
 
                             <div class="border-top pt-4">
-                                <div class="d-flex justify-content-between align-items-center">
+                                <div class="d-flex flex-wrap justify-content-between align-items-center">
                                     <div>
                                         <p class="small fw-semibold text-accent mb-1">Results:</p>
                                         <p class="small text-muted mb-0">85% conversion rate improvement</p>
@@ -1578,7 +1578,7 @@
                             </div>
 
                             <div class="border-top pt-4">
-                                <div class="d-flex justify-content-between align-items-center">
+                                <div class="d-flex flex-wrap justify-content-between align-items-center">
                                     <div>
                                         <p class="small fw-semibold text-accent mb-1">Results:</p>
                                         <p class="small text-muted mb-0">85% conversion rate improvement</p>
@@ -1698,7 +1698,7 @@
                             </div>
 
                             <div class="border-top pt-4">
-                                <div class="d-flex justify-content-between align-items-center">
+                                <div class="d-flex flex-wrap justify-content-between align-items-center">
                                     <div>
                                         <p class="small fw-semibold text-accent mb-1">Results:</p>
                                         <p class="small text-muted mb-0">200% increase in business inquiries</p>
@@ -1756,7 +1756,7 @@
                             </div>
 
                             <div class="border-top pt-4">
-                                <div class="d-flex justify-content-between align-items-center">
+                                <div class="d-flex flex-wrap justify-content-between align-items-center">
                                     <div>
                                         <p class="small fw-semibold text-accent mb-1">Results:</p>
                                         <p class="small text-muted mb-0">200% increase in business inquiries</p>
@@ -1873,7 +1873,7 @@
                             </div>
 
                             <div class="border-top pt-4">
-                                <div class="d-flex justify-content-between align-items-center">
+                                <div class="d-flex flex-wrap justify-content-between align-items-center">
                                     <div>
                                         <p class="small fw-semibold text-accent mb-1">Results:</p>
                                         <p class="small text-muted mb-0">300% increase in online sales</p>
@@ -1932,7 +1932,7 @@
                             </div>
 
                             <div class="border-top pt-4">
-                                <div class="d-flex justify-content-between align-items-center">
+                                <div class="d-flex flex-wrap justify-content-between align-items-center">
                                     <div>
                                         <p class="small fw-semibold text-accent mb-1">Results:</p>
                                         <p class="small text-muted mb-0">200% increase in business inquiries</p>
@@ -1991,7 +1991,7 @@
                             </div>
 
                             <div class="border-top pt-4">
-                                <div class="d-flex justify-content-between align-items-center">
+                                <div class="d-flex flex-wrap justify-content-between align-items-center">
                                     <div>
                                         <p class="small fw-semibold text-accent mb-1">Results:</p>
                                         <p class="small text-muted mb-0">200% increase in business inquiries</p>

@@ -804,6 +804,10 @@
       box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
     }
 
+    .fottor-disc-color{
+      color: rgba(255, 255, 255, 0.8);
+    }
+
     /* Footer========================================================== */
 
 
@@ -1734,11 +1738,17 @@
 
     /* website design mumbai company page==================================================== */
 
-
+      html, body {
+        overflow-x: hidden;
+      }
 
     /* responsive================== */
 
     @media (max-width: 768px) {
+      html, body {
+        overflow-x: hidden;
+      }
+      
       .section-padding-80px,
       .choose-package-section-padding-80px{
         padding: 40px 0 !important;
@@ -1849,6 +1859,33 @@
         margin-top: 3rem;
       }
 
+}
+
+@media (max-width: 375px) {
+  .footer-term-and-condition{
+    font-size: .774em !important;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  .footer-term-and-condition{
+    font-size: .820em !important;
+  }
+}
+
+@media (min-width: 992px) and (max-width: 1200px) {
+  .footer-col-lg-3-desc{
+    max-width: 20%;
+  }
+  .footer-col-lg-3-desc1{
+    width: 40%;
+  }
+  .footer-col-lg-3-desc2{
+    width: 15%;
+  }
+  .footer-col-lg-3-desc3{
+    width: 25%;
+  }
 }
 
 

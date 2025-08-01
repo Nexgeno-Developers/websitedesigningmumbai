@@ -507,8 +507,8 @@
                             <div class="mb-4">
                                 <h4 class="h6 fw-semibold mb-3">Technologies Used:</h4>
                                 <div class="d-flex flex-wrap gap-2">
-                                    <span class="badge badge-tech">React i18n</span>
-                                    <span class="badge badge-tech">Next.js i18n</span>
+                                    <span class="badge badge-tech">React</span>
+                                    <span class="badge badge-tech">Next.js</span>
                                     <span class="badge badge-tech">Translation APIs</span>
                                     <span class="badge badge-tech">Geo APIs</span>
                                 </div>

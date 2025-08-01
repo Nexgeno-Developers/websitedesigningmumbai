@@ -4,8 +4,8 @@
     <!-- Hero Section -->
     <section class="service-ready-start section-padding-80px">
         <div class="container text-center">
-            <h1 class="display-4 fw-bold mb-4 pt-md-5">Get In Touch</h1>
-            <p class="fs-3 text-white text-opacity-80 mx-auto mb-0">
+            <h1 class="display-4 fw-bold mb-3 pt-5 hero-header-text">Get Quote</h1>
+            <p class="fs-3 text-white text-opacity-80 mx-auto mb-0 hero-para-text">
                 Ready to start your project? Let's discuss how we can help bring your vision to life.
             </p>
         </div>
@@ -17,10 +17,10 @@
             <div class="row g-4">
                 <!-- Contact Form -->
                 <div class="col-lg-8 ">
-                    <div class="card card-hover border-0 shadow border-radius-75rem">
+                    <div class="card card-hover border-0 shadow border-radius-75rem contact-form-scroll">
                         <div class="card-body p-4 p-md-5">
-                            <h2 class="text-center display-5 fw-bold mb-4">Start Your Project Today</h2>
-                            <p class="text-center text-muted mb-5">
+                            <h2 class="text-center display-5 fw-bold mb-md-4 mb-3">Start Your Project Today</h2>
+                            <p class="text-center text-muted mb-md-5 mb-3">
                                 Fill out the form below and we'll get back to you within 24 hours with a detailed
                                 proposal.
                             </p>
@@ -49,13 +49,16 @@
                                     <label for="project" class="form-label">Project Type *</label>
                                     <select class="form-select" name="project" required>
                                         <option value="Select project type">Select project type</option>
-                                        <option value="Static Website">Static Website</option>
-                                        <option vlaue="E-commerce Store">E-commerce Store</option>
-                                        <option value="Web Application">Web Application</option>
-                                        <option value="WordPress Site">WordPress Site</option>
-                                        <option value="Landing Page">Landing Page</option>
-                                        <option value="Mobile App">Mobile App</option>
-                                        <option value="ustom Soluti">Custom Solution</option>
+                                        <option value="Static & Dynamic Websites">Static & Dynamic Websites</option>
+                                        <option vlaue="E-commerce Website Solutions">E-commerce Website Solutions</option>
+                                        <option value="WordPress & CMS Website Development">WordPress & CMS Website Development</option>
+                                        <option value="Custom Web Applications">Custom Web Applications</option>
+                                        <option value="Multi-language Websites">Multi-language Websites</option>
+                                        <option value="Landing Pages">Landing Pages</option>
+                                        <option value="Progressive Web Apps (PWAs)">Progressive Web Apps (PWAs)</option>
+                                        <option value="SEO & Performance Optimization">SEO & Performance Optimization</option>
+                                        <option value="UI/UX Design & Prototyping">UI/UX Design & Prototyping</option>
+                                        <option value="Website Maintenance & Support">Website Maintenance & Support</option>
                                     </select>
                                 </div>
 
@@ -90,7 +93,7 @@
                             </div>
 
                             <div class="col-12">
-                                <button type="submit" id="submitBtn" class="btn btn-accent w-100 py-3 fw-semibold"><i class="bi-send-fill me-2"></i> Send Project Details</button>
+                                <button type="submit" id="submitBtn" class="btn btn-accent w-100 py-3 fw-semibold hero-header-pricing hero-header-pricing-text"><i class="bi-send-fill me-2"></i> Send Project Details</button>
                             </div>
                         </div>
                     </form>
@@ -136,7 +139,7 @@
                                 <div>
                                     <h3 class="h5 fw-semibold mb-1 contact-title">Email</h3>
                                     <p class="small text-muted mb-2">Drop us a line</p>
-                                    <p class="fw-medium mb-1"><a class="contact-field-number-email" href="mailto:hello@websitedesignmumbai.com">hello@websitedesignmumbai.com</a></p>
+                                    <p class="fw-medium mb-1"><a class="contact-field-number-email" href="mailto:hello@websitedesignmumbai.in">hello@websitedesignmumbai.in</a></p>
                                     <p class="fw-medium"><a class="contact-field-number-email" href="mailto:shahrukh@nexgeno.in">shahrukh@nexgeno.in</a></p>
                                 </div>
                             </div>
@@ -183,11 +186,11 @@
 
                     <!-- Quick Actions -->
                     <div class="d-grid gap-3">
-                        <button onclick="window.open('https://wa.me/919819555545', '_blank')" class="btn btn-offer-service d-flex align-items-center justify-content-center py-3">
+                        <button onclick="window.open('https://wa.me/919819555545', '_blank')" class="btn btn-offer-service d-flex align-items-center justify-content-center py-3 hero-header-pricing hero-header-pricing-text">
                             <i class="bi-whatsapp me-2"></i>
                             WhatsApp Chat
                         </button>
-                        <button class="btn btn-offer-service d-flex align-items-center justify-content-center py-3" onclick="window.open('https://calendly.com/shahrukh-nexgeno', '_blank')">
+                        <button class="btn btn-offer-service d-flex align-items-center justify-content-center py-3 hero-header-pricing hero-header-pricing-text" onclick="window.open('https://calendly.com/shahrukh-nexgeno', '_blank')">
                             <i class="bi-calendar-check me-2"></i>
                             Schedule Video Call
                         </button>
@@ -201,7 +204,7 @@
     <section class="bg-light-blue section-padding-80px">
         <div class="container">
             <div class="text-center mb-5">
-                <h2 class="display-4 fw-bold mb-3">Frequently Asked Questions</h2>
+                <h2 class="display-4 fw-bold mb-3 hero-header-text">Frequently Asked Questions</h2>
             </div>
 
             <div class="row justify-content-center">
