@@ -77,12 +77,18 @@
         <!-- <div class="bottom-gradient"></div> -->
     </section>
 
-      <section class="section-padding-80px top_seo_section">
+      <section class="section-padding-80px top_seo_section" style="    background-color: #eeedede0;">
         <div class="container">
-            <h1 class="seo_h1 fw-bold mb-md-2 mb-2">Best Website Designing Company in Mumbai India to Elevate Your Online Presence
-           </h1>
-           <p class="web-design-page-mumbai mb-0">Welcome to<strong> Website Designing Mumbai (WDM)</strong>, your trusted partner for creating exceptional online experiences. As<strong> the best website design company in Mumbai</strong>, we specialize in delivering <strong>custom web solutions India </strong>that blend creativity, technology, and strategy. Whether you’re a startup, small business, or enterprise, our<strong> web development company in Mumbai</strong> crafts<strong> responsive website designs, SEO-friendly websites</strong>, and<strong> ecommerce website development Mumbai</strong> solutions to help you succeed in the digital world
-           .</p>
+            <div class="text-center mb-5 animate-fade-in">
+                <h1 class="seo_h1 fw-bold mb-md-4 mb-4">
+                    <span class="gradient-text">Best Website Designing</span> Company Mumbai India </h1>
+                <p class="section-subheading">
+                    To Elevate Your Online Presence
+                </p>
+            </div>
+
+           <p class="web-design-page-mumbai font-size14">Welcome to Website Designing Mumbai (WDM), your trusted partner for creating exceptional online experiences. As the best website design company in Mumbai, we specialize in delivering custom web solutions India that blend creativity, technology, and strategy. </p>
+<p class="web-design-page-mumbai mb-0 font-size14">Whether you’re a startup, small business, or enterprise, our<strong> web development company in Mumbai</strong> crafts<strong> responsive website designs, SEO-friendly websites</strong>, and<strong> ecommerce website development Mumbai</strong> solutions to help you succeed in the digital world.</p>
         </div>
     </section>
 
@@ -847,8 +853,8 @@
     <h2 class="web-design-page-mumbai-heading fw-bold mb-md-4 mb-4">Our Comprehensive Web Design & Development Services</h2>
     <!-- 1 -->
     <h3 class="sub_seo_heading fw-semibold mb-md-2 mb-2 h22"> 1. Web Design & Development</h3>
-    <p class="web-design-page-mumbai"> Your website is your digital storefront, and we make it stand out. Our <strong>website designers in Mumbai </strong>create <strong> mobile-friendly website designs </strong>and <strong>interactive website designs</strong> that captivate users and drive engagement. Whether you need a <strong> corporate website design India, blog website development </strong>, or <strong>web development for startups India</strong>, we deliver solutions that reflect your brand’s identity. </p>
-    <ul class="web-design-page-mumbai mb-5">
+    <p class="web-design-page-mumbai font-size14"> Your website is your digital storefront, and we make it stand out. Our <strong>website designers in Mumbai </strong>create <strong> mobile-friendly website designs </strong>and <strong>interactive website designs</strong> that captivate users and drive engagement. Whether you need a <strong> corporate website design India, blog website development </strong>, or <strong>web development for startups India</strong>, we deliver solutions that reflect your brand’s identity. </p>
+    <ul class="web-design-page-mumbai font-size14 mb-5">
       <li>
         <strong>WordPress Development Agency in Mumbai:</strong> As expert WDM WordPress Designers, we build fast, secure, and scalable websites using Elementor web designers expertise. Our custom WordPress web design Mumbai ensures flexibility and ease of use for your team.
       </li>
@@ -861,8 +867,8 @@
     </ul>
     <!-- 2 -->
     <h3 class="sub_seo_heading fw-semibold mb-md-2 mb-2 h22"> 2. Website Redesign & Maintenance</h3>
-    <p class="web-design-page-mumbai"> Is your website outdated or underperforming? Our <strong> website redesign company in Mumbai </strong> offers <strong> website redesign services Mumbai</strong> to modernize your site with <strong> SEO-optimized website development</strong> and <strong> lead generation website design</strong> . We also provide <strong> website maintenance services India </strong> and <strong> website security services India</strong> to ensure your site stays secure, updated, and optimized. </p>
-    <ul class="web-design-page-mumbai mb-5">
+    <p class="web-design-page-mumbai font-size14"> Is your website outdated or underperforming? Our <strong> website redesign company in Mumbai </strong> offers <strong> website redesign services Mumbai</strong> to modernize your site with <strong> SEO-optimized website development</strong> and <strong> lead generation website design</strong> . We also provide <strong> website maintenance services India </strong> and <strong> website security services India</strong> to ensure your site stays secure, updated, and optimized. </p>
+    <ul class="web-design-page-mumbai font-size14 mb-5">
       <li>
         <strong> Why Redesign Your Website?: </strong> A modern website improves user experience, boosts SEO rankings, and increases conversions. Our Top Reasons to Redesign Your Website in 2025 blog post explains why now is the perfect time to refresh your site.
       </li>
@@ -875,8 +881,8 @@
     </ul>
     <!-- 3 -->
     <h3 class="sub_seo_heading fw-semibold mb-md-2 mb-2"> 3. SEO & Digital Marketing</h3>
-    <p class="web-design-page-mumbai">Visibility is key in today’s digital landscape. Our SEO agency in Mumbai specializes in local SEO services in Mumbai and SEO-friendly website design to help you rank higher on search engines. Our digital marketing agency in Mumbai offers a full suite of services, including: </p>
-    <ul class="web-design-page-mumbai mb-5">
+    <p class="web-design-page-mumbai font-size14">Visibility is key in today’s digital landscape. Our SEO agency in Mumbai specializes in local SEO services in Mumbai and SEO-friendly website design to help you rank higher on search engines. Our digital marketing agency in Mumbai offers a full suite of services, including: </p>
+    <ul class="web-design-page-mumbai font-size14 mb-5">
       <li>
         <strong>Lead Generation Website Design:</strong> Convert visitors into customers with strategic design and compelling calls-to-action.
       </li>
@@ -889,8 +895,8 @@
     </ul>
     <!-- 4 -->
     <h3 class="sub_seo_heading fw-semibold mb-md-2 mb-2 "> 4. UX/UI Design & Performance Optimization</h3>
-    <p class="web-design-page-mumbai">Great design goes beyond aesthetics; it's about creating seamless user experiences. Our <strong>UX UI design agency Mumbai</strong> focuses on <strong>high-performance website design </strong>and <strong>fast-loading websites </strong>to keep users engaged. We also offer: </p>
-    <ul class="web-design-page-mumbai mb-5">
+    <p class="web-design-page-mumbai font-size14">Great design goes beyond aesthetics; it's about creating seamless user experiences. Our <strong>UX UI design agency Mumbai</strong> focuses on <strong>high-performance website design </strong>and <strong>fast-loading websites </strong>to keep users engaged. We also offer: </p>
+    <ul class="web-design-page-mumbai font-size14 mb-5">
       <li>
         <strong>Responsive Website Design Mumbai:</strong> Ensure your site looks and works perfectly on all devices, as explained in our How a Responsive Website Boosts Conversion Rates blog.
       </li>
@@ -903,18 +909,18 @@
     </ul>
     <!-- 5 -->
     <h3 class="sub_seo_heading fw-semibold mb-md-2 mb-2">5. AI-Powered & Innovative Solutions</h3>
-    <p class="web-design-page-mumbai mb-5">Stay ahead of the competition with <strong> AI-powered web design </strong>and <strong> future-proof website development</strong>. Our <strong>web design for businesses in India </strong>incorporates cutting-edge tools like AI to enhance functionality and user experience. Learn more in our AI Tools for Web Designers in India blog post. </p>
+    <p class="web-design-page-mumbai font-size14 mb-5">Stay ahead of the competition with <strong> AI-powered web design </strong>and <strong> future-proof website development</strong>. Our <strong>web design for businesses in India </strong>incorporates cutting-edge tools like AI to enhance functionality and user experience. Learn more in our AI Tools for Web Designers in India blog post. </p>
     <!-- 6 -->
     <h3 class="sub_seo_heading fw-semibold mb-md-2 mb-2"> 6. Specialized Services for Startups & E-commerce</h3>
-    <p class="web-design-page-mumbai mb-5">We understand the unique needs of startups and e-commerce businesses. Our <strong> web development for startups India</strong> and <strong>Shopify website designers Mumbai</strong> services are designed to help you launch quickly and scale efficiently. We also offer <strong>custom web solutions India </strong>to meet your specific requirements. </p>
+    <p class="web-design-page-mumbai font-size14 mb-5">We understand the unique needs of startups and e-commerce businesses. Our <strong> web development for startups India</strong> and <strong>Shopify website designers Mumbai</strong> services are designed to help you launch quickly and scale efficiently. We also offer <strong>custom web solutions India </strong>to meet your specific requirements. </p>
     <!-- benifits -->
     <h2 class="web-design-page-mumbai-heading fw-bold mb-md-2 mb-2">Benefits of Hiring a Remote Web Design Team</h2>
-    <p class="web-design-page-mumbai mb-5"> For businesses outside Mumbai, our <strong> WDM Remote Web Design</strong> services offer flexibility and expertise. Our <strong>Benefits of Hiring a Remote Web Design Team </strong>blog post highlights how remote collaboration delivers cost-effective, high-quality results without compromising on communication. </p>
+    <p class="web-design-page-mumbai font-size14 mb-5"> For businesses outside Mumbai, our <strong> WDM Remote Web Design</strong> services offer flexibility and expertise. Our <strong>Benefits of Hiring a Remote Web Design Team </strong>blog post highlights how remote collaboration delivers cost-effective, high-quality results without compromising on communication. </p>
     <!-- why partner -->
     <h2 class="web-design-page-mumbai-heading fw-bold mb-md-2 mb-2">Why Partner with WDM Website Design Company?</h2>
-    <p class="web-design-page-mumbai">At <strong>WDM Website Design Company</strong>, we’re more than just <strong>website designers in Mumbai</strong>. We’re a team of innovators, strategists, and creators dedicated to transforming your vision into a high-performing website. Here’s why businesses choose us as their <strong> web design agency in Mumbai: </strong>
+    <p class="web-design-page-mumbai font-size14">At <strong>WDM Website Design Company</strong>, we’re more than just <strong>website designers in Mumbai</strong>. We’re a team of innovators, strategists, and creators dedicated to transforming your vision into a high-performing website. Here’s why businesses choose us as their <strong> web design agency in Mumbai: </strong>
     </p>
-    <ul class="web-design-page-mumbai mb-5">
+    <ul class="web-design-page-mumbai font-size14 mb-5">
       <li>
         <strong>Local Expertise with Global Reach:</strong> As a <strong> local web design company in Mumbai</strong>, we understand the pulse of the local market, ensuring your website resonates with your audience. Our <strong>global web design services</strong> and <strong> remote web design company</strong> capabilities allow us to serve clients worldwide with seamless collaboration.
       </li>
@@ -930,8 +936,8 @@
     </ul>
     <!-- explore our -->
     <h2 class="web-design-page-mumbai-heading fw-bold mb-md-2 mb-2">Explore Our Blog for Expert Insights</h2>
-    <p class="web-design-page-mumbai">Our blog is packed with actionable tips to help you succeed online: </p>
-    <ul class="web-design-page-mumbai mb-5">
+    <p class="web-design-page-mumbai font-size14">Our blog is packed with actionable tips to help you succeed online: </p>
+    <ul class="web-design-page-mumbai font-size14 mb-5">
       <li>
         <strong>WordPress vs Custom CMS:</strong>
         <strong> What’s Best for Your Business?</strong> Compare platforms to make an informed decision.
@@ -951,8 +957,8 @@
     </ul>
     <!-- get started -->
     <h2 class="web-design-page-mumbai-heading fw-bold mb-md-2 mb-2">Get Started with WDM Today</h2>
-    <p class="web-design-page-mumbai">Ready to transform your online presence? Whether you need <strong> web design for businesses in India</strong>, <strong>Shopify developer in India</strong> services, or <strong> WDM SEO Team Mumbai</strong> expertise, we’re here to help. As the <strong>best web design company in Mumbai</strong>, we’re committed to delivering websites that are visually stunning, user-friendly, and optimized for success. </p>
-    <p class="web-design-page-mumbai">Contact Us Today to discuss your project with our <strong> WDM WordPress Designers</strong> or <strong>WDM Web Developers Mumbai</strong>. Let’s build a website that takes your business to new heights! </p>
+    <p class="web-design-page-mumbai font-size14">Ready to transform your online presence? Whether you need <strong> web design for businesses in India</strong>, <strong>Shopify developer in India</strong> services, or <strong> WDM SEO Team Mumbai</strong> expertise, we’re here to help. As the <strong>best web design company in Mumbai</strong>, we’re committed to delivering websites that are visually stunning, user-friendly, and optimized for success. </p>
+    <p class="web-design-page-mumbai font-size14">Contact Us Today to discuss your project with our <strong> WDM WordPress Designers</strong> or <strong>WDM Web Developers Mumbai</strong>. Let’s build a website that takes your business to new heights! </p>
   </div>
 </section>
 

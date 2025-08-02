@@ -70,7 +70,7 @@
     }
 
     .sub_seo_heading {
-      font-size: 22px;
+      font-size: 18px;
       font-weight: 700 !important;
     }
 
@@ -1764,8 +1764,12 @@
       color: var(--text-dark);
     }
 
+    .font-size14 {
+      font-size: 14px;
+    }
+
     .web-design-page-mumbai-heading {
-      font-size: 1.8rem;
+      font-size: 1.4rem;
     }
 
     /* website design mumbai company page==================================================== */
@@ -1779,7 +1783,6 @@
 
       font-size: 2.5rem;
       line-height: 60px;
-      margin-bottom: 22px !important;
     }
 
     .top_seo_section .container {
@@ -1985,7 +1988,6 @@
       .seo_h1 {
         font-size: 1.5rem;
         line-height: 36px;
-        margin-bottom: 10px !important;
       }
 
       .sub_seo_heading {
