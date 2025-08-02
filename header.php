@@ -42,7 +42,7 @@ $seo = get_seo_data($page);
   <!-- Bootstrap Icons -->
   <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.0/font/bootstrap-icons.css" rel="stylesheet" />
   <!-- Custom CSS -->
-  <link href="css/style.css" rel="stylesheet" />
+ <link href="css/style.css?v=1.0.1" rel="stylesheet" />
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.2/font/bootstrap-icons.css">
 
   <!-- Google Analytics -->
