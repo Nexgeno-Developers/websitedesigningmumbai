@@ -858,8 +858,13 @@
       /* Section full white background */
     }
 
-    .logo-wrapper {
+    .logo-section .logo-wrapper {
       background-color: rgba(243, 244, 246, 1) !important;
+      transition: background-color 0.3s ease;
+    }
+
+    .logo-wrapper {
+      background-color: rgb(255 255 255) !important;
       /* Greyish card background */
       transition: background-color 0.3s ease;
     }
