@@ -767,6 +767,81 @@
     <!-- contact-home -->
 
 
+     <section class="why-choose-us section-padding-80px">
+        <div class="container">
+            <div class="text-center mb-md-5 mb-4">
+                <div class="section-heading hero-header-text">
+                    Our <span class="gradient-text"> Clients</span>
+                </div>
+            </div>
+
+            <div class="row g-4">
+
+        <!-- cards -->
+        <div class="col-6 col-md-3">
+          <div class="logo-wrapper p-4 rounded-4 h-100">
+            <img src="img/bmc.png" alt="Manufacturing" class="custom-logo img-fluid d-block mx-auto">
+          </div>
+        </div>
+
+        <div class="col-6 col-md-3">
+          <div class="logo-wrapper p-4 rounded-4 h-100">
+            <img src="img/geci.png" alt="Manufacturing" class="custom-logo img-fluid d-block mx-auto">
+          </div>
+        </div>
+
+        <div class="col-6 col-md-3">
+          <div class="logo-wrapper p-4 rounded-4 h-100">
+            <img src="img/lijjat.png" alt="Manufacturing" class="custom-logo img-fluid d-block mx-auto">
+          </div>
+        </div>
+
+        <div class="col-6 col-md-3">
+          <div class="logo-wrapper p-4 rounded-4 h-100">
+            <img src="img/lehner.png" alt="Manufacturing" class="custom-logo img-fluid d-block mx-auto">
+          </div>
+        </div>
+
+        <div class="col-6 col-md-3">
+          <div class="logo-wrapper p-4 rounded-4 h-100">
+            <img src="img/euro.png" alt="Manufacturing" class="custom-logo img-fluid d-block mx-auto">
+          </div>
+        </div>
+
+        <div class="col-6 col-md-3">
+          <div class="logo-wrapper p-4 rounded-4 h-100">
+            <img src="img/mda.png" alt="Manufacturing" class="custom-logo img-fluid d-block mx-auto">
+          </div>
+        </div>
+
+        <div class="col-6 col-md-3">
+          <div class="logo-wrapper p-4 rounded-4 h-100">
+            <img src="img/abbott.png" alt="Manufacturing" class="custom-logo img-fluid d-block mx-auto">
+          </div>
+        </div>
+
+        <div class="col-6 col-md-3">
+          <div class="logo-wrapper p-4 rounded-4 h-100">
+            <img src="img/abg.png" alt="Manufacturing" class="custom-logo img-fluid d-block mx-auto">
+          </div>
+        </div>
+
+       
+
+      </div>
+
+      <div class="text-center animate-scale-in mt-md-5 mt-4">
+                <button class="btn cta-btn hero-header-pricing hero-header-pricing-text" onclick="window.location.href='clients.htm'">
+                    View All
+                    <i class="bi bi-arrow-right ms-2"></i>
+                </button>
+            </div>
+
+            
+        </div>
+    </section>
+
+
     <section class="section-padding-80px seo_content_section">
   <div class="container">
     <h2 class="web-design-page-mumbai-heading fw-bold mb-md-4 mb-4">Our Comprehensive Web Design & Development Services</h2>
