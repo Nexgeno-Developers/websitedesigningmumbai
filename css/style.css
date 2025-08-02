@@ -76,7 +76,7 @@
 
     .seo_content_section .container {
       overflow-y: scroll;
-      height: 450px;
+      height: 350px;
       background: #edeef0;
       padding: 30px;
       border-radius: 1rem;
@@ -1760,7 +1760,7 @@
     }
 
     .web-design-page-mumbai-heading {
-      font-size: 28px !important;
+      font-size: 1.8rem;
     }
 
     /* website design mumbai company page==================================================== */
@@ -1768,6 +1768,18 @@
     html,
     body {
       overflow-x: hidden;
+    }
+
+    .seo_h1 {
+
+      font-size: 2.5rem;
+      line-height: 60px;
+      margin-bottom: 22px !important;
+    }
+
+    .top_seo_section .container {
+      width: 950px;
+      text-align: center;
     }
 
     /* responsive================== */
@@ -1846,6 +1858,7 @@
 
       .web-design-page-mumbai-heading {
         font-size: 24px !important;
+        line-height: 36px;
       }
 
       .web-design-page-mumbai {
@@ -1957,6 +1970,21 @@
 
       .benefit-item {
         margin-bottom: 0.5rem;
+      }
+
+      .top_seo_section .container {
+        width: 100%;
+        text-align: center;
+      }
+
+      .seo_h1 {
+        font-size: 1.5rem;
+        line-height: 36px;
+        margin-bottom: 10px !important;
+      }
+
+      .sub_seo_heading {
+        font-size: 18px;
       }
     }
 
