@@ -2,7 +2,7 @@
     <footer class="footer section-padding-top-80px">
         <!-- Main Footer Content -->
         <div class="container">
-            <div class="row g-4">
+            <div class="row g-md-4 g-2">
                 <!-- Company Info -->
                 <div class="col-md-6 col-lg-3 footer-col-lg-3-desc">
                     <div class="d-flex align-items-center mb-4">
@@ -30,7 +30,7 @@
                 </div>
 
                 <!-- Services -->
-                <div class="col-md-6 col-lg-4 footer-col-lg-3-desc1">
+                <div class="col-md-6 col-lg-4 col-7 footer-col-lg-3-desc1">
                     <p class="h5 fw-semibold mb-md-4 mb-3 text-warning">Our Services</p>
                     <div class="row">  <!-- Bootstrap row -->
                         <div class="col-lg-6 col-md-12 col-12">  <!-- First column -->
@@ -116,7 +116,7 @@
                 </div>
 
                 <!-- Quick Links -->
-                <div class="col-md-6 col-lg-2 footer-col-lg-3-desc2">
+                <div class="col-md-6 col-lg-2 col-5 footer-col-lg-3-desc2">
                     <p class="h5 fw-semibold mb-md-4 mb-3 text-warning">Quick Links</p>
                     <ul class="list-unstyled">
                         <li class="mb-2">
@@ -172,7 +172,7 @@
             </div>
 
             <!-- Newsletter Signup -->
-            <div class="newsletter-card mx-auto pb-md-4 mb-4 pt-4 pt-md-4 mb-5 mt-3 mt-md-4 stay-tuned-footer-card mt-5">
+            <div class="newsletter-card mx-auto pb-md-4 mb-4 pt-4 pt-md-4 mb-4 mt-3 mt-md-4 stay-tuned-footer-card mt-4">
                 <div class="text-center mb-4">
                     <p class="h5 fw-bold mb-2">Stay Updated</p>
                     <p class="text-white-80 mb-1">Get web development insights, AI trends, and exclusive offers delivered to

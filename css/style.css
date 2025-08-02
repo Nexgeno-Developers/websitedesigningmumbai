@@ -69,6 +69,20 @@
       box-shadow: 0 8px 32px hsla(220, 80%, 25%, 0.08);
     }
 
+    .sub_seo_heading {
+      font-size: 22px;
+      font-weight: 700 !important;
+    }
+
+    .seo_content_section .container {
+      overflow-y: scroll;
+      height: 450px;
+      background: #edeef0;
+      padding: 30px;
+      border-radius: 1rem;
+      box-shadow: 0 10px 30px -5px hsla(220, 80%, 25%, 0.1);
+    }
+
     .nav-link {
       position: relative;
       color: var(--text-dark);
@@ -1056,6 +1070,7 @@
       font-size: 1.5rem;
     }
 
+
     .we-serve-industry-badge {
       background-color: hsl(45deg 100% 51.37% / 98%);
       color: #000;
@@ -1797,8 +1812,10 @@
       }
 
       .industry-item {
-        margin-bottom: 10px;
+        margin-bottom: 20px;
         gap: 10px;
+        width: 33.33%;
+        margin-top: 15px;
       }
 
       .hero-icon-all-web {
@@ -1906,5 +1923,41 @@
       }
     }
 
+
+    @media(max-width:767px) {
+      .hero-badge {
+        margin-bottom: 20px;
+      }
+
+
+      .hero-content {
+        padding: 0px 15px;
+      }
+
+      .hero-stats {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 2rem;
+        max-width: 45rem;
+        margin: 2rem auto 0;
+      }
+
+      button#mobileMenuButton i {
+        font-size: 30px !important;
+      }
+
+      .hero-content .hero-heading.hero-header-text {
+        font-size: 26px;
+        line-height: 35px;
+      }
+
+      .why-choose-us .feature-title.hero-header-text {
+        font-size: 20px;
+      }
+
+      .benefit-item {
+        margin-bottom: 0.5rem;
+      }
+    }
 
     /* responsive botto================== */
