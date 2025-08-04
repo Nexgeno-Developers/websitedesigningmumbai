@@ -1,8 +1,4 @@
 User-agent: *
-Disallow: /wp-admin/
-Disallow: /wp-login.php
-Disallow: /author/
-Disallow: /cdn-cgi/
-Disallow: /*/feed/
-Disallow: /?attachment
-Sitemap: https://websitedesigningmumbai.in/sitemap_index.xml
+Allow: /
+
+Sitemap: https://websitedesigningmumbai.in/sitemap.xml
