@@ -97,7 +97,7 @@
         <div class="container">
             <div class="text-center mb-5 animate-fade-in">
                 <div class="section-heading">
-                    Our <span class="gradient-text">Services1</span>
+                    Our <span class="gradient-text">Services</span>
 </div>
                 <p class="section-subheading">
                     Comprehensive digital solutions to transform your business and accelerate growth
