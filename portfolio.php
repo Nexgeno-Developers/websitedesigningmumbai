@@ -121,10 +121,10 @@
                             </button>
                         </div>
                         <div class="card-body">
-                            <p class="text-muted mb-4">
+                            <!-- <p class="text-muted mb-4">
                                 Modern e-commerce platform with advanced filtering, payment integration, and inventory
                                 management.
-                            </p>
+                            </p> -->
 
                             <div class="mb-4">
                                 <h4 class="h6 fw-semibold mb-2">Technologies:</h4>
@@ -147,10 +147,10 @@
 
                             <div class="border-top pt-4">
                                 <div class="d-flex flex-wrap justify-content-between align-items-center">
-                                    <div>
+                                    <!-- <div>
                                         <p class="small fw-semibold text-accent mb-1">Results:</p>
                                         <p class="small text-muted mb-0">300% increase in online sales</p>
-                                    </div>
+                                    </div> -->
                                    <a href="https://motiwalajewels.in/" target="_blank" rel="noopener noreferrer">
   <button class="btn btn-link p-0 text-decoration-none view-more-btn-portfolio text-dark">
     View Details <i class="bi bi-arrow-right ms-1"></i>
@@ -180,10 +180,10 @@
                             </button>
                         </div>
                         <div class="card-body">
-                            <p class="text-muted mb-4">
+                            <!-- <p class="text-muted mb-4">
                                 Modern e-commerce platform with advanced filtering, payment integration, and inventory
                                 management.
-                            </p>
+                            </p> -->
 
                             <div class="mb-4">
                                 <h4 class="h6 fw-semibold mb-2">Technologies:</h4>
@@ -206,10 +206,10 @@
 
                             <div class="border-top pt-4">
                                 <div class="d-flex flex-wrap justify-content-between align-items-center">
-                                    <div>
+                                    <!-- <div>
                                         <p class="small fw-semibold text-accent mb-1">Results:</p>
                                         <p class="small text-muted mb-0">300% increase in online sales</p>
-                                    </div>
+                                    </div> -->
                                    <a href="https://www.lijjat.com/" target="_blank" rel="noopener noreferrer">
   <button class="btn btn-link p-0 text-decoration-none view-more-btn-portfolio text-dark">
     View Details <i class="bi bi-arrow-right ms-1"></i>
@@ -240,10 +240,10 @@
                             </button>
                         </div>
                         <div class="card-body">
-                            <p class="text-muted mb-4">
+                            <!-- <p class="text-muted mb-4">
                                 Modern e-commerce platform with advanced filtering, payment integration, and inventory
                                 management.
-                            </p>
+                            </p> -->
 
                             <div class="mb-4">
                                 <h4 class="h6 fw-semibold mb-2">Technologies:</h4>
@@ -266,10 +266,10 @@
 
                             <div class="border-top pt-4">
                                 <div class="d-flex flex-wrap justify-content-between align-items-center">
-                                    <div>
+                                    <!-- <div>
                                         <p class="small fw-semibold text-accent mb-1">Results:</p>
                                         <p class="small text-muted mb-0">300% increase in online sales</p>
-                                    </div>
+                                    </div> -->
                                    <a href="https://tanvierperfumes.com/" target="_blank" rel="noopener noreferrer">
   <button class="btn btn-link p-0 text-decoration-none view-more-btn-portfolio text-dark">
     View Details <i class="bi bi-arrow-right ms-1"></i>
@@ -300,10 +300,10 @@
                             </button>
                         </div>
                         <div class="card-body">
-                            <p class="text-muted mb-4">
+                            <!-- <p class="text-muted mb-4">
                                 Modern e-commerce platform with advanced filtering, payment integration, and inventory
                                 management.
-                            </p>
+                            </p> -->
 
                             <div class="mb-4">
                                 <h4 class="h6 fw-semibold mb-2">Technologies:</h4>
@@ -326,10 +326,10 @@
 
                             <div class="border-top pt-4">
                                 <div class="d-flex flex-wrap justify-content-between align-items-center">
-                                    <div>
+                                    <!-- <div>
                                         <p class="small fw-semibold text-accent mb-1">Results:</p>
                                         <p class="small text-muted mb-0">300% increase in online sales</p>
-                                    </div>
+                                    </div> -->
                                    <a href="https://majesticperfume.in/" target="_blank" rel="noopener noreferrer">
   <button class="btn btn-link p-0 text-decoration-none view-more-btn-portfolio text-dark">
     View Details <i class="bi bi-arrow-right ms-1"></i>
@@ -361,10 +361,10 @@
                             </button>
                         </div>
                         <div class="card-body">
-                            <p class="text-muted mb-4">
+                            <!-- <p class="text-muted mb-4">
                                 Modern e-commerce platform with advanced filtering, payment integration, and inventory
                                 management.
-                            </p>
+                            </p> -->
 
                             <div class="mb-4">
                                 <h4 class="h6 fw-semibold mb-2">Technologies:</h4>
@@ -387,10 +387,10 @@
 
                             <div class="border-top pt-4">
                                 <div class="d-flex flex-wrap justify-content-between align-items-center">
-                                    <div>
+                                    <!-- <div>
                                         <p class="small fw-semibold text-accent mb-1">Results:</p>
                                         <p class="small text-muted mb-0">300% increase in online sales</p>
-                                    </div>
+                                    </div> -->
                                    <a href="https://smilkeelite.com/" target="_blank" rel="noopener noreferrer">
   <button class="btn btn-link p-0 text-decoration-none view-more-btn-portfolio text-dark">
     View Details <i class="bi bi-arrow-right ms-1"></i>
@@ -422,10 +422,10 @@
                             </button>
                         </div>
                         <div class="card-body">
-                            <p class="text-muted mb-4">
+                            <!-- <p class="text-muted mb-4">
                                 Modern e-commerce platform with advanced filtering, payment integration, and inventory
                                 management.
-                            </p>
+                            </p> -->
 
                             <div class="mb-4">
                                 <h4 class="h6 fw-semibold mb-2">Technologies:</h4>
@@ -448,10 +448,10 @@
 
                             <div class="border-top pt-4">
                                 <div class="d-flex flex-wrap justify-content-between align-items-center">
-                                    <div>
+                                    <!-- <div>
                                         <p class="small fw-semibold text-accent mb-1">Results:</p>
                                         <p class="small text-muted mb-0">300% increase in online sales</p>
-                                    </div>
+                                    </div> -->
                                    <a href="https://vegsutra.com/" target="_blank" rel="noopener noreferrer">
   <button class="btn btn-link p-0 text-decoration-none view-more-btn-portfolio text-dark">
     View Details <i class="bi bi-arrow-right ms-1"></i>
@@ -482,10 +482,10 @@
                             </button>
                         </div>
                         <div class="card-body">
-                            <p class="text-muted mb-4">
+                            <!-- <p class="text-muted mb-4">
                                 Modern e-commerce platform with advanced filtering, payment integration, and inventory
                                 management.
-                            </p>
+                            </p> -->
 
                             <div class="mb-4">
                                 <h4 class="h6 fw-semibold mb-2">Technologies:</h4>
@@ -508,10 +508,10 @@
 
                             <div class="border-top pt-4">
                                 <div class="d-flex flex-wrap justify-content-between align-items-center">
-                                    <div>
+                                    <!-- <div>
                                         <p class="small fw-semibold text-accent mb-1">Results:</p>
                                         <p class="small text-muted mb-0">300% increase in online sales</p>
-                                    </div>
+                                    </div> -->
                                    <a href="https://bombaytrophies.co.in/" target="_blank" rel="noopener noreferrer">
   <button class="btn btn-link p-0 text-decoration-none view-more-btn-portfolio text-dark">
     View Details <i class="bi bi-arrow-right ms-1"></i>
@@ -542,10 +542,10 @@
                             </button>
                         </div>
                         <div class="card-body">
-                            <p class="text-muted mb-4">
+                            <!-- <p class="text-muted mb-4">
                                 Modern e-commerce platform with advanced filtering, payment integration, and inventory
                                 management.
-                            </p>
+                            </p> -->
 
                             <div class="mb-4">
                                 <h4 class="h6 fw-semibold mb-2">Technologies:</h4>
@@ -568,10 +568,10 @@
 
                             <div class="border-top pt-4">
                                 <div class="d-flex flex-wrap justify-content-between align-items-center">
-                                    <div>
+                                    <!-- <div>
                                         <p class="small fw-semibold text-accent mb-1">Results:</p>
                                         <p class="small text-muted mb-0">300% increase in online sales</p>
-                                    </div>
+                                    </div> -->
                                    <a href="https://bombaydental.com/" target="_blank" rel="noopener noreferrer">
   <button class="btn btn-link p-0 text-decoration-none view-more-btn-portfolio text-dark">
     View Details <i class="bi bi-arrow-right ms-1"></i>
@@ -603,10 +603,10 @@
                             </button>
                         </div>
                         <div class="card-body">
-                            <p class="text-muted mb-4">
+                            <!-- <p class="text-muted mb-4">
                                 Patient management system with appointment booking, medical records, and telemedicine
                                 features.
-                            </p>
+                            </p> -->
 
                             <div class="mb-4">
                                 <h4 class="h6 fw-semibold mb-2">Technologies:</h4>
@@ -629,10 +629,10 @@
 
                             <div class="border-top pt-4">
                                 <div class="d-flex flex-wrap justify-content-between align-items-center">
-                                    <div>
+                                    <!-- <div>
                                         <p class="small fw-semibold text-accent mb-1">Results:</p>
                                         <p class="small text-muted mb-0">500+ patients registered in first month</p>
-                                    </div>
+                                    </div> -->
                                    <a href="https://www.hvshospitals.com/" target="_blank" rel="noopener noreferrer">
   <button class="btn btn-link p-0 text-decoration-none view-more-btn-portfolio text-dark">
     View Details <i class="bi bi-arrow-right ms-1"></i>
@@ -662,10 +662,10 @@
                             </button>
                         </div>
                         <div class="card-body">
-                            <p class="text-muted mb-4">
+                            <!-- <p class="text-muted mb-4">
                                 Patient management system with appointment booking, medical records, and telemedicine
                                 features.
-                            </p>
+                            </p> -->
 
                             <div class="mb-4">
                                 <h4 class="h6 fw-semibold mb-2">Technologies:</h4>
@@ -688,10 +688,10 @@
 
                             <div class="border-top pt-4">
                                 <div class="d-flex flex-wrap justify-content-between align-items-center">
-                                    <div>
+                                    <!-- <div>
                                         <p class="small fw-semibold text-accent mb-1">Results:</p>
                                         <p class="small text-muted mb-0">500+ patients registered in first month</p>
-                                    </div>
+                                    </div> -->
                                    <a href="https://mednorrishealthcare.in/" target="_blank" rel="noopener noreferrer">
   <button class="btn btn-link p-0 text-decoration-none view-more-btn-portfolio text-dark">
     View Details <i class="bi bi-arrow-right ms-1"></i>
@@ -721,10 +721,10 @@
                             </button>
                         </div>
                         <div class="card-body">
-                            <p class="text-muted mb-4">
+                            <!-- <p class="text-muted mb-4">
                                 Patient management system with appointment booking, medical records, and telemedicine
                                 features.
-                            </p>
+                            </p> -->
 
                             <div class="mb-4">
                                 <h4 class="h6 fw-semibold mb-2">Technologies:</h4>
@@ -747,10 +747,10 @@
 
                             <div class="border-top pt-4">
                                 <div class="d-flex flex-wrap justify-content-between align-items-center">
-                                    <div>
+                                    <!-- <div>
                                         <p class="small fw-semibold text-accent mb-1">Results:</p>
                                         <p class="small text-muted mb-0">500+ patients registered in first month</p>
-                                    </div>
+                                    </div> -->
                                    <a href="https://rajeshdeshmukh.co.uk/" target="_blank" rel="noopener noreferrer">
   <button class="btn btn-link p-0 text-decoration-none view-more-btn-portfolio text-dark">
     View Details <i class="bi bi-arrow-right ms-1"></i>
@@ -781,10 +781,10 @@
                             </button>
                         </div>
                         <div class="card-body">
-                            <p class="text-muted mb-4">
+                            <!-- <p class="text-muted mb-4">
                                 Patient management system with appointment booking, medical records, and telemedicine
                                 features.
-                            </p>
+                            </p> -->
 
                             <div class="mb-4">
                                 <h4 class="h6 fw-semibold mb-2">Technologies:</h4>
@@ -807,10 +807,10 @@
 
                             <div class="border-top pt-4">
                                 <div class="d-flex flex-wrap justify-content-between align-items-center">
-                                    <div>
+                                    <!-- <div>
                                         <p class="small fw-semibold text-accent mb-1">Results:</p>
                                         <p class="small text-muted mb-0">500+ patients registered in first month</p>
-                                    </div>
+                                    </div> -->
                                    <a href="https://zellenedentalcare.com/" target="_blank" rel="noopener noreferrer">
   <button class="btn btn-link p-0 text-decoration-none view-more-btn-portfolio text-dark">
     View Details <i class="bi bi-arrow-right ms-1"></i>
@@ -842,10 +842,10 @@
                             </button>
                         </div>
                         <div class="card-body">
-                            <p class="text-muted mb-4">
+                            <!-- <p class="text-muted mb-4">
                                 Patient management system with appointment booking, medical records, and telemedicine
                                 features.
-                            </p>
+                            </p> -->
 
                             <div class="mb-4">
                                 <h4 class="h6 fw-semibold mb-2">Technologies:</h4>
@@ -868,10 +868,10 @@
 
                             <div class="border-top pt-4">
                                 <div class="d-flex flex-wrap justify-content-between align-items-center">
-                                    <div>
+                                    <!-- <div>
                                         <p class="small fw-semibold text-accent mb-1">Results:</p>
                                         <p class="small text-muted mb-0">500+ patients registered in first month</p>
-                                    </div>
+                                    </div> -->
                                    <a href="https://digitaldentalforum.com/Index.html" target="_blank" rel="noopener noreferrer">
   <button class="btn btn-link p-0 text-decoration-none view-more-btn-portfolio text-dark">
     View Details <i class="bi bi-arrow-right ms-1"></i>
@@ -902,10 +902,10 @@
                             </button>
                         </div>
                         <div class="card-body">
-                            <p class="text-muted mb-4">
+                            <!-- <p class="text-muted mb-4">
                                 Complete learning management system with course creation, progress tracking, and
                                 certificates.
-                            </p>
+                            </p> -->
 
                             <div class="mb-4">
                                 <h4 class="h6 fw-semibold mb-2">Technologies:</h4>
@@ -928,10 +928,10 @@
 
                             <div class="border-top pt-4">
                                 <div class="d-flex flex-wrap justify-content-between align-items-center">
-                                    <div>
+                                    <!-- <div>
                                         <p class="small fw-semibold text-accent mb-1">Results:</p>
                                         <p class="small text-muted mb-0">10,000+ students enrolled</p>
-                                    </div>
+                                    </div> -->
                                    <a href="https://attariclasses.in/" target="_blank" rel="noopener noreferrer">
   <button class="btn btn-link p-0 text-decoration-none view-more-btn-portfolio text-dark">
     View Details <i class="bi bi-arrow-right ms-1"></i>
@@ -961,10 +961,10 @@
                             </button>
                         </div>
                         <div class="card-body">
-                            <p class="text-muted mb-4">
+                            <!-- <p class="text-muted mb-4">
                                 Complete learning management system with course creation, progress tracking, and
                                 certificates.
-                            </p>
+                            </p> -->
 
                             <div class="mb-4">
                                 <h4 class="h6 fw-semibold mb-2">Technologies:</h4>
@@ -987,10 +987,10 @@
 
                             <div class="border-top pt-4">
                                 <div class="d-flex flex-wrap justify-content-between align-items-center">
-                                    <div>
+                                    <!-- <div>
                                         <p class="small fw-semibold text-accent mb-1">Results:</p>
                                         <p class="small text-muted mb-0">10,000+ students enrolled</p>
-                                    </div>
+                                    </div> -->
                                    <a href="https://octanetworks.com/" target="_blank" rel="noopener noreferrer">
   <button class="btn btn-link p-0 text-decoration-none view-more-btn-portfolio text-dark">
     View Details <i class="bi bi-arrow-right ms-1"></i>
@@ -1020,10 +1020,10 @@
                             </button>
                         </div>
                         <div class="card-body">
-                            <p class="text-muted mb-4">
+                            <!-- <p class="text-muted mb-4">
                                 Complete learning management system with course creation, progress tracking, and
                                 certificates.
-                            </p>
+                            </p> -->
 
                             <div class="mb-4">
                                 <h4 class="h6 fw-semibold mb-2">Technologies:</h4>
@@ -1046,10 +1046,10 @@
 
                             <div class="border-top pt-4">
                                 <div class="d-flex flex-wrap justify-content-between align-items-center">
-                                    <div>
+                                    <!-- <div>
                                         <p class="small fw-semibold text-accent mb-1">Results:</p>
                                         <p class="small text-muted mb-0">10,000+ students enrolled</p>
-                                    </div>
+                                    </div> -->
                                    <a href="https://hbtmc.edu.in/" target="_blank" rel="noopener noreferrer">
   <button class="btn btn-link p-0 text-decoration-none view-more-btn-portfolio text-dark">
     View Details <i class="bi bi-arrow-right ms-1"></i>
@@ -1080,10 +1080,10 @@
                             </button>
                         </div>
                         <div class="card-body">
-                            <p class="text-muted mb-4">
+                            <!-- <p class="text-muted mb-4">
                                 Complete learning management system with course creation, progress tracking, and
                                 certificates.
-                            </p>
+                            </p> -->
 
                             <div class="mb-4">
                                 <h4 class="h6 fw-semibold mb-2">Technologies:</h4>
@@ -1106,10 +1106,10 @@
 
                             <div class="border-top pt-4">
                                 <div class="d-flex flex-wrap justify-content-between align-items-center">
-                                    <div>
+                                    <!-- <div>
                                         <p class="small fw-semibold text-accent mb-1">Results:</p>
                                         <p class="small text-muted mb-0">10,000+ students enrolled</p>
-                                    </div>
+                                    </div> -->
                                    <a href="https://gnoa.in/" target="_blank" rel="noopener noreferrer">
   <button class="btn btn-link p-0 text-decoration-none view-more-btn-portfolio text-dark">
     View Details <i class="bi bi-arrow-right ms-1"></i>
@@ -1142,10 +1142,10 @@
                             </button>
                         </div>
                         <div class="card-body">
-                            <p class="text-muted mb-4">
+                            <!-- <p class="text-muted mb-4">
                                 Complete learning management system with course creation, progress tracking, and
                                 certificates.
-                            </p>
+                            </p> -->
 
                             <div class="mb-4">
                                 <h4 class="h6 fw-semibold mb-2">Technologies:</h4>
@@ -1168,10 +1168,10 @@
 
                             <div class="border-top pt-4">
                                 <div class="d-flex flex-wrap justify-content-between align-items-center">
-                                    <div>
+                                    <!-- <div>
                                         <p class="small fw-semibold text-accent mb-1">Results:</p>
                                         <p class="small text-muted mb-0">10,000+ students enrolled</p>
-                                    </div>
+                                    </div> -->
                                    <a href="https://cabin-crew-training.takeoff-aviation.in/" target="_blank" rel="noopener noreferrer">
   <button class="btn btn-link p-0 text-decoration-none view-more-btn-portfolio text-dark">
     View Details <i class="bi bi-arrow-right ms-1"></i>
@@ -1202,10 +1202,10 @@
                             </button>
                         </div>
                         <div class="card-body">
-                            <p class="text-muted mb-4">
+                            <!-- <p class="text-muted mb-4">
                                 Complete learning management system with course creation, progress tracking, and
                                 certificates.
-                            </p>
+                            </p> -->
 
                             <div class="mb-4">
                                 <h4 class="h6 fw-semibold mb-2">Technologies:</h4>
@@ -1228,10 +1228,10 @@
 
                             <div class="border-top pt-4">
                                 <div class="d-flex flex-wrap justify-content-between align-items-center">
-                                    <div>
+                                    <!-- <div>
                                         <p class="small fw-semibold text-accent mb-1">Results:</p>
                                         <p class="small text-muted mb-0">10,000+ students enrolled</p>
-                                    </div>
+                                    </div> -->
                                    <a href="https://amanagp.com/" target="_blank" rel="noopener noreferrer">
   <button class="btn btn-link p-0 text-decoration-none view-more-btn-portfolio text-dark">
     View Details <i class="bi bi-arrow-right ms-1"></i>
@@ -1263,9 +1263,9 @@
                             </button>
                         </div>
                         <div class="card-body">
-                            <p class="text-muted mb-4">
+                            <!-- <p class="text-muted mb-4">
                                 High-converting landing page with lead capture forms and conversion optimization.
-                            </p>
+                            </p> -->
 
                             <div class="mb-4">
                                 <h4 class="h6 fw-semibold mb-2">Technologies:</h4>
@@ -1288,10 +1288,10 @@
 
                             <div class="border-top pt-4">
                                 <div class="d-flex flex-wrap justify-content-between align-items-center">
-                                    <div>
+                                    <!-- <div>
                                         <p class="small fw-semibold text-accent mb-1">Results:</p>
                                         <p class="small text-muted mb-0">85% conversion rate improvement</p>
-                                    </div>
+                                    </div> -->
                                   <a href="https://www.vallum.in/" target="_blank" rel="noopener noreferrer">
   <button class="btn btn-link p-0 text-decoration-none view-more-btn-portfolio text-dark">
     View Details <i class="bi bi-arrow-right ms-1"></i>
@@ -1321,9 +1321,9 @@
                             </button>
                         </div>
                         <div class="card-body">
-                            <p class="text-muted mb-4">
+                            <!-- <p class="text-muted mb-4">
                                 High-converting landing page with lead capture forms and conversion optimization.
-                            </p>
+                            </p> -->
 
                             <div class="mb-4">
                                 <h4 class="h6 fw-semibold mb-2">Technologies:</h4>
@@ -1346,10 +1346,10 @@
 
                             <div class="border-top pt-4">
                                 <div class="d-flex flex-wrap justify-content-between align-items-center">
-                                    <div>
+                                    <!-- <div>
                                         <p class="small fw-semibold text-accent mb-1">Results:</p>
                                         <p class="small text-muted mb-0">85% conversion rate improvement</p>
-                                    </div>
+                                    </div> -->
                                   <a href="https://www.lawtendo.com/" target="_blank" rel="noopener noreferrer">
   <button class="btn btn-link p-0 text-decoration-none view-more-btn-portfolio text-dark">
     View Details <i class="bi bi-arrow-right ms-1"></i>
@@ -1379,9 +1379,9 @@
                             </button>
                         </div>
                         <div class="card-body">
-                            <p class="text-muted mb-4">
+                            <!-- <p class="text-muted mb-4">
                                 High-converting landing page with lead capture forms and conversion optimization.
-                            </p>
+                            </p> -->
 
                             <div class="mb-4">
                                 <h4 class="h6 fw-semibold mb-2">Technologies:</h4>
@@ -1404,10 +1404,10 @@
 
                             <div class="border-top pt-4">
                                 <div class="d-flex flex-wrap justify-content-between align-items-center">
-                                    <div>
+                                    <!-- <div>
                                         <p class="small fw-semibold text-accent mb-1">Results:</p>
                                         <p class="small text-muted mb-0">85% conversion rate improvement</p>
-                                    </div>
+                                    </div> -->
                                   <a href="https://atyafalmajd.com/" target="_blank" rel="noopener noreferrer">
   <button class="btn btn-link p-0 text-decoration-none view-more-btn-portfolio text-dark">
     View Details <i class="bi bi-arrow-right ms-1"></i>
@@ -1437,9 +1437,9 @@
                             </button>
                         </div>
                         <div class="card-body">
-                            <p class="text-muted mb-4">
+                            <!-- <p class="text-muted mb-4">
                                 High-converting landing page with lead capture forms and conversion optimization.
-                            </p>
+                            </p> -->
 
                             <div class="mb-4">
                                 <h4 class="h6 fw-semibold mb-2">Technologies:</h4>
@@ -1460,10 +1460,10 @@
 
                             <div class="border-top pt-4">
                                 <div class="d-flex flex-wrap justify-content-between align-items-center">
-                                    <div>
+                                    <!-- <div>
                                         <p class="small fw-semibold text-accent mb-1">Results:</p>
                                         <p class="small text-muted mb-0">85% conversion rate improvement</p>
-                                    </div>
+                                    </div> -->
                                   <a href="https://cabin-crew-training.takeoff-aviation.in/" target="_blank" rel="noopener noreferrer">
   <button class="btn btn-link p-0 text-decoration-none view-more-btn-portfolio text-dark">
     View Details <i class="bi bi-arrow-right ms-1"></i>
@@ -1494,9 +1494,9 @@
                             </button>
                         </div>
                         <div class="card-body">
-                            <p class="text-muted mb-4">
+                            <!-- <p class="text-muted mb-4">
                                 High-converting landing page with lead capture forms and conversion optimization.
-                            </p>
+                            </p> -->
 
                             <div class="mb-4">
                                 <h4 class="h6 fw-semibold mb-2">Technologies:</h4>
@@ -1519,10 +1519,10 @@
 
                             <div class="border-top pt-4">
                                 <div class="d-flex flex-wrap justify-content-between align-items-center">
-                                    <div>
+                                    <!-- <div>
                                         <p class="small fw-semibold text-accent mb-1">Results:</p>
                                         <p class="small text-muted mb-0">85% conversion rate improvement</p>
-                                    </div>
+                                    </div> -->
                                   <a href="https://www.hvshospitals.com/" target="_blank" rel="noopener noreferrer">
   <button class="btn btn-link p-0 text-decoration-none view-more-btn-portfolio text-dark">
     View Details <i class="bi bi-arrow-right ms-1"></i>
@@ -1554,9 +1554,9 @@
                             </button>
                         </div>
                         <div class="card-body">
-                            <p class="text-muted mb-4">
+                            <!-- <p class="text-muted mb-4">
                                 High-converting landing page with lead capture forms and conversion optimization.
-                            </p>
+                            </p> -->
 
                             <div class="mb-4">
                                 <h4 class="h6 fw-semibold mb-2">Technologies:</h4>
@@ -1579,10 +1579,10 @@
 
                             <div class="border-top pt-4">
                                 <div class="d-flex flex-wrap justify-content-between align-items-center">
-                                    <div>
+                                    <!-- <div>
                                         <p class="small fw-semibold text-accent mb-1">Results:</p>
                                         <p class="small text-muted mb-0">85% conversion rate improvement</p>
-                                    </div>
+                                    </div> -->
                                   <a href="https://chemist-nearme.co.uk/" target="_blank" rel="noopener noreferrer">
   <button class="btn btn-link p-0 text-decoration-none view-more-btn-portfolio text-dark">
     View Details <i class="bi bi-arrow-right ms-1"></i>
@@ -1616,9 +1616,9 @@
                             </button>
                         </div>
                         <div class="card-body">
-                            <p class="text-muted mb-4">
+                            <!-- <p class="text-muted mb-4">
                                 Professional corporate website with multi-language support and content management.
-                            </p>
+                            </p> -->
 
                             <div class="mb-4">
                                 <h4 class="h6 fw-semibold mb-2">Technologies:</h4>
@@ -1641,10 +1641,10 @@
 
                             <div class="border-top pt-4">
                                 <div class="d-flex flex-wrap justify-content-between align-items-center">
-                                    <div>
+                                    <!-- <div>
                                         <p class="small fw-semibold text-accent mb-1">Results:</p>
                                         <p class="small text-muted mb-0">200% increase in business inquiries</p>
-                                    </div>
+                                    </div> -->
                                    <a href="https://www.ahlawatassociates.com/" target="_blank" rel="noopener noreferrer">
   <button class="btn btn-link p-0 text-decoration-none view-more-btn-portfolio text-dark">
     View Details <i class="bi bi-arrow-right ms-1"></i>
@@ -1674,9 +1674,9 @@
                             </button>
                         </div>
                         <div class="card-body">
-                            <p class="text-muted mb-4">
+                            <!-- <p class="text-muted mb-4">
                                 Professional corporate website with multi-language support and content management.
-                            </p>
+                            </p> -->
 
                             <div class="mb-4">
                                 <h4 class="h6 fw-semibold mb-2">Technologies:</h4>
@@ -1699,10 +1699,10 @@
 
                             <div class="border-top pt-4">
                                 <div class="d-flex flex-wrap justify-content-between align-items-center">
-                                    <div>
+                                    <!-- <div>
                                         <p class="small fw-semibold text-accent mb-1">Results:</p>
                                         <p class="small text-muted mb-0">200% increase in business inquiries</p>
-                                    </div>
+                                    </div> -->
                                    <a href="https://ringnetworks.in/" target="_blank" rel="noopener noreferrer">
   <button class="btn btn-link p-0 text-decoration-none view-more-btn-portfolio text-dark">
     View Details <i class="bi bi-arrow-right ms-1"></i>
@@ -1732,9 +1732,9 @@
                             </button>
                         </div>
                         <div class="card-body">
-                            <p class="text-muted mb-4">
+                            <!-- <p class="text-muted mb-4">
                                 Professional corporate website with multi-language support and content management.
-                            </p>
+                            </p> -->
 
                             <div class="mb-4">
                                 <h4 class="h6 fw-semibold mb-2">Technologies:</h4>
@@ -1757,10 +1757,10 @@
 
                             <div class="border-top pt-4">
                                 <div class="d-flex flex-wrap justify-content-between align-items-center">
-                                    <div>
+                                    <!-- <div>
                                         <p class="small fw-semibold text-accent mb-1">Results:</p>
                                         <p class="small text-muted mb-0">200% increase in business inquiries</p>
-                                    </div>
+                                    </div> -->
                                    <a href="https://sieindia.com/" target="_blank" rel="noopener noreferrer">
   <button class="btn btn-link p-0 text-decoration-none view-more-btn-portfolio text-dark">
     View Details <i class="bi bi-arrow-right ms-1"></i>
@@ -1790,9 +1790,9 @@
                             </button>
                         </div>
                         <div class="card-body">
-                            <p class="text-muted mb-4">
+                            <!-- <p class="text-muted mb-4">
                                 High-converting landing page with lead capture forms and conversion optimization.
-                            </p>
+                            </p> -->
 
                             <div class="mb-4">
                                 <h4 class="h6 fw-semibold mb-2">Technologies:</h4>
@@ -1815,10 +1815,10 @@
 
                             <div class="border-top pt-4">
                                 <div class="d-flex flex-wrap justify-content-between align-items-center">
-                                    <div>
+                                    <!-- <div>
                                         <p class="small fw-semibold text-accent mb-1">Results:</p>
                                         <p class="small text-muted mb-0">85% conversion rate improvement</p>
-                                    </div>
+                                    </div> -->
                                   <a href="https://www.vallum.in/" target="_blank" rel="noopener noreferrer">
   <button class="btn btn-link p-0 text-decoration-none view-more-btn-portfolio text-dark">
     View Details <i class="bi bi-arrow-right ms-1"></i>
@@ -1848,10 +1848,10 @@
                             </button>
                         </div>
                         <div class="card-body">
-                            <p class="text-muted mb-4">
+                            <!-- <p class="text-muted mb-4">
                                 Modern e-commerce platform with advanced filtering, payment integration, and inventory
                                 management.
-                            </p>
+                            </p> -->
 
                             <div class="mb-4">
                                 <h4 class="h6 fw-semibold mb-2">Technologies:</h4>
@@ -1874,10 +1874,10 @@
 
                             <div class="border-top pt-4">
                                 <div class="d-flex flex-wrap justify-content-between align-items-center">
-                                    <div>
+                                    <!-- <div>
                                         <p class="small fw-semibold text-accent mb-1">Results:</p>
                                         <p class="small text-muted mb-0">300% increase in online sales</p>
-                                    </div>
+                                    </div> -->
                                    <a href="https://bombaydental.com/" target="_blank" rel="noopener noreferrer">
   <button class="btn btn-link p-0 text-decoration-none view-more-btn-portfolio text-dark">
     View Details <i class="bi bi-arrow-right ms-1"></i>
@@ -1908,9 +1908,9 @@
                             </button>
                         </div>
                         <div class="card-body">
-                            <p class="text-muted mb-4">
+                            <!-- <p class="text-muted mb-4">
                                 Professional corporate website with multi-language support and content management.
-                            </p>
+                            </p> -->
 
                             <div class="mb-4">
                                 <h4 class="h6 fw-semibold mb-2">Technologies:</h4>
@@ -1933,10 +1933,10 @@
 
                             <div class="border-top pt-4">
                                 <div class="d-flex flex-wrap justify-content-between align-items-center">
-                                    <div>
+                                    <!-- <div>
                                         <p class="small fw-semibold text-accent mb-1">Results:</p>
                                         <p class="small text-muted mb-0">200% increase in business inquiries</p>
-                                    </div>
+                                    </div> -->
                                    <a href="https://sieindia.com/" target="_blank" rel="noopener noreferrer">
   <button class="btn btn-link p-0 text-decoration-none view-more-btn-portfolio text-dark">
     View Details <i class="bi bi-arrow-right ms-1"></i>
@@ -1967,9 +1967,9 @@
                             </button>
                         </div>
                         <div class="card-body">
-                            <p class="text-muted mb-4">
+                            <!-- <p class="text-muted mb-4">
                                 Professional corporate website with multi-language support and content management.
-                            </p>
+                            </p> -->
 
                             <div class="mb-4">
                                 <h4 class="h6 fw-semibold mb-2">Technologies:</h4>
@@ -1992,10 +1992,10 @@
 
                             <div class="border-top pt-4">
                                 <div class="d-flex flex-wrap justify-content-between align-items-center">
-                                    <div>
+                                    <!-- <div>
                                         <p class="small fw-semibold text-accent mb-1">Results:</p>
                                         <p class="small text-muted mb-0">200% increase in business inquiries</p>
-                                    </div>
+                                    </div> -->
                                    <a href="https://cabin-crew-training.takeoff-aviation.in/" target="_blank" rel="noopener noreferrer">
   <button class="btn btn-link p-0 text-decoration-none view-more-btn-portfolio text-dark">
     View Details <i class="bi bi-arrow-right ms-1"></i>
@@ -2025,9 +2025,9 @@
                             </button>
                         </div>
                         <div class="card-body">
-                            <p class="text-muted mb-4">
+                            <!-- <p class="text-muted mb-4">
                                 Fashion e-commerce with virtual try-on, size recommendations, and social integration.
-                            </p>
+                            </p> -->
 
                             <div class="mb-4">
                                 <h4 class="h6 fw-semibold mb-2">Technologies:</h4>
@@ -2050,10 +2050,10 @@
 
                             <div class="border-top pt-4">
                                 <div class="d-flex flex-wrap justify-content-between align-items-center">
-                                    <div>
+                                    <!-- <div>
                                         <p class="small fw-semibold text-accent mb-1">Results:</p>
                                         <p class="small text-muted mb-0">400% increase in customer engagement</p>
-                                    </div>
+                                    </div> -->
                                     <a href="https://gazaliperfume.com/" target="_blank" rel="noopener noreferrer">
   <button class="btn btn-link p-0 text-decoration-none view-more-btn-portfolio text-dark">
     View Details <i class="bi bi-arrow-right ms-1"></i>
